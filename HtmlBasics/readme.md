@@ -21,3 +21,7 @@
 ### 6. Usage of form tag
 
 ![](./Output/6.forms%20.jpg)
+
+### 7. Usage of formatting tag
+
+![](./Output/7.formatting%20.jpg)
