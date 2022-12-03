@@ -14,6 +14,10 @@
 
 ![](./Output/4.lists%20.jpg)
 
-### 4. Usage of Table and making school timetable
+### 5. Usage of Table and making school timetable
 
 ![](./Output/5.schoolTimetable.jpg)
+
+### 6. Usage of form tag
+
+![](./Output/6.forms%20.jpg)
