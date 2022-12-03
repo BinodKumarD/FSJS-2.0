@@ -1,7 +1,11 @@
-### Using of Heading Tags
+### Usage of Heading Tags
 
-![](./Output/heading%20.jpg)
+![](./Output/1.heading%20.jpg)
 
-### Using of Paragraph Tags
+### Usage of Paragraph Tags
 
-![](./Output/paragraph%20.jpg)
+![](./Output/2.paragraph%20.jpg)
+
+### Usage of Paragraph Tags
+
+![](./Output/3.image%26anchor.jpg)
