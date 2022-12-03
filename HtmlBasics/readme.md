@@ -25,3 +25,7 @@
 ### 7. Usage of formatting tag
 
 ![](./Output/7.formatting%20.jpg)
+
+### 8. Usage of Citation
+
+![](./Output/8.citation.jpg)
