@@ -1,6 +1,6 @@
 # Table of Contents
-1. [HTML Basics](#HTML Basics)
+[HTML Basics](#HtmlBasics)
 
-## HTML Basics
+## HTML Basics<a name="HtmlBasics"></a>
 
 [Check it out](HtmlBasics/readme.md)
