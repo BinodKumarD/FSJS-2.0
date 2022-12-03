@@ -13,3 +13,7 @@
 ### 4. Usage of List Tags
 
 ![](./Output/4.lists%20.jpg)
+
+### 4. Usage of Table and making school timetable
+
+![](./Output/5.schoolTimetable.jpg)
