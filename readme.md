@@ -3,4 +3,4 @@
 
 ## HTML Basics<a name="HtmlBasics"></a>
 
-[Check it out](HtmlBasics/readme.md)
+[Check it out](2.%20Html%20Basics/readme.md)
