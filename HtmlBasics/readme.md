@@ -9,6 +9,7 @@
 8. [Citation Tags](#citation)
 9. [Classes and Id attributes](#classes)
 10. [Inline and Block elements](#inline)
+11. [Entities](#entities)
 
 ### 1. Heading Tags<a name="heading"></a>
 
@@ -38,7 +39,7 @@
 
 ![](./Output/7.formatting%20.jpg)
 
-### 8. Citation Tags<a name="Citation"></a>
+### 8. Citation Tags<a name="citation"></a>
 
 ![](./Output/8.citation.jpg)
 
@@ -49,3 +50,7 @@
 ### 10. Inline and block elements<a name="inline"></a>
 
 ![](./Output/10.inline%26block.jpg)
+
+### 11. Entities<a name="entities"></a>
+
+![](./Output/11.entities.jpg)
