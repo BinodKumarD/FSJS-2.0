@@ -6,14 +6,6 @@
 
 ## 1. Padding And Margin<a name="padding"></a>
 
-![](./Output/1.PaddingMargin.jpg)
-
-<hr/>
-
-<hr/>
-
-## 2. Fonts<a name="fonts"></a>
-
-![](./Output/2.fonts.jpg)
+[](./Output/PaddingMargin.jpg)
 
 <hr/>
