@@ -29,3 +29,7 @@
 ### 8. Usage of Citation
 
 ![](./Output/8.citation.jpg)
+
+### 8. Usage of Classes and id
+
+![](./Output/9.Classes%26id.jpg)
