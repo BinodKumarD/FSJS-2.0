@@ -5,6 +5,6 @@
 
 ## 1. Padding And Margin<a name="padding"></a>
 
-[](./Output/PaddingMargin.jpg)
+![](./Output/PaddingMargin.jpg)
 
 <hr/>
