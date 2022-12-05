@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borders</title>
+    <style>
+        p{
+            width: 500px;
+            height: 100px;
+        }
+
+        h2{
+            color:rgb(225, 158, 35)
+        }
+        #first{
+            background-color: #5d5dee;
+            /* border-width: 3px;
+            border-style: solid;
+            border-color: #f84848; */
+            border: 3px solid #f84848;
+            border-radius: 10px;
+        }
+        #second{
+            background-color: #51c9f8;
+            border-top: 4px solid hwb(120 3% 62%);
+            border-left: 4px 
+            dotted #df2140;
+            border-bottom: 4px solid #000000;
+            border-right: 4px inset #ffff00;
+            border-top-left-radius: 10px;
+            border-bottom-left-radius: 40px;
+        }
+        #third{
+            background-image: url(https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+            color: #fff;
+            font-size: 20px;
+            border: 4px solid #26b70d;
+            background-position: center;
+        }
+    </style>
+</head>
+<body>
+    <h2>This is first heading</h2>
+    <p id="first">This is paragraph</p>
+
+    <h2>This is second heading</h2>
+    <p id="second">This is second paragraph</p>
+
+    <h2>This is third heading</h2>
+    <p id="third">This is third paragraph</p>
+
+</body>
+</html>
