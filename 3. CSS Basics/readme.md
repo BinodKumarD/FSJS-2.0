@@ -3,6 +3,7 @@
 2. [Fonts](#fonts)
 3. [Colors](#colors)
 4. [Borders And Background](#borders)
+5. [Float, clear and Alignment](#float)
 
 <hr/>
 
@@ -27,5 +28,11 @@
 ## 4. Borders And Background<a name="borders"></a>
 
 ![](./Output/4.borders.jpg)
+
+<hr/>
+
+## 5. Float, clear and Alignment<a name="float"></a>
+
+![](./Output/5.alignment.jpg)
 
 <hr/>
