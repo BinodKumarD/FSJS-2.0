@@ -76,3 +76,11 @@ Elements are then positioned using the top, bottom, left, and right properties. 
 ![](./Output/7.Posititons.jpg)
 
 <hr/>
+
+## 8. Visibility<a name="visibility"></a>
+
+The visibility property specifies whether or not an element is visible. Visbility hides the element but will show its empty space whereas Display: none hides the element and the space.z-index will work only for position: relative, absolute, fixed or sticky. z-index does not work on static position. With the help of z-index we can specify the preference of one element over the other element.  
+
+![](./Output/8.Visibility.jpg)
+
+<hr/>
