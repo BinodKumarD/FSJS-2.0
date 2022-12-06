@@ -36,3 +36,9 @@
 ![](./Output/5.alignment.jpg)
 
 <hr/>
+
+## 5. Display Properties<a name="display"></a>
+
+![](./Output/6.Display.jpg)
+
+<hr/>
