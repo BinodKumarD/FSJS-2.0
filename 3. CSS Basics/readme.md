@@ -97,14 +97,14 @@ Flex properties on flex container:
 2. **flex-wrap**: wrap, no-wrap, wrap-reverse (by default no wrap),
 wrapping the items in the container.
 3. **flex-flow**: short hand of flex-direction and flex-wrap.
-4. **justify-content: center, space-between, space-evenly, space-around,
+4. **justify-content**: center, space-between, space-evenly, space-around,
 it will justify the elements in horizontal direction.
 5. **align-items**: center, flex-end, flex-start, center,
 it will justify content in vertical direction.
 
 Flex properties on flex items:
 1. **order**: higher the order later it shows up in the container.
-2. **flex-grow: specifies how much the item will grow relative to the rest of the flexible items inside the same container.
+2. **flex-grow**: specifies how much the item will grow relative to the rest of the flexible items inside the same container.
 3. **flex-shrink**: specifies how much the item will shrink relative to the rest of the flexible items inside the same container.
 4. **flex-basis**: when flex-direction is set to row flex basis will control the width and if the flex-direction is column it will control height.
 5. **align-self**: flex-end, flex-start, center,
