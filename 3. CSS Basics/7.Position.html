@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positions</title>
+    <style>
+        .container{
+            border: 5px solid #f1b11d;
+            background-color: #a4efe1;
+            height: 1500px;
+        }
+
+        .box{
+            border: 5px solid #238323;
+            padding:5px;
+            margin: 10px;
+            width: 130px;
+            height: 130px;
+            display: inline-block;
+        }
+
+        p{
+            text-align: center;
+            font-size: 20px;
+        }
+
+        /* Postitions: static(by default), relative, absolute, fixed,sticky */
+
+        #box1{
+            /* relative: The element will reltaive to its normal position a;and leave a gap at its normal positon*/
+
+            position: relative;
+            top: 155px;
+            left: 30px;
+        }
+
+        #box2{
+            /* absolute: the element relative to the position of its parent */
+
+            position: absolute ;
+            left: 25px;
+            top: 20px;
+        }
+
+        #box3{
+            /* fixed:The elmenent relative to its browser window  */
+            position:fixed;
+            right: 10px;
+            bottom: 10px;
+        }
+
+        #box4{
+            position: sticky;
+            top: 3px;
+    
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box" id="box1">
+            <p>Box1</p>
+        </div>
+        <div class="box" id="box2">
+            <p>Box2</p>
+        </div>
+        <div class="box" id="box3">
+            <p>Box3</p>
+        </div>
+        <div class="box" id="box4">
+            <p>Box4</p>
+        </div>
+        <div class="box" id="box5">
+            <p>Box5</p>
+        </div>
+    </div>
+</body>
+</html>
