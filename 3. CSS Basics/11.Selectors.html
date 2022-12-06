@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Selectors</title>
+    <style>
+        /* Universal Selector  */
+        *{
+            color:#ffffff;
+            background-color: rgb(43, 190, 219);
+        }
+
+        /* giving borders to div */
+        div{
+            border: 2px solid  #000000;
+            margin: 10px;
+            padding: 10px;
+            width: 45vw;
+            height: 200px;
+        }
+         
+        /* giving flex to full containter */
+        .selectors{
+            width: 95vw;
+            height: 100vh;
+            display: flex;
+            flex-flow: column wrap;
+            
+        }
+
+        /* type selector  */
+
+        .type h3{
+            color: #ff0000;
+        }
+        .type p{
+            color: #000000;
+            background-color: rgb(243, 197, 81);
+        }
+
+        /* class and id selector  */
+        #heading{
+            color: rgb(79, 25, 57);
+        }
+        .para{
+            color: rgb(20, 20, 155);
+        }
+
+        /* child combinator  */
+        #list> p{
+            background-color: rgb(243, 89, 89);
+            color:#650b75;
+        }
+
+        #list>h3{
+            color:#ff0000;
+            background-color: #fff;
+        }
+
+        /* sibling seletor  */
+       #sibling> h3+p{
+            background-color: #000000;
+        }
+    </style>
+</head>
+<body>
+    <div class="selectors">
+        <div class="universal">
+            <h3>This is universal Selectors</h3>
+            <p>This is first paragraph</p>
+            <p>This is second paragraph</p>
+            <p>This is third paragraph</p>
+        </div>
+        
+        <div class="type">
+            <h3>This is Type Selectors</h3>
+            <p>This is first paragraph</p>
+            <p>This is second paragraph</p>
+            <p>This is third paragraph</p>
+        </div>
+
+        <div class="classid">
+            <h3 id="heading">This is Class and Id Selectors</h3>
+            <p class="para">This is first paragraph</p>
+            <p class="para">This is second paragraph</p>
+            <p class="para">This is third paragraph</p>
+        </div>
+
+        <div class="Selectorlist" id="list">
+            <h3>This is child combinators</h3>
+            <p>This is first paragraph</p>
+            <p>This is second paragraph</p>
+            <p>This is third paragraph</p>
+        </div>
+
+        <div id="sibling">
+            <h3>This is sibling combinators</h3>
+            <p>This is first paragraph</p>
+            <p>This is second paragraph</p>
+            <p>This is third paragraph</p>
+        </div>
+
+    </div>
+    
+</body>
+</html>

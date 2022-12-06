@@ -9,6 +9,7 @@
 8. [Visibility and z-index](#visibility)
 9. [Flexbox](#flexbox)
 10. [Size units](#size)
+11. [Selectors](#selectors)
 
 <hr/>
 
@@ -123,5 +124,15 @@ Absolute length units are based on an actual physical unit, and are generally co
 Here are some common absolute length units in CSS are: px, rem, em, vh and vw
 
 ![](./Output/10.sizeunits.jpg)
+
+<hr/>
+
+## 11. Selectors<a name="selectors"></a>
+
+CSS selectors define the pattern to select elements to which a set of CSS rules are then applied. Selectors can be grouped into the following categories based on the type of elements they can select.
+
+Various types of selectors are: universal selctor, type selector, class and id selector, child combinator and so on.
+
+![](./Output/11.Selectors.jpg)
 
 <hr/>
