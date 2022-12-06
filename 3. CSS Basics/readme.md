@@ -10,6 +10,7 @@
 9. [Flexbox](#flexbox)
 10. [Size units](#size)
 11. [Selectors](#selectors)
+12. [Attribute and n-th child selector](#attribute)
 
 <hr/>
 
@@ -134,5 +135,13 @@ CSS selectors define the pattern to select elements to which a set of CSS rules 
 Various types of selectors are: universal selctor, type selector, class and id selector, child combinator and so on.
 
 ![](./Output/11.Selectors.jpg)
+
+<hr/>
+
+## 12. Attribute and n-th child selector<a name="attribute"></a>
+
+It is possible to style HTML elements that have specific attributes or attribute values. The [attribute] selector is used to select elements with a specified attribute.The :nth-child() CSS pseudo-class matches elements based on their position among a group of siblings. 
+
+![](./Output/12.Attribute.jpg)
 
 <hr/>
