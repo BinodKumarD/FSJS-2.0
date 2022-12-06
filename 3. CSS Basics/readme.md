@@ -6,6 +6,8 @@
 5. [Float, clear and Alignment](#float)
 6. [Display Properties](#display)
 7. [Positions](#positions)
+8. [Visibility and z-index](#visibility)
+9. [Flexbox](#flexbox)
 
 <hr/>
 
@@ -77,10 +79,38 @@ Elements are then positioned using the top, bottom, left, and right properties. 
 
 <hr/>
 
-## 8. Visibility<a name="visibility"></a>
+## 8. Visibility and z-index<a name="visibility"></a>
 
 The visibility property specifies whether or not an element is visible. Visbility hides the element but will show its empty space whereas Display: none hides the element and the space.z-index will work only for position: relative, absolute, fixed or sticky. z-index does not work on static position. With the help of z-index we can specify the preference of one element over the other element.  
 
 ![](./Output/8.Visibility.jpg)
+
+<hr/>
+
+## 9. Flexbox<a name="flexbox"></a>
+
+Flexbox is a one-dimensional layout method for laying out items in rows or columns. Css flexbox is a better way to align items into a container.
+(Flexbox = flexible + box)
+
+Flex properties on flex container:
+1. **flex-driection**: row, column, row-reverse, column-reverse (by default row).
+2. **flex-wrap**: wrap, no-wrap, wrap-reverse (by default no wrap),
+wrapping the items in the container.
+3. **flex-flow**: short hand of flex-direction and flex-wrap.
+4. **justify-content: center, space-between, space-evenly, space-around,
+it will justify the elements in horizontal direction.
+5. **align-items**: center, flex-end, flex-start, center,
+it will justify content in vertical direction.
+
+Flex properties on flex items:
+1. **order**: higher the order later it shows up in the container.
+2. **flex-grow: specifies how much the item will grow relative to the rest of the flexible items inside the same container.
+3. **flex-shrink**: specifies how much the item will shrink relative to the rest of the flexible items inside the same container.
+4. **flex-basis**: when flex-direction is set to row flex basis will control the width and if the flex-direction is column it will control height.
+5. **align-self**: flex-end, flex-start, center,
+align the particular element in vertical direction.
+6. **flex**: short-hand of flex-grow flex-shrink and flex-basis.
+
+![](./Output/9.Flexbox.jpg)
 
 <hr/>
