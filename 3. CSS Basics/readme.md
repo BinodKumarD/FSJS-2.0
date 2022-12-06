@@ -8,6 +8,7 @@
 7. [Positions](#positions)
 8. [Visibility and z-index](#visibility)
 9. [Flexbox](#flexbox)
+10. [Size units](#size)
 
 <hr/>
 
@@ -112,5 +113,15 @@ align the particular element in vertical direction.
 6. **flex**: short-hand of flex-grow flex-shrink and flex-basis.
 
 ![](./Output/9.Flexbox.jpg)
+
+<hr/>
+
+## 10. Size Units<a name="size"></a>
+
+Absolute length units are based on an actual physical unit, and are generally considered to be the same size across devices. However, depending on your screen size and quality, or settings in your browser or OS, there may be some exceptions.
+
+Here are some common absolute length units in CSS are: px, rem, em, vh and vw
+
+![](./Output/10.sizeunits.jpg)
 
 <hr/>
