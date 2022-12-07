@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box shadow and text shadow</title>
+    <style>
+        .container {
+            display: flex;
+        }
+
+        .card {
+            padding: 23px 12px;
+            margin: 23px 13px;
+            /* border: 2px solid #81e447; */
+            background-color: #e3693d;
+            /* box-shadow: offset-x offset-y color;
+            box-shadow: offset-x offset-y blur-radius color;
+            box-shadow: offset-x offset-y blur-radius spread-radius color; */
+
+            /* box-shadow: 10px 10px #69de69; */
+            /* box-shadow: -10px -10px 5px #69de69; */
+            box-shadow: -10px -10px 5px 3px #69de69;
+            box-shadow: inset 10px 10px green;
+        }
+
+        .card h2{
+            text-shadow: 2px 2px 2px rgb(243, 245, 250);
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card" id="card-1">
+            <h2>HTML</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam dignissimos similique nihil
+                reprehenderit excepturi asperiores iusto, quo id quos consectetur itaque eaque. Laborum assumenda
+                quibusdam consequatur similique! Eius, et aspernatur in totam quidem incidunt beatae distinctio fuga
+                quos quam!</p>
+        </div>
+        <div class="card" id="card-2">
+            <h2>CSS</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam dignissimos similique nihil
+                reprehenderit excepturi asperiores iusto, quo id quos consectetur itaque eaque. Laborum assumenda
+                quibusdam consequatur similique! Eius, et aspernatur in totam quidem incidunt beatae distinctio fuga
+                quos quam!</p>
+        </div>
+        <div class="card" id="card-3">
+            <h2>Talwind</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laboriosam dignissimos similique nihil
+                reprehenderit excepturi asperiores iusto, quo id quos consectetur itaque eaque. Laborum assumenda
+                quibusdam consequatur similique! Eius, et aspernatur in totam quidem incidunt beatae distinctio fuga
+                quos quam!</p>
+        </div>
+    </div>
+</body>
+
+</html>

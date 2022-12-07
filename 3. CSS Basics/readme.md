@@ -9,9 +9,10 @@
 8. [Visibility and z-index](#visibility)
 9. [Flexbox](#flexbox)
 10. [Size units](#size)
-11. [Selectors](#sele ctors)
+11. [Selectors](#selectors)
 12. [Attribute and n-th child selector](#attribute)
 13. [Pseudo class Selector](#pseudo)
+14. [Box shadow and Text shadow](#shadow)
 
 <hr/>
 
@@ -152,5 +153,13 @@ It is possible to style HTML elements that have specific attributes or attribute
 Pseudo classes are useful in defining the special state to any element or using ::before and ::after pseudo class selectors we can add add content to our web page without changing in html page.
 
 ![](./Output/13.pseudo.jpg)
+
+<hr/>
+
+## 14. Box shadow and text shadow<a name="shadow"></a>
+
+Using css we can add shadow to the box as well as on text. shadow can be implement as offset and inset. Parameters on which shadow can be done are : x-axis, y-axis, blur-radius, spread-radius, and color.
+
+![](./Output/14.boxshadow.jpg)
 
 <hr/>
