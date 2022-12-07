@@ -19,6 +19,7 @@
   - [17. Transitions](#17-transitions)
   - [18. Transform](#18-transform)
   - [19. Grid](#19-grid)
+  - [20. Grid Template Area](#20-grid-template-area)
 
 <hr/>
 
@@ -211,3 +212,9 @@ Like tables, grid layout enables an author to align elements into columns and ro
 ![](Output/19.Grid.jpg)
 
 <hr/>
+
+## 20. Grid Template Area
+
+The grid-template-areas CSS property specifies named grid areas, establishing the cells in the grid and assigning them names. This helps us in creating the page layouts and in many ways.
+
+![](Output/20.GridTemplate.jpg)
