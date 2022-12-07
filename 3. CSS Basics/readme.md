@@ -1,19 +1,21 @@
 # Table of Contents
-1. [Padding And Margin](#padding)
-2. [Fonts](#fonts)
-3. [Colors](#colors)
-4. [Borders And Background](#borders)
-5. [Float, clear and Alignment](#float)
-6. [Display Properties](#display)
-7. [Positions](#positions)
-8. [Visibility and z-index](#visibility)
-9. [Flexbox](#flexbox)
-10. [Size units](#size)
-11. [Selectors](#selectors)
-12. [Attribute and n-th child selector](#attribute)
-13. [Pseudo class Selector](#pseudo)
-14. [Box shadow and Text shadow](#shadow)
-15. [Variables in css](#variables)
+- [Table of Contents](#table-of-contents)
+  - [1. Padding And Margin](#1-padding-and-margin)
+  - [2. Fonts](#2-fonts)
+  - [3. Colors](#3-colors)
+  - [4. Borders And Background](#4-borders-and-background)
+  - [5. Float, clear and Alignment](#5-float-clear-and-alignment)
+  - [6. Display Properties](#6-display-properties)
+  - [7. Positions](#7-positions)
+  - [8. Visibility and z-index](#8-visibility-and-z-index)
+  - [9. Flexbox](#9-flexbox)
+  - [10. Size Units](#10-size-units)
+  - [11. Selectors](#11-selectors)
+  - [12. Attribute and n-th child selector](#12-attribute-and-n-th-child-selector)
+  - [13. Pseudo class Selector](#13-pseudo-class-selector)
+  - [14. Box shadow and text shadow](#14-box-shadow-and-text-shadow)
+  - [15. Variables in css](#15-variables-in-css)
+  - [16. Animations and keyframes](#16-animations-and-keyframes)
 
 <hr/>
 
@@ -170,5 +172,13 @@ Using css we can add shadow to the box as well as on text. shadow can be impleme
 Complex websites have very large amounts of CSS, often with a lot of repeated values. For example, the same color might be used in hundreds of different places, requiring global search and replace if that color needs to change. Custom properties allow a value to be stored in one place, then referenced in multiple other places.
 
 ![](./Output/15.variables.jpg)
+
+<hr/>
+
+## 16. Animations and keyframes<a name="animations"></a>
+
+ Animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints.
+
+![](Output/16.Animations.jpg)
 
 <hr/>
