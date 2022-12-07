@@ -9,8 +9,9 @@
 8. [Visibility and z-index](#visibility)
 9. [Flexbox](#flexbox)
 10. [Size units](#size)
-11. [Selectors](#selectors)
+11. [Selectors](#sele ctors)
 12. [Attribute and n-th child selector](#attribute)
+13. [Pseudo class Selector](#pseudo)
 
 <hr/>
 
@@ -143,5 +144,13 @@ Various types of selectors are: universal selctor, type selector, class and id s
 It is possible to style HTML elements that have specific attributes or attribute values. The [attribute] selector is used to select elements with a specified attribute.The :nth-child() CSS pseudo-class matches elements based on their position among a group of siblings. 
 
 ![](./Output/12.Attribute.jpg)
+
+<hr/>
+
+## 13. Pseudo class Selector<a name="pseudo"></a>
+
+Pseudo classes are useful in defining the special state to any element or using ::before and ::after pseudo class selectors we can add add content to our web page without changing in html page.
+
+![](./Output/13.pseudo.jpg)
 
 <hr/>
