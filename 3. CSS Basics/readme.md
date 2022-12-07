@@ -13,6 +13,7 @@
 12. [Attribute and n-th child selector](#attribute)
 13. [Pseudo class Selector](#pseudo)
 14. [Box shadow and Text shadow](#shadow)
+15. [Variables in css](#variables)
 
 <hr/>
 
@@ -161,5 +162,13 @@ Pseudo classes are useful in defining the special state to any element or using 
 Using css we can add shadow to the box as well as on text. shadow can be implement as offset and inset. Parameters on which shadow can be done are : x-axis, y-axis, blur-radius, spread-radius, and color.
 
 ![](./Output/14.boxshadow.jpg)
+
+<hr/>
+
+## 15. Variables in css<a name="variables"></a>
+
+Complex websites have very large amounts of CSS, often with a lot of repeated values. For example, the same color might be used in hundreds of different places, requiring global search and replace if that color needs to change. Custom properties allow a value to be stored in one place, then referenced in multiple other places.
+
+![](./Output/15.variables.jpg)
 
 <hr/>
