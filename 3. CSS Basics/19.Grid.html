@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Grid</title>
+    <style>
+        .container {
+            display: grid;
+
+            /* grid-template-columns: 300px 100px 100px; */
+            /* grid-template-columns: 1fr 4fr 1fr; */
+            /* grid-template-columns: repeat(5, auto); */
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+
+            grid-template-rows: 1fr 1fr 2fr;
+            grid-auto-rows: 1.5fr;
+
+            /* grid-gap: 2rem; */
+            grid-column-gap: 1rem;
+            grid-row-gap: 2rem; 
+            /* justify-content: center; */
+            /* align-items: center; */
+        }
+
+        .item {
+            /* height: 100px;
+            width: 100px; */
+            background-color: #7171ea;
+            margin: 5px;
+            border: 2px solid rgba(0, 0, 0, 0.9);
+            padding: 20px;
+        }
+
+        .item:first-child{
+            grid-row: 1/span 3;
+            grid-column: 1/span 2;
+        }
+
+        .item:nth-child(7){
+            grid-row-start:2;
+            grid-row-end: 5;
+            grid-column-start:3 ;
+            grid-column-end:4;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="item" id="item-1">This is item1</div>
+        <div class="item" id="item-2">This is item2</div>
+        <div class="item" id="item-3">This is item3</div>
+        <div class="item" id="item-4">This is item4</div>
+        <div class="item" id="item-5">This is item5</div>
+        <div class="item" id="item-6">This is item6</div>
+        <div class="item" id="item-7">This is item7</div>
+        <div class="item" id="item-8">This is item8</div>
+        <div class="item" id="item-9">This is item9</div>
+        <div class="item" id="item-10">This is item10</div>
+        <div class="item" id="item-11">This is item11</div>
+        <div class="item" id="item-12">This is item12</div>
+        <div class="item" id="item-13">This is item13</div>
+        <div class="item" id="item-14">This is item14</div>
+        <div class="item" id="item-15">This is item15</div>
+        <div class="item" id="item-16">This is item16</div>
+        <div class="item" id="item-17">This is item17</div>
+        <div class="item" id="item-18">This is item18</div>
+        <div class="item" id="item-19">This is item19</div>
+        <div class="item" id="item-20">This is item20</div>
+        <div class="item" id="item-21">This is item21</div>
+    </div>
+    </div>
+</body>
+
+</html>
