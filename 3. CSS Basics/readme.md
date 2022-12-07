@@ -17,6 +17,7 @@
   - [15. Variables in css](#15-variables-in-css)
   - [16. Animations and keyframes](#16-animations-and-keyframes)
   - [17. Transitions](#17-transitions)
+  - [18. Transform](#18-transform)
 
 <hr/>
 
@@ -191,3 +192,9 @@ CSS transitions provide a way to control animation speed when changing CSS prope
 ![](Output/17.Transitions.jpg)
 
 <hr/>
+
+## 18. Transform
+
+The transform CSS property lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model.
+
+![](Output/18.Transform.jpg)
