@@ -16,6 +16,7 @@
   - [14. Box shadow and text shadow](#14-box-shadow-and-text-shadow)
   - [15. Variables in css](#15-variables-in-css)
   - [16. Animations and keyframes](#16-animations-and-keyframes)
+  - [17. Transitions](#17-transitions)
 
 <hr/>
 
@@ -180,5 +181,13 @@ Complex websites have very large amounts of CSS, often with a lot of repeated va
  Animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints.
 
 ![](Output/16.Animations.jpg)
+
+<hr/>
+
+## 17. Transitions<a name="transitions"></a>
+
+CSS transitions provide a way to control animation speed when changing CSS properties. Instead of having property changes take effect immediately, you can cause the changes in a property to take place over a period of time. For example, if you change the color of an element from white to black, usually the change is instantaneous. With CSS transitions enabled, changes occur at time intervals that follow an acceleration curve, all of which can be customized.
+
+![](Output/17.Transitions.jpg)
 
 <hr/>
