@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
   - [1. Project 1](#1-project-1)
   - [2. Project 2](#2-project-2)
+  - [3. Project 3](#3-project-3)
 
 <hr/>
 
@@ -18,3 +19,13 @@ SEO master static page using html and css
 Crypto market static web page using html and css
 
 ![](./Output/2.%20Project2.jpg)
+
+<hr/>
+
+## 3. Project 3
+
+Fashion Hub static page using html and css
+
+![](./Output/3.%20Project3.jpg)
+
+<hr/>
