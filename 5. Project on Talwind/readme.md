@@ -9,7 +9,7 @@
 
 Websites created using html and tailwind css for practice
 
-![]()
+![check it out]()
 
 <hr/>
 
@@ -17,6 +17,6 @@ Websites created using html and tailwind css for practice
 
 Assignments of static page using tailwind and html
 
-![](./2.%20Assigments/readme.md)
+![check it out](./2.%20Assigments/readme.md)
 
 <hr/>
