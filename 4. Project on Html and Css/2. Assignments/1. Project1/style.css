@@ -1,0 +1,92 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Poppins;
+}
+
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 170px;
+    margin-left: 90px;
+    margin-top: -20px;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    font-size: 15px;
+    color: #758283;
+
+}
+
+.navbar-container img{
+    width: 100px;
+}
+
+li:nth-child(1){
+    color:#000000;
+}
+
+.button-group{
+    position: absolute;
+    right: 100px;
+}
+
+.nav-button{
+     border-radius: 10px;
+     padding: 10px 25px;
+     background-color: #5955b3;
+     border: none;
+     color: #ffffff;
+     font-size: 16px;
+     font-weight: 400;
+}
+
+.banner-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 90px ;
+}
+
+.heading-text{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-top:80px;
+    margin-right: 260px;
+    color: #3c2f60;
+
+}
+span{
+    color: #5955b3;
+}
+
+.description{
+    font-size: 14px;
+    color: #758283;
+    margin-top: 20px;
+    margin-right: 400px;
+    margin-bottom: 60px;
+    
+}
+
+.btn{
+
+    padding:15px 30px
+}
+
+.banner-container img{
+    height: 550px  ;
+}

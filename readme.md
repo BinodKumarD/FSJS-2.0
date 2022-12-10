@@ -1,7 +1,9 @@
 # Table of Contents
-1. [Article](#article)
-2. [HTML Basics](#html)
-3. [CSS Basics](#css)
+- [Table of Contents](#table-of-contents)
+  - [1. Article](#1-article)
+  - [2. HTML Basics](#2-html-basics)
+  - [3. CSS Basics](#3-css-basics)
+  - [4. Projects on Html and Css](#4-projects-on-html-and-css)
 
 <hr/>
 
@@ -28,3 +30,10 @@ Cascading stylesheets is known as CSS that used to handle the presentation of th
 [check it out](3.%20CSS%20Basics/readme.md)
 
 <hr/>
+
+## 4. Projects on Html and Css
+
+Static page design have beeen implemented using html and css. All the assignments and pracitce projects are here.
+
+[check it out](4.%20Project%20on%20Html%20and%20Css/readme.md)
+
