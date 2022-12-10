@@ -1,0 +1,105 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+*{
+    margin:0px;
+    padding:0px;
+    outline:0px;
+    box-sizing: border-box; 
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  background-color: #0d0d0d;
+  height: 10vh;
+  align-items: center;
+  padding: 0 80px;
+  font-family: "Montserrat", "serif";
+  font-size: 16px;
+}
+
+.line{
+    height: 60%;
+    border: 1px solid #fff;
+    margin: 0 50px;
+}
+
+nav img{
+    width: 90px;
+}
+
+nav .list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+    color: #fff;
+    gap: 60px;
+    font-size: 15px;
+    margin-left: 2px;
+    margin-right: 100px;
+    font-weight: 600;
+}
+
+li:nth-child(1)::after{
+    content: '⌄';
+    padding: 8px;
+}
+
+.button-small{
+    justify-content: flex-end;
+    font-size: 15px;
+    padding:10px 25px;
+    border-radius: 10px;
+    color:#fff;
+    background-color: #de12e8;
+    margin-left: 120px;
+    font-family: "Montserrat", "serif";
+}
+
+.hero{
+    background-image: url("./assets/bg.png");
+    background-position: center;
+    background-size: cover;
+    height:90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-family: "Montserrat", "serif";
+}
+
+.hero-heading{
+    display: flex;
+    flex-wrap: wrap;
+   font-size: 70px;
+   margin-top: 110px;
+   margin-left: 320px;
+}
+
+.hero-description{
+    font-size:25px;
+    margin-left:30px;
+}
+
+.button-large{
+    background-color:#aa11b3;
+    color:#fff;
+    border-radius:10px;
+    border:none;
+    font-size: 22px;
+    padding: 20px 40px;
+    margin: 40px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+

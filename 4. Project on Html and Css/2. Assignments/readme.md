@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [1. Project 1](#1-project-1)
+  - [2. Project 2](#2-project-2)
 
 <hr/>
 
@@ -8,6 +9,12 @@
 
 SEO master static page using html and css
 
-[](./Output/1.%20Project1.jpg)
+![](./Output/1.%20Project1.jpg)
 
 <hr/>
+
+## 2. Project 2
+
+Crypto market static web page using html and css
+
+![](./Output/2.%20Project2.jpg)
