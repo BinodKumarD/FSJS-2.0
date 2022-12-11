@@ -1,3 +1,7 @@
+## Project on Tailwind Css
+
+<hr/>
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [1. Practice](#1-practice)
@@ -17,6 +21,6 @@ Websites created using html and tailwind css for practice
 
 Assignments of static page using tailwind and html
 
-[check it out](./2.%20Assigments/readme.md)
+[check it out](./2.%20Assigments/)
 
 <hr/>

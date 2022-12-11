@@ -1,3 +1,7 @@
+## Project on Tailwind CSS -> <em>2. Assignments</em>
+
+<hr/>
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [1. VS Code clone](#1-vs-code-clone)

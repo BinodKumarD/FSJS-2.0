@@ -1,3 +1,7 @@
+## CSS Basics
+
+<hr/>
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [1. Padding And Margin](#1-padding-and-margin)
@@ -218,3 +222,5 @@ Like tables, grid layout enables an author to align elements into columns and ro
 The grid-template-areas CSS property specifies named grid areas, establishing the cells in the grid and assigning them names. This helps us in creating the page layouts and in many ways.
 
 ![](Output/20.GridTemplate.jpg)
+
+<hr/>

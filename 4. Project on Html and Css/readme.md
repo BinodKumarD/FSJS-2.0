@@ -1,3 +1,7 @@
+## Project on HTML and CSS 
+
+<hr/>
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [1. Practice](#1-practice)
@@ -17,6 +21,6 @@ All practice on designing on static web page are here
 
 All assignments on static web page
 
-[Check it out](./2.%20Assignments/readme.md)
+[Check it out](./2.%20Assignments/)
 
 <hr/>

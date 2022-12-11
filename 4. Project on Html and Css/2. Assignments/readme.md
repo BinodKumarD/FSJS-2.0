@@ -1,3 +1,7 @@
+## Project on HTML and CSS -> <em>2. Assignments</em>
+
+<hr/>
+
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [1. Project 1](#1-project-1)

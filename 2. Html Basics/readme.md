@@ -1,17 +1,22 @@
+## HTML Basics
+
+<hr/>
+
 # Table of Contents
-1. [Heading Tags](#heading)
-2. [Paragrahp Tags](#paragraph)
-3. [Image and anchor Tags](#image)
-4. [List Tags](#list)
-5. [Table Tags making School Time Table](#table)
-6. [Form Tags](#form)
-7. [Formatting Tags](#formatting)
-8. [Citation Tags](#citation)
-9. [Classes and Id attributes](#classes)
-10. [Inline and Block elements](#inline)
-11. [Entities](#entities)
-12. [iframe](#iframe)
-12. [Audio and Video](#audio)
+- [Table of Contents](#table-of-contents)
+    - [1. Heading Tags](#1-heading-tags)
+    - [2. Paragraph Tags](#2-paragraph-tags)
+    - [3. Image and anchor Tags](#3-image-and-anchor-tags)
+    - [4. List Tags](#4-list-tags)
+    - [5. Table Tags making school timetable](#5-table-tags-making-school-timetable)
+    - [6. Form Tags](#6-form-tags)
+    - [7. Formatting Tags](#7-formatting-tags)
+    - [8. Citation Tags](#8-citation-tags)
+    - [9. Classes and Id attributes](#9-classes-and-id-attributes)
+    - [10. Inline and block elements](#10-inline-and-block-elements)
+    - [11. Entities](#11-entities)
+    - [12. iframe](#12-iframe)
+    - [13. Audio and Video](#13-audio-and-video)
 
 <hr/>
 

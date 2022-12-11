@@ -1,4 +1,4 @@
-## Vs code studio clone
+# Vs code studio clone
 
 This is the static web page designed for education purpose only there is no functionality is added. Only designed is implemented using html and talwind css no external stylesheet is being added.
 
