@@ -9,6 +9,7 @@
   - [3. Project 3](#3-project-3)
   - [4. Project 4](#4-project-4)
   - [5. Project 5](#5-project-5)
+  - [6. Project 6](#6-project-6)
 
 <hr/>
 
@@ -49,6 +50,14 @@ Headphone static web page using html and css
 Medifine doctor appointment static web page using html and css.
 
 ![](./Output/5.%20Project5.jpg)
+
+<hr/>
+
+## 6. Project 6
+
+Justice for people static web page design using html and css
+
+![](./Output/6.%20Project6.jpg)
 
 <hr/>
 
