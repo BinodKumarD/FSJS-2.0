@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1570px;
+    background-color: #F0F4F5;
+    margin: 0  40px;
+    overflow:hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+nav ul li:first-child{
+    color:#0d8d25ad;
+}
+
+
+
+/* Hero Section  */
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    height: 85vh;
+}
+
+.leftSection{
+    width:55%;
+    margin-left: 1%;
+    position: relative;
+}
+
+.topangle{
+    width: 35px;
+}
+
+.leftSection h1{
+    font-size: 87px;
+    line-height: 125px;
+}
+
+.leftSection p {
+    color: #808080;
+    font-size: 28px;
+    font-family: sans;
+    margin: 20px 0;
+}
+
+
+.bottomAngle{
+    width: 35px;
+    position: absolute;
+    right: 25px;
+}
+
+.stethoscope{
+    position: absolute;
+    width: 85%;
+    top:-13%;
+    right: -25%;
+    z-index: -1;
+}
+
+.mouse{
+    position: absolute;
+    right: -40px;
+    bottom:120px;
+    width: 40px;
+}
+
+.leftSection button{
+    color:#fff;
+    background-color: #23b66d;
+    padding: 25px 40px;
+    border: none;
+    border-radius:40px;
+    font-family: 'Montserrat';
+    font-size: 30px;
+
+}
+
+/* Right side  */
+.rightsection{
+    width: 45%;
+}
+.greenbox, .yellowbox{
+    position:absolute;
+}
+
+.greenbox{
+    width: 33%;
+    bottom:40px;
+    right: 20px;
+}
+
+.yellowbox{
+    width:29%;
+    bottom: 80px;
+    right: 0px;
+}
+
+.doctor{
+    position: absolute;
+    right: 15px;
+    bottom:0;
+    height: 88%;
+}
+

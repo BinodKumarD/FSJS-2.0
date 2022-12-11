@@ -48,7 +48,7 @@ Static page design have beeen implemented using html and css. All the assignment
 
 Static page design using html and tailwind css. All the assignments and practice projects are here.
 
-[check it out](5.%20Project%20on%20Talwind/)
+[check it out](5.%20Project%20on%20Tailwind/)
 
 <hr/>
 
