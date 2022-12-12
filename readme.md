@@ -1,4 +1,4 @@
-## Full stack Javascript-2.0 (FSJS-2.0) Learning journey
+## Full stack Javascript Bootcamp-2.0 (FSJS-2.0) Learning journey
 
 <hr/>
 
@@ -9,6 +9,7 @@
   - [3. CSS Basics](#3-css-basics)
   - [4. Projects on Html and Css](#4-projects-on-html-and-css)
   - [5. Projects on Tailwind Css](#5-projects-on-tailwind-css)
+  - [6. Javascript Basics](#6-javascript-basics)
 
 <hr/>
 
@@ -22,7 +23,7 @@ Article on important topics which i have learned are being added here.
 
 ## 2. HTML Basics<a name="html"></a>
 
-HTML also known as Hypertext Markup Language which is used to create static skeleton  to web applications and websites. Its a well standardized system. All the tags which are helpful in creating website have been implemented
+HTML also known as Hypertext Markup Language which is used to create static skeleton  to web applications and websites. Its a well standardized system. All the tags which are helpful in creating website have been implemented.
 
 [Check it out](2.%20Html%20Basics/)
 
@@ -49,6 +50,14 @@ Static page design have beeen implemented using html and css. All the assignment
 Static page design using html and tailwind css. All the assignments and practice projects are here.
 
 [check it out](5.%20Project%20on%20Tailwind/)
+
+<hr/>
+
+## 6. Javascript Basics
+
+Javascript is a client side scripting language. It is used to make web pages alive. It is used to programmatically perform actions within the page. When javascript was created, it was initially called "LiveScript". But Java was very popular language at that time, so it was decided that positioning a language as a "younger brother" of java would help. So, important javascript properties which will be helpful during our journey have been implemented. 
+ 
+[check it out](6.%20Javascript%20Basics/)
 
 <hr/>
 
