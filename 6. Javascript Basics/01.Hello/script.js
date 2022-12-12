@@ -1,0 +1,1 @@
+console.log("Helo Binod displaying message using javascript");
