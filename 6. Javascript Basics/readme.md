@@ -27,4 +27,8 @@ We can reserve some memory using var, let and const keyword. and using console.l
 
 ![](./Output/02.Variables.jpg)
 
+using const keyword and different way to print multiple variables using single console log command.
+
+![](./Output/03.Variables2.jpg)
+
 <hr/>
