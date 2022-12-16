@@ -7,6 +7,7 @@
   - [1. Hello World program](#1-hello-world-program)
   - [2. Variables](#2-variables)
   - [3. Operators](#3-operators)
+  - [4. Conditionals](#4-conditionals)
 
 <hr/>
 
@@ -41,3 +42,21 @@ In JavaScript, an operator is a special symbol used to perform operations on ope
 ![](Output/04.Operators.jpg)
 
 <hr/>
+
+## 4. Conditionals
+
+Conditional Statements Very often used when we want to perform different actions for different decisions.
+
+In JavaScript we have the following conditional statements:
+
+- Use if to specify a block of code to be executed, if a specified condition is true
+- Use else to specify a block of code to be executed, if the same condition is false
+- Use else if to specify a new condition to test, if the first condition is false
+- Use switch to specify many alternative blocks of code to be executed
+
+Applying conditional in temperature.
+
+![](Output/05.Conditional.jpg)
+
+<hr/>
+
