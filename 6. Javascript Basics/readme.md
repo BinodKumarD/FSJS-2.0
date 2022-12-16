@@ -54,15 +54,15 @@ In JavaScript we have the following conditional statements:
 - Use else if to specify a new condition to test, if the first condition is false
 - Use switch to specify many alternative blocks of code to be executed
 
-**Applying conditional in temperature.**
+<ins>**Applying conditional in temperature.**</ins>
 
 ![](Output/05.Conditional.jpg)
 
-**Applying conditional in purchase.**
+<ins>**Applying conditional in purchase.**</ins>
 
 ![](Output/06.ConditionalPurchase.jpg)
 
-**Applying conditional in Login to a website.**
+<ins>**Applying conditional in Login to a website.**</ins>
 
 ![](Output/07.ConditionalLogin.jpg)
 
