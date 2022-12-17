@@ -10,6 +10,7 @@
   - [4. Conditionals](#4-conditionals)
   - [5. Ternary Operator](#5-ternary-operator)
   - [6. Switch statement](#6-switch-statement)
+  - [7. Truthy and falsy](#7-truthy-and-falsy)
 
 <hr/>
 
@@ -92,3 +93,10 @@ This is how it works:
 
 <hr/>
 
+## 7. Truthy and falsy
+
+In JavaScript, a truthy value is a value that is considered true when encountered in a Boolean context. All values are truthy unless they are defined as falsy. That is, all values are truthy except false, 0, -0, 0n, "", null, undefined, and NaN.
+
+![](Output/10.TruthyAndFalsy.jpg)
+
+<hr/>
