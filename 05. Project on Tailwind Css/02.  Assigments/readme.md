@@ -18,6 +18,6 @@ This webiste is also being deployed in netlify
 
 For more snapshot and code 
 
-[check it out](./1.%20VscodeClone/)
+[check it out](./01.%20Project1-%20VscodeClone/)
 
 <hr/>
