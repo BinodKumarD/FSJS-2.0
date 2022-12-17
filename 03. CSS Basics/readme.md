@@ -31,15 +31,15 @@
 
 Padding is the space between an element's border and the element's content while margin is the space around an element's border. 
 
-![](./Output/1.PaddingMargin.jpg)
+![](./00.%20Output/01.PaddingMargin.jpg)
 
 <hr/>
-
+00.%20
 ## 2. Fonts<a name="fonts"></a>
 
 To change our text with different fonts we will use font-family. We can use our desired font family by importing google fonts in html file or in css file.
 
-![](./Output/2.fonts.jpg)
+![](./00.%20Output/02.fonts.jpg)
 
 <hr/>
 
@@ -47,7 +47,7 @@ To change our text with different fonts we will use font-family. We can use our 
 
 Color property is used to set the color to our text, background or any other html elements. We can use several different ways to specify the colors like: color keywords, rgb, rgba, hex values, etc.
 
-![](./Output/3.Colors.jpg)
+![](./00.%20Output/03.Colors.jpg)
 
 <hr/>
 
@@ -55,7 +55,7 @@ Color property is used to set the color to our text, background or any other htm
 
 Border helps us to define border to particular html element.
 
-![](./Output/4.borders.jpg)
+![](./00.%20Output/04.borders.jpg)
 
 <hr/>
 
@@ -64,7 +64,7 @@ Border helps us to define border to particular html element.
 Float specifies how an element should float whereas clear property specifies what elements can float beside the cleared element and on which side. 
 The text-align property in CSS is used to specify the horizontal alignment of text in an element ie., it is used to set the alignment of the content horizontally, inside a block element or table-cell box.
 
-![](./Output/5.alignment.jpg)
+![](./00.%20Output/05.alignment.jpg)
 
 <hr/>
 
@@ -74,7 +74,7 @@ The display property specifies how an element is displayed.
 
 Every HTML element has a default display value depending on what type of element it is. The default display value for most elements is block or inline.
 
-![](./Output/6.Display.jpg)
+![](./00.%20Output/06.Display.jpg)
 
 <hr/>
 
@@ -91,7 +91,7 @@ v.   sticky
 
 Elements are then positioned using the top, bottom, left, and right properties. However, these properties will not work unless the position property is set first. They also work differently depending on the position value.
 
-![](./Output/7.Posititons.jpg)
+![](./00.%20Output/07.Posititons.jpg)
 
 <hr/>
 
@@ -99,7 +99,7 @@ Elements are then positioned using the top, bottom, left, and right properties. 
 
 The visibility property specifies whether or not an element is visible. Visbility hides the element but will show its empty space whereas Display: none hides the element and the space.z-index will work only for position: relative, absolute, fixed or sticky. z-index does not work on static position. With the help of z-index we can specify the preference of one element over the other element.  
 
-![](./Output/8.Visibility.jpg)
+![](./00.%20Output/08.Visibility.jpg)
 
 <hr/>
 
@@ -127,7 +127,7 @@ Flex properties on flex items:
 align the particular element in vertical direction.
 6. **flex**: short-hand of flex-grow flex-shrink and flex-basis.
 
-![](./Output/9.Flexbox.jpg)
+![](./00.%20Output/09.Flexbox.jpg)
 
 <hr/>
 
@@ -137,7 +137,7 @@ Absolute length units are based on an actual physical unit, and are generally co
 
 Here are some common absolute length units in CSS are: px, rem, em, vh and vw
 
-![](./Output/10.sizeunits.jpg)
+![](./00.%20Output/10.sizeunits.jpg)
 
 <hr/>
 
@@ -147,7 +147,7 @@ CSS selectors define the pattern to select elements to which a set of CSS rules 
 
 Various types of selectors are: universal selctor, type selector, class and id selector, child combinator and so on.
 
-![](./Output/11.Selectors.jpg)
+![](./00.%20Output/11.Selectors.jpg)
 
 <hr/>
 
@@ -155,7 +155,7 @@ Various types of selectors are: universal selctor, type selector, class and id s
 
 It is possible to style HTML elements that have specific attributes or attribute values. The [attribute] selector is used to select elements with a specified attribute.The :nth-child() CSS pseudo-class matches elements based on their position among a group of siblings. 
 
-![](./Output/12.Attribute.jpg)
+![](./00.%20Output/12.Attribute.jpg)
 
 <hr/>
 
@@ -163,7 +163,7 @@ It is possible to style HTML elements that have specific attributes or attribute
 
 Pseudo classes are useful in defining the special state to any element or using ::before and ::after pseudo class selectors we can add add content to our web page without changing in html page.
 
-![](./Output/13.pseudo.jpg)
+![](./00.%20Output/13.pseudo.jpg)
 
 <hr/>
 
@@ -171,7 +171,7 @@ Pseudo classes are useful in defining the special state to any element or using 
 
 Using css we can add shadow to the box as well as on text. shadow can be implement as offset and inset. Parameters on which shadow can be done are : x-axis, y-axis, blur-radius, spread-radius, and color.
 
-![](./Output/14.boxshadow.jpg)
+![](./00.%20Output/14.boxshadow.jpg)
 
 <hr/>
 
@@ -179,7 +179,7 @@ Using css we can add shadow to the box as well as on text. shadow can be impleme
 
 Complex websites have very large amounts of CSS, often with a lot of repeated values. For example, the same color might be used in hundreds of different places, requiring global search and replace if that color needs to change. Custom properties allow a value to be stored in one place, then referenced in multiple other places.
 
-![](./Output/15.variables.jpg)
+![](./00.%20Output/15.variables.jpg)
 
 <hr/>
 
@@ -187,7 +187,7 @@ Complex websites have very large amounts of CSS, often with a lot of repeated va
 
  Animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints.
 
-![](Output/16.Animations.jpg)
+![](./00.%20Output/16.Animations.jpg)
 
 <hr/>
 
@@ -195,7 +195,7 @@ Complex websites have very large amounts of CSS, often with a lot of repeated va
 
 CSS transitions provide a way to control animation speed when changing CSS properties. Instead of having property changes take effect immediately, you can cause the changes in a property to take place over a period of time. For example, if you change the color of an element from white to black, usually the change is instantaneous. With CSS transitions enabled, changes occur at time intervals that follow an acceleration curve, all of which can be customized.
 
-![](Output/17.Transitions.jpg)
+![](./00.%20Output/17.Transitions.jpg)
 
 <hr/>
 
@@ -203,7 +203,7 @@ CSS transitions provide a way to control animation speed when changing CSS prope
 
 The transform CSS property lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model.
 
-![](Output/18.Transform.jpg)
+![](./00.%20Output/18.Transform.jpg)
 
 <hr/>
 
@@ -213,7 +213,7 @@ CSS Grid Layout excels at dividing a page into major regions or defining the rel
 
 Like tables, grid layout enables an author to align elements into columns and rows. However, many more layouts are either possible or easier with CSS grid than they were with tables. For example, a grid container's child elements could position themselves so they actually overlap and layer, similar to CSS positioned elements.
 
-![](Output/19.Grid.jpg)
+![](./00.%20Output/19.Grid.jpg)
 
 <hr/>
 
@@ -221,6 +221,6 @@ Like tables, grid layout enables an author to align elements into columns and ro
 
 The grid-template-areas CSS property specifies named grid areas, establishing the cells in the grid and assigning them names. This helps us in creating the page layouts and in many ways.
 
-![](Output/20.GridTemplate.jpg)
+![](./00.%20Output/20.GridTemplate.jpg)
 
 <hr/>

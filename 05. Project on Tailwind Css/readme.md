@@ -1,4 +1,4 @@
-## Project on HTML and CSS 
+## Project on Tailwind Css
 
 <hr/>
 
@@ -11,7 +11,7 @@
 
 ## 1. Practice
 
-All practice on designing on static web page are here
+Websites created using html and tailwind css for practice
 
 [check it out]()
 
@@ -19,8 +19,8 @@ All practice on designing on static web page are here
 
 ## 2. Assignments
 
-All assignments on static web page
+Assignments of static page using tailwind and html
 
-[Check it out](./02.%20%20Assignments/)
+[check it out](./01.%20%20Practice/)
 
 <hr/>
