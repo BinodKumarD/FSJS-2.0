@@ -4,16 +4,16 @@
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [1. Project 1](#1-project-1)
-  - [2. Project 2](#2-project-2)
-  - [3. Project 3](#3-project-3)
-  - [4. Project 4](#4-project-4)
-  - [5. Project 5](#5-project-5)
-  - [6. Project 6](#6-project-6)
+  - [1. Project 1- SEO master](#1-project-1--seo-master)
+  - [2. Project 2- Crypto market](#2-project-2--crypto-market)
+  - [3. Project 3- Fashion Hub](#3-project-3--fashion-hub)
+  - [4. Project 4- Headphone Selling](#4-project-4--headphone-selling)
+  - [5. Project 5- Medifine Doctor Appointment](#5-project-5--medifine-doctor-appointment)
+  - [6. Project 6- Justice for people](#6-project-6--justice-for-people)
 
 <hr/>
 
-## 1. Project 1
+## 1. Project 1- SEO master
 
 SEO master static page using html and css
 
@@ -21,7 +21,7 @@ SEO master static page using html and css
 
 <hr/>
 
-## 2. Project 2
+## 2. Project 2- Crypto market
 
 Crypto market static web page using html and css
 
@@ -29,7 +29,7 @@ Crypto market static web page using html and css
 
 <hr/>
 
-## 3. Project 3
+## 3. Project 3- Fashion Hub
 
 Fashion Hub static page using html and css
 
@@ -37,7 +37,7 @@ Fashion Hub static page using html and css
 
 <hr/>
 
-## 4. Project 4
+## 4. Project 4- Headphone Selling
 
 Headphone static web page using html and css
 
@@ -45,7 +45,7 @@ Headphone static web page using html and css
 
 <hr/>
 
-## 5. Project 5
+## 5. Project 5- Medifine Doctor Appointment
 
 Medifine doctor appointment static web page using html and css.
 
@@ -53,7 +53,7 @@ Medifine doctor appointment static web page using html and css.
 
 <hr/>
 
-## 6. Project 6
+## 6. Project 6- Justice for people
 
 Justice for people static web page design using html and css
 
