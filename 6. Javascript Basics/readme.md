@@ -9,6 +9,7 @@
   - [3. Operators](#3-operators)
   - [4. Conditionals](#4-conditionals)
   - [5. Ternary Operator](#5-ternary-operator)
+  - [6. Switch statement](#6-switch-statement)
 
 <hr/>
 
@@ -55,15 +56,15 @@ In JavaScript we have the following conditional statements:
 - Use else if to specify a new condition to test, if the first condition is false
 - Use switch to specify many alternative blocks of code to be executed
 
-i. <ins>**Applying conditional in temperature.**</ins>
+(i.)  <ins>**Applying conditional in temperature.**</ins>
 
 ![](Output/05.Conditional.jpg)
 
-ii. <ins>**Applying conditional in purchase.**</ins>
+(ii.)  <ins>**Applying conditional in purchase.**</ins>
 
 ![](Output/06.ConditionalPurchase.jpg)
 
-iii. <ins>**Applying conditional in Login to a website.**</ins>
+(iii.)  <ins>**Applying conditional in Login to a website.**</ins>
 
 ![](Output/07.ConditionalLogin.jpg)
 
@@ -74,6 +75,20 @@ iii. <ins>**Applying conditional in Login to a website.**</ins>
 The conditional (ternary) operator is the only JavaScript operator that takes three operands: a condition followed by a question mark ( ? ), then an expression to execute if the condition is truthy followed by a colon ( : ), and finally the expression to execute if the condition is falsy. We can say ternary operator is shorthand expression for if-else statement.
 
 ![](Output/08.TernaryOperators.jpg)
+
+<hr/>
+
+## 6. Switch statement
+
+The switch statement is used to perform different actions based on different conditions. It select one of many code blocks to be executed.
+This is how it works:
+
+- The switch expression is evaluated once.
+- The value of the expression is compared with the values of each case.
+- If there is a match, the associated block of code is executed.
+- If there is no match, the default code block is executed.
+
+![](Output/09.Switch.jpg)
 
 <hr/>
 
