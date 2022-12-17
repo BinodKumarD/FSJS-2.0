@@ -10,6 +10,7 @@
   - [4. Project 4- Headphone Selling](#4-project-4--headphone-selling)
   - [5. Project 5- Medifine Doctor Appointment](#5-project-5--medifine-doctor-appointment)
   - [6. Project 6- Justice for people](#6-project-6--justice-for-people)
+  - [7. Project 7- Credit Card Landing Page](#7-project-7--credit-card-landing-page)
 
 <hr/>
 
@@ -58,6 +59,14 @@ Medifine doctor appointment static web page using html and css.
 Justice for people static web page design using html and css
 
 ![](./Output/6.%20Project6.jpg)
+
+<hr/>
+
+## 7. Project 7- Credit Card Landing Page
+
+Credit card Landing static web page is designed using html and css
+
+[check it out](07.%20Project7-%20Credit%20card%20Landing%20Page/)
 
 <hr/>
 

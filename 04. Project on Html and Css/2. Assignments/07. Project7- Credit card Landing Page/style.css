@@ -1,0 +1,436 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,300&display=swap');
+
+ * {
+     margin: 0;
+     padding: 0;
+     outline: 0;
+     overflow-x: hidden;
+ }
+
+ body {
+     background-color: #151515;
+     font-family: 'Montserrat';
+     color: #f4f4f4d9;
+     max-width: 6712px;
+ }
+
+ /* navigation bar  */
+
+ nav {
+     font-weight: 500;
+     display: flex;
+     padding-top: 20px;
+     padding-left: 120px;
+ }
+
+ .option {
+     list-style-type: none;
+     display: flex;
+     padding-top: 40px;
+ }
+
+.downarrow{
+ margin-left: 15px;
+ font-size: 11px;
+
+}
+
+ .navOption:first-child {
+     margin-left: 330px;
+ }
+
+ .navOption {
+     padding-left: 50px;
+ }
+
+ .language:first-child {
+     margin-left: 280px;
+ }
+
+ .language {
+     padding-left: 50px;
+ }
+
+ .contact {
+     position: relative;
+     right: 65px;
+     font-size: 18px;
+ }
+
+ /* intro section  */
+
+ .intro {
+     height: 900px;
+ }
+
+ .back {
+     position: absolute;
+     left: 750px;
+     top: 50px;
+     z-index: -3;
+ }
+
+ .front {
+     position: absolute;
+     top: 130px;
+     left: 960px;
+     z-index: -1;
+ }
+
+ .simplify {
+     margin-left: 110px;
+     margin-right: 280px;
+     margin-top: 100px;
+     font-weight: 500;
+     font-size: 99px;
+ }
+
+ .simplify span {
+     color: #f637ec;
+     font-weight: 700;
+ }
+
+ .hurry {
+     margin-left: 110px;
+     margin-top: 60px;
+     margin-right: 700px;
+     font-size: 26px;
+     font-weight: 500;
+     color: #fcf7f0a4;
+ }
+
+ .get {
+     display: flex;
+     margin-top: 80px;
+     margin-left: 60px;
+     font-size: 24px;
+     font-weight: 600;
+ }
+
+ .get img:first-child {
+     width: 200px;
+     height: 40px;
+ }
+
+ .arrow {
+     position: relative;
+     right: 80px;
+     width: 70px;
+ }
+
+ .get p {
+     position: relative;
+     right: 105px;
+     margin-top: 5px;
+ }
+
+ .counting {
+     display: flex;
+     margin-left: 120px;
+     margin-top: 80px;
+     gap: 20px;
+ }
+
+ .num {
+     font-size: 50px;
+     font-weight: 600;
+ }
+
+ .plus {
+     color: #f637ec;
+     font-size: 50px;
+     font-weight: 600;
+ }
+
+ .exp {
+     font-size: 24px;
+     font-weight: 500;
+ }
+
+ .vector {
+     margin: 0 40px;
+ }
+
+ /* logo image  */
+
+ .logoImg {
+     background-color: #292929;
+     height: 200px;
+     display: flex;
+     justify-content: center;
+     gap: 100px;
+ }
+
+ .iconsimg {
+     width: 130px;
+ }
+
+ /* features  */
+
+ .features {
+     height: 850px;
+ }
+
+ .up {
+     display: flex;
+ }
+
+ .best {
+     font-size: 50px;
+     font-weight: 500;
+     margin: 90px 0px 120px 180px;
+ }
+
+ .best span {
+     color: #f637ec;
+     font-weight: 600;
+ }
+
+ .services {
+     color: #909090f4;
+     margin: 130px 0px 0px 400px;
+     font-size: 20px;
+
+ }
+
+ .down {
+     display: flex;
+     justify-content: center;
+
+ }
+
+ .box {
+     border: 2px solid #909090;
+     width: 270px;
+     height: 270px;
+     margin-left: 30px;
+     font-weight: 600;
+     font-size: 18px;
+ }
+
+ .box p {
+     text-align: center;
+     margin-top: 12px;
+ }
+
+ .box1,
+ .box3 {
+     margin-top: 50px;
+     background-color: #272727;
+ }
+
+ .box2 {
+     background-color: #454140;
+ }
+
+ .box img {
+     width: 120px;
+     margin: 40px 0px 0px 80px;
+ }
+
+ /* card choices  */
+
+ .choices {
+     background-color: #fceffb;
+     height: 1250px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+
+ .unique {
+     color: #151515;
+     font-size: 40px;
+     font-weight: 500;
+     margin-top: 100px;
+ }
+
+ .unique span {
+     color: #f637ec;
+     font-weight: 600;
+     margin-left: 90px;
+     line-height: 1.5;
+ }
+
+ .editing {
+     color: #151515a4;
+     font-size: 15px;
+     font-weight: 600;
+     margin-top: 40px;
+ }
+
+ .choices img {
+     margin-top: -40px;
+ }
+
+ /* reviews  */
+
+ .reviews {
+     height: 1300px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+ }
+
+ .reviewspara1 {
+     font-size: 50px;
+     font-weight: 500;
+     margin-top: 120px;
+ }
+
+ .reviewspara1 span {
+     color: #f637ec;
+     font-weight: 600;
+     margin-left: 60px;
+ }
+
+ .reviewspara2 {
+     color: #747373f4;
+     font-weight: 500;
+     text-align: center;
+     margin-top: 50px;
+ }
+
+ .reviewBox {
+     display: flex;
+     width: 1200px;
+     height: 700px;
+     flex-wrap: wrap;
+     margin-top: 100px;
+ }
+
+ .review {
+     width: 500px;
+     height: 250px;
+     border: 2px solid #909090;
+     margin-left: 80px;
+     background-color: #1e1f24;
+ }
+
+ .review1 {
+     background-color: #4f4d4c;
+ }
+
+ .review img {
+     margin: 20px;
+ }
+
+ .reviewpara {
+     margin: 20px;
+ }
+
+ .name {
+     margin-left: 20px;
+     margin-top: 40px;
+
+ }
+
+ .country {
+     margin-left: 20px;
+     margin-top: 5px;
+ }
+
+ .rect {
+     height: 10px;
+     width: 48px;
+     background-color: #f637ec;
+     border-radius: 30px;
+     display: inline-block;
+ }
+
+ .dot {
+     height: 10px;
+     width: 10px;
+     background-color: #bbb;
+     border-radius: 50%;
+     display: inline-block;
+ }
+
+ /* custom  card */
+
+ .downback {
+     width: 100%;
+     opacity: 0.8;
+ }
+
+  .back1 {
+     position: absolute;
+     opacity: 0.8;
+ }
+
+ .diamondleft {
+     position: absolute;
+     right: 0px;
+     top: 4640px;
+     width: 30%;
+ }
+
+ .diamondright {
+     position: absolute;
+     left: 0px;
+     width: 30%;
+ } 
+
+ .start {
+     position: absolute;
+     top: 4760px;
+     left: 300px;
+ }
+
+ .startpara{
+    font-size: 70px;
+    text-align: center;
+    font-weight: 600;
+    color: #fceffb;
+ }
+
+ .startpara span{
+    color:#151515;
+ }
+
+ .startdown{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 350px; 
+ }
+
+ .startdownbtn{
+    width: 90px;
+    height: 40px;
+ }
+
+ .startdown p{
+    font-weight: 700;
+    font-size: 20px;
+    position: relative;
+    right: 50px;
+    margin-top: 7px;
+ }
+
+ .startdownarrow{
+    width: 75px;
+    margin-left: -35px;
+ }
+
+/* footer  */
+
+ footer{
+    display: flex;
+    height: 150px;
+   margin: 80px 0px 0px 120px;
+ }
+
+ footer img{
+    height: 50px;
+ }
+
+ .footerlist{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 250px;
+ }
+
+ .footerlist li{
+    margin-left: 60px;
+    font-weight: 500;
+ }
