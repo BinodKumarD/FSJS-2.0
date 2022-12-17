@@ -21,6 +21,6 @@ Websites created using html and tailwind css for practice
 
 Assignments of static page using tailwind and html
 
-[check it out](./01.%20%20Practice/)
+[check it out](./02.%20%20Assigments/)
 
 <hr/>
