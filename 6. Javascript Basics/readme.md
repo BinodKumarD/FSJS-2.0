@@ -8,6 +8,7 @@
   - [2. Variables](#2-variables)
   - [3. Operators](#3-operators)
   - [4. Conditionals](#4-conditionals)
+  - [5. Ternary Operator](#5-ternary-operator)
 
 <hr/>
 
@@ -54,17 +55,25 @@ In JavaScript we have the following conditional statements:
 - Use else if to specify a new condition to test, if the first condition is false
 - Use switch to specify many alternative blocks of code to be executed
 
-<ins>**Applying conditional in temperature.**</ins>
+i. <ins>**Applying conditional in temperature.**</ins>
 
 ![](Output/05.Conditional.jpg)
 
-<ins>**Applying conditional in purchase.**</ins>
+ii. <ins>**Applying conditional in purchase.**</ins>
 
 ![](Output/06.ConditionalPurchase.jpg)
 
-<ins>**Applying conditional in Login to a website.**</ins>
+iii. <ins>**Applying conditional in Login to a website.**</ins>
 
 ![](Output/07.ConditionalLogin.jpg)
+
+<hr/>
+
+## 5. Ternary Operator  
+
+The conditional (ternary) operator is the only JavaScript operator that takes three operands: a condition followed by a question mark ( ? ), then an expression to execute if the condition is truthy followed by a colon ( : ), and finally the expression to execute if the condition is falsy. We can say ternary operator is shorthand expression for if-else statement.
+
+![](Output/08.TernaryOperators.jpg)
 
 <hr/>
 
