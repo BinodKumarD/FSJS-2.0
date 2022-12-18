@@ -13,7 +13,7 @@
 
 All practice on designing on static web page are here
 
-[check it out]()
+[check it out](./01.%20Practice/)
 
 <hr/>
 
