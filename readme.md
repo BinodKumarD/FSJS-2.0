@@ -9,7 +9,7 @@
   - [3. CSS Basics](#3-css-basics)
   - [4. Projects on Html and Css](#4-projects-on-html-and-css)
   - [5. Projects on Tailwind Css](#5-projects-on-tailwind-css)
-  - [6. Javascript Basics](#6-javascript-basics)
+  - [6. Javascript](#6-javascript)
 
 <hr/>
 
@@ -53,11 +53,11 @@ Static page design using html and tailwind css. All the assignments and practice
 
 <hr/>
 
-## 6. Javascript Basics
+## 6. Javascript
 
 Javascript is a client side scripting language. It is used to make web pages alive. It is used to programmatically perform actions within the page. When javascript was created, it was initially called "LiveScript". But Java was very popular language at that time, so it was decided that positioning a language as a "younger brother" of java would help. So, important javascript properties which will be helpful during our journey have been implemented. 
  
-[check it out](06.%20Javascript%20Basics/)
+[check it out](06.%20Javascript/)
 
 <hr/>
 
