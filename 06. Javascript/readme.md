@@ -23,4 +23,4 @@ Intermediate concepts of javascript which needed to be know are included here.
 
 [check it out](./02.%20Intermediate/)
 
-<hr\>
+<hr/>
