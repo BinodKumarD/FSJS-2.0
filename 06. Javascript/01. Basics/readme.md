@@ -1,4 +1,4 @@
-## Javascript Basics 
+## Javascript -> <em>01. Basics</em> 
 
 <hr/>
 
