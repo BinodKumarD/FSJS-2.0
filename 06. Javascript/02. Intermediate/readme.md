@@ -15,3 +15,9 @@ A JavaScript function is a block of code designed to perform a particular task. 
 ![](./00.%20Output/01.%20functions.png)
 
 <hr/>
+
+Using functions to know the role of the user.
+
+![](00.%20Output/02.%20UserRoleFunctions.png)
+
+<hr/>
