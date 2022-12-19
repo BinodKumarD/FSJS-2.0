@@ -75,7 +75,7 @@ Credit card Landing static web page designed using HTML and CSS.
 
 Hosting Site Landing static web page designed using HTML and CSS.
 
-[check it out](07.%20Project7-%20Credit%20card%20Landing%20Page/)
+[check it out](./08.%20Project8-%20Hosting%20Site%20Landing%20Page/)
 
 <hr/>
 
