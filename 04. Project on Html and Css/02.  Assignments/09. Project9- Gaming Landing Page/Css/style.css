@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,300&family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;0,800;1,100;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Nav intro background  */
+
+.navIntro::before{
+    background: url("../Assets/Photos/futuristic-bg.png") no-repeat center center/cover;
+    content: "";
+    position: absolute;
+    top: -150px;
+    left: 0;
+    width: 100%;
+    height: 950px;
+    z-index: -1;
+}
+
+.navIntro{
+    background: rgba(0, 0, 0, 0.555);
+    height: 800px;
+}
+
+/* Nav Bar  */
+nav{
+    display: flex;
+    color: #C7C6C6;
+}
+
+nav img{
+    margin: 40px 0px 0px 135px; 
+    width: 160px;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    margin: 50px 400px 0px 125px; 
+    font-size: 17px;
+    font-weight: 500;
+}
+
+nav button{
+    color: #fff;
+    width: 145px;
+    height: 55px;
+    margin-top: 40px;
+    background-color: #F4694C;
+    font-size: 17px;
+    font-weight: 500;
+    border: none;
+}
+
+.signin{
+    background-color: transparent;
+    color: #6C6A6A;
+}
