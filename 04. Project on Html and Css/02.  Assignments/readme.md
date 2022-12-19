@@ -11,6 +11,7 @@
   - [5. Project 5- Medifine Doctor Appointment](#5-project-5--medifine-doctor-appointment)
   - [6. Project 6- Justice for people](#6-project-6--justice-for-people)
   - [7. Project 7- Credit Card Landing Page](#7-project-7--credit-card-landing-page)
+  - [8. Project 8- Hosting Site Landing Page](#8-project-8--hosting-site-landing-page)
 
 <hr/>
 
@@ -70,4 +71,11 @@ Credit card Landing static web page designed using HTML and CSS.
 
 <hr/>
 
+## 8. Project 8- Hosting Site Landing Page
+
+Hosting Site Landing static web page designed using HTML and CSS.
+
+[check it out](07.%20Project7-%20Credit%20card%20Landing%20Page/)
+
+<hr/>
 

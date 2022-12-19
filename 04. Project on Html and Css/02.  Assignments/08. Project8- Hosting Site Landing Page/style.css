@@ -129,20 +129,21 @@ main{
     display: flex;
     justify-content: center;
     gap: 70px;
-    margin: 150px 0px 0px 0px;
+    height: 600px;
 }
 
 .featurebox{
     border: 2px solid #808080be;
     border-radius: 40px;
-   
+    height: 390px;
+    margin-top: 190px;
 }
 
 .feature2{
     background-color: #111010;
     border: none;
     color: #fff;
-    margin: -90px 0px 0px 0px;
+    margin: 90px 0px 0px 0px;
     height: 390px;
     box-shadow: 0px 10px 15px #000;
 }
@@ -357,13 +358,12 @@ main{
 
 .customers{
     display: flex;
-    margin: 0px 0px 0px 0px ;
 }
 
 .customers p:first-child{
     font-size: 55px;
     font-weight: 500;
-    margin: 170px 0px 0px 150px;
+    margin: 170px 0px 0px 210px;
 }
 
 .customers p:last-child{
@@ -437,4 +437,86 @@ main{
     height: 9px;
     background-color: #0C8BFD;
     border-radius: 10px;
+}
+
+/* footer section  */
+
+.footer{
+    color: #fff;
+    text-align: center;
+}
+
+.footerpara1{
+    font-size: 50px;
+    font-weight: 500;
+    margin: 100px 0px;
+}
+
+.signup{
+    background-color: #292828;
+    width: 1260px;
+    border-radius: 30px;
+    margin: 0px 0px 100px 230px;
+}
+
+input{
+    background-color: #3E3D3D;
+    border: none;
+    width: 300px;
+    height: 70px;
+    margin: 40px 0px;
+    border-radius: 40px;
+    margin-left: 30px;
+}
+
+input::placeholder{
+    color: #908F8F;
+    font-size: 18px;
+    padding-left: 22px;
+}
+
+.signup button{
+    width: 170px;
+    height: 70px;
+    margin: 40px 22px 0px;
+    border: none;
+    border-radius: 40px;
+    background-color: #0C8BFD;
+    color: #C8E5FF;
+    font-size: 18px;
+}
+
+.footerhr{
+    width: 80%;
+    height: 2px;
+    background-color: #535252;
+    margin: 0px 0px 0px 190px;
+}
+
+.footerdetails{
+
+    display: flex;
+    gap: 250px;
+    color: #ABAAAA;
+    text-align: left;
+    margin: 70px 0px 70px 240px;
+
+}
+
+.footerdetails p{
+    font-size: 18px;
+    color: #F3F3F3;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+
+.footerdetails li{
+    line-height: 2.2;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.footerimg{
+    margin: 40px 0px 80px 200px;
+    text-align: left;
 }
