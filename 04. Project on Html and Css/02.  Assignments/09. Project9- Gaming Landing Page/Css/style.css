@@ -27,6 +27,7 @@
 }
 
 /* Nav Bar  */
+
 nav{
     display: flex;
     color: #C7C6C6;
@@ -59,5 +60,74 @@ nav button{
 
 .signin{
     background-color: transparent;
-    color: #6C6A6A;
+    color: #ffffffae;
+}
+
+/* intro section  */
+
+.intro{
+    color: #fff;
+    display: flex;
+   
+}
+
+.introfirstpara{
+    margin: 140px 0px 0px 135px;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.introsecondpara{
+    color: #9A9899;
+    font-size: 17px;
+    font-weight: 500;
+    margin: 22px 0px 0px 135px;
+    line-height: 2;
+}
+
+.intro button{
+    color: #fff;
+    font-size: 19px;
+    width: 200px;
+    height: 65px;
+    margin-top: 45px;
+}
+
+.getStarted{
+    background-color: #F4694C;
+    margin: 0px 23px 0px 135px;
+    font-weight: 600;
+}
+
+.learnmore{
+    border: 2px solid #fff;
+    background-color: transparent;
+}
+
+.rightimage1{
+    margin: 260px 0px 0px 430px;
+    color: #fff;
+    width: 95px;
+}
+
+.rightintro p{
+    font-size: 27px;
+    color: #F0F7F8;
+    margin: 140px 0px 0px 355px;
+}
+
+.smallLine{
+    background-color: #fff;
+    width: 55px;
+    height: 1.8px;
+    position: relative;
+    top: 162px;
+    left: 285px;
+}
+
+.rightintroarrow{
+    position: relative;
+    bottom: 13px;
+    left: 670px;
+    width: 70px;
 }
