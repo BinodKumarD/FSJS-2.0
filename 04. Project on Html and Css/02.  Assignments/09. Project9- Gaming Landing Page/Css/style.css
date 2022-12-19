@@ -237,3 +237,52 @@ nav button{
 .game2 button{
     margin-left: 40px;
 }
+
+/* War Game Section  */
+
+.warGame{
+    display: flex;
+    gap: 110px;
+    margin-bottom: 218px;
+}
+
+.leftWarGame img{
+    width: 595px;
+    height: 450px;
+    /* margin-left: 140px; */
+}
+
+.rightWarGameFirstPara{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 12px;
+    color: #121212;
+}
+
+.rightWarGameSecondPara{
+    color: #727272;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 35px 0px;
+    line-height: 2;
+}
+
+.rightWarGame button{
+    font-size: 19px;
+    width: 200px;
+    height: 62px;
+}
+
+.warGameExploreBtn{
+    color: #fff;
+    background-color: #F4694C;
+    font-weight: 600;
+    border: none;
+}
+
+.warGameLearnBtn{
+    border: 2px solid #F4694C;
+    color:  #F4694C;
+    font-weight: 400;
+    margin-left: 25px;
+}
