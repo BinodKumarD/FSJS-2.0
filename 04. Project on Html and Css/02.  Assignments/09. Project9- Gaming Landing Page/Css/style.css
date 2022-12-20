@@ -407,3 +407,52 @@ nav button {
     height: 62px;
     margin-top: 26px;
 }
+
+
+/* Most Played Games Section  */
+
+.mostPlayedGames{
+    background-color: #000308;
+    padding-bottom: 150px;
+}
+
+.mostPlayedGamesPara1{
+    font-size: 50px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px 0px 60px 0px;
+}
+
+.mostPlayedGamesPara2{
+    color: #767779;
+    font-size: 17px;
+    font-weight: 500;
+    margin: 40px 0px 0px 700px;
+}
+.mostPlayedGamesWrittenImg{
+    position: absolute;
+    top: 4114px;
+    left: 600px;
+    width: 1090px;
+}
+
+.mostPlayedGamesImg1{
+    width: 474px;
+    position: relative;
+    left: 144px;
+    top: -114px;
+}
+.mostPlayedGamesImg2{
+    width: 357px;
+    position: relative;
+    top: 32px;
+    left: 207px; 
+}
+
+.mostPlayedGamesImg3{
+    width: 360px;
+    position: relative;
+    top: 32px;
+    left: 255px;
+}
