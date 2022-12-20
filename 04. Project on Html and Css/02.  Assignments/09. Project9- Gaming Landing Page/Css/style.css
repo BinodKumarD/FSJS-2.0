@@ -127,10 +127,9 @@ nav button {
 }
 
 .rightintroarrow {
-    position: relative;
-    bottom: 13px;
-    left: 670px;
-    width: 70px;
+    position: absolute;
+   left: 1490px;
+    width: 72px;
 }
 
 
