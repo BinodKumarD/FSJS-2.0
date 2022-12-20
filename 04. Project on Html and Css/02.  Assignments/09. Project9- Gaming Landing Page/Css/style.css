@@ -6,6 +6,7 @@
     outline: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 
 /* Nav intro background  */
@@ -451,7 +452,7 @@ nav button {
 .mostPlayedGamesImg2 {
     width: 357px;
     position: relative;
-    top: 32px;`
+    top: 32px;
     left: 207px;
 }
 
@@ -503,4 +504,49 @@ nav button {
     margin-top: 40px;
     font-size: 19px;
     font-weight: 700;
+}
+
+/* Footer Section  */
+
+footer {
+    background-color: #000309;
+    color: #9B9C9F;
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    padding: 70px 0px 50px 170px;
+}
+
+.logos p {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.8;
+    margin: 15px 0px 30px 0px;
+}
+
+.logosImg {
+    display: flex;
+    gap: 20px;
+}
+
+.logosImg img {
+    width: 48px;
+}
+
+.footerDetails p {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.footerDetails ul {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 2.5;
+}
+
+
+.end {
+    background-color: #000611;
+    height: 100px;
 }

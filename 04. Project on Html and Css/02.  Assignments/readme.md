@@ -12,6 +12,7 @@
   - [6. Project 6- Justice for people](#6-project-6--justice-for-people)
   - [7. Project 7- Credit Card Landing Page](#7-project-7--credit-card-landing-page)
   - [8. Project 8- Hosting Site Landing Page](#8-project-8--hosting-site-landing-page)
+  - [8. Project 9- Gaming Landing Page](#8-project-9--gaming-landing-page)
 
 <hr/>
 
@@ -67,7 +68,7 @@ Justice for people static web page designed using HTML and CSS.
 
 Credit card Landing static web page designed using HTML and CSS.
 
-[check it out](07.%20Project7-%20Credit%20card%20Landing%20Page/)
+[check it out](./07.%20Project7-%20Credit%20card%20Landing%20Page/)
 
 <hr/>
 
@@ -76,6 +77,14 @@ Credit card Landing static web page designed using HTML and CSS.
 Hosting Site Landing static web page designed using HTML and CSS.
 
 [check it out](./08.%20Project8-%20Hosting%20Site%20Landing%20Page/)
+
+<hr/>
+
+## 8. Project 9- Gaming Landing Page
+
+Gaming Landing static web page designed using HTML and CSS.
+
+[check it out](./09.%20Project9-%20Gaming%20Landing%20Page/)
 
 <hr/>
 
