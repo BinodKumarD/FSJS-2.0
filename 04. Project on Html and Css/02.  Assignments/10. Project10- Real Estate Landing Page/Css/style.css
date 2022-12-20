@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,300&family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;0,800;1,100;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     outline: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Manrope', sans-serif;
 }
 
 /* Nav intro section  */
@@ -49,7 +49,7 @@ nav ul {
     color: #CED0D1;
     list-style-type: none;
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 800;
     margin-top: 22px;
 }
 
@@ -100,8 +100,131 @@ nav ul {
     justify-content: center;
     align-items: center;
     gap: 120px;
+    position: relative;
 }
 
 .logoName img {
     width: 200px;
+}
+
+/* Best Estate Section  */
+
+.bestEstate {
+    background-color: #E6EAEC;
+}
+
+.bestEstatePara1 {
+    color: #27292E;
+    font-size: 84px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 300px;
+}
+
+/* <!-- Property photos, name, price and detail button  --> */
+
+.properties {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    margin: 180px 170px 0px 210px;
+    column-gap: 30px;
+    row-gap: 250px;
+}
+
+
+.propertyDetail {
+    width: 485px;
+    height: 530px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.property1 {
+    background: url(../Assets/Photos/cardImage1.png) no-repeat center center/cover;
+    position: relative;
+    bottom: 90px;
+}
+
+.property2 {
+    background: url(../Assets/Photos/cardImage2.png) no-repeat center center/cover;
+    background-position: 10%;
+    position: relative;
+    bottom: 45px;
+}
+
+.property3 {
+    background: url(../Assets/Photos/cardImage3.png) no-repeat center center/cover;
+}
+
+.property4 {
+    background: url(../Assets/Photos/cardImage4.png) no-repeat center center/cover;
+}
+
+.property5 {
+    background: url(../Assets/Photos/cardImage5.png) no-repeat center center/cover;
+    position: relative;
+    bottom: 50px;
+}
+
+.property6 {
+    background: url(../Assets/Photos/cardImage6.png) no-repeat center center/cover;
+    position: relative;
+    bottom: 100px;
+}
+
+.property7 {
+    background: url(../Assets/Photos/cardImage7.png) no-repeat center center/cover;
+    position: relative;
+    bottom: 100px;
+}
+
+.property8 {
+    background: url(../Assets/Photos/cardImage8.png) no-repeat center center/cover;
+    position: relative;
+    bottom: 60px;
+}
+
+.property9 {
+    background: url(../Assets/Photos/cardImage9.png) no-repeat center center/cover;
+    background-position: 75%;
+    position: relative;
+    bottom: 20px;
+}
+
+
+.propertyNamePriceBtn {
+    background-color: #fff;
+    width: 88%;
+    height: 170px;
+    border-radius: 25px;
+    display: flex;
+    position: relative;
+    top: 440px;
+}
+
+.propertyName {
+    font-size: 29px;
+    font-weight: 700;
+    margin: 45px 0px 0px 40px;
+    color: #2F3542;
+}
+
+.propertyPrice {
+    color: #605CE7;
+    font-size: 24px;
+    font-weight: 800;
+    margin: 15px 0px 0px 40px;
+}
+
+.propertyBtn button {
+    background-color: #6663E9;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 60px 0px 0px 65px;
+    width: 150px;
+    height: 70px;
+    border-radius: 40px;
 }
