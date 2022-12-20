@@ -249,7 +249,10 @@ nav button {
     margin-bottom: 218px;
 }
 
-.leftWarGame img {
+.leftWarGame {
+    background-image: url('../Assets/Photos/Rectangle\ 57.png');
+    background-position: 45%;
+    background-size: cover;
     width: 595px;
     height: 450px;
     margin-left: 140px;
@@ -411,12 +414,12 @@ nav button {
 
 /* Most Played Games Section  */
 
-.mostPlayedGames{
+.mostPlayedGames {
     background-color: #000308;
     padding-bottom: 150px;
 }
 
-.mostPlayedGamesPara1{
+.mostPlayedGamesPara1 {
     font-size: 50px;
     font-weight: 600;
     color: #FFFFFF;
@@ -424,35 +427,80 @@ nav button {
     padding: 50px 0px 60px 0px;
 }
 
-.mostPlayedGamesPara2{
+.mostPlayedGamesPara2 {
     color: #767779;
     font-size: 17px;
     font-weight: 500;
     margin: 40px 0px 0px 700px;
 }
-.mostPlayedGamesWrittenImg{
+
+.mostPlayedGamesWrittenImg {
     position: absolute;
-    top: 4114px;
+    top: 4104px;
     left: 600px;
     width: 1090px;
 }
 
-.mostPlayedGamesImg1{
+.mostPlayedGamesImg1 {
     width: 474px;
     position: relative;
     left: 144px;
     top: -114px;
 }
-.mostPlayedGamesImg2{
+
+.mostPlayedGamesImg2 {
     width: 357px;
     position: relative;
-    top: 32px;
-    left: 207px; 
+    top: 32px;`
+    left: 207px;
 }
 
-.mostPlayedGamesImg3{
+.mostPlayedGamesImg3 {
     width: 360px;
     position: relative;
     top: 32px;
     left: 255px;
+}
+
+/* Unforgettable Experience Section  */
+
+.experience::before {
+    background: url("../Assets/Photos/Rectangle\ 606.png") no-repeat center center/cover;
+    content: "";
+    position: absolute;
+    top: 4755px;
+    left: 0;
+    width: 100%;
+    height: 595px;
+    z-index: -1;
+}
+
+.experience {
+    background: rgba(0, 0, 0, 0.692);
+    height: 595px;
+    color: #fff;
+    text-align: center;
+}
+
+.experiencePara1 {
+    font-size: 44px;
+    font-weight: 700;
+    padding: 137px 0px 30px 0px;
+}
+
+.experiencePara2 {
+    color: #7B7D78;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.experienceBtn {
+    background-color: #F4694C;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 60px;
+    margin-top: 40px;
+    font-size: 19px;
+    font-weight: 700;
 }
