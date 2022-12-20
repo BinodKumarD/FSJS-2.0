@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,300&family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;0,800;1,100;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     outline: 0;
@@ -10,7 +10,7 @@
 
 /* Nav intro background  */
 
-.navIntro::before{
+.navIntro::before {
     background: url("../Assets/Photos/futuristic-bg.png") no-repeat center center/cover;
     content: "";
     position: absolute;
@@ -21,33 +21,33 @@
     z-index: -1;
 }
 
-.navIntro{
+.navIntro {
     background: rgba(0, 0, 0, 0.555);
     height: 800px;
 }
 
 /* Nav Bar  */
 
-nav{
+nav {
     display: flex;
     color: #C7C6C6;
 }
 
-nav img{
-    margin: 40px 0px 0px 135px; 
+nav img {
+    margin: 40px 0px 0px 135px;
     width: 160px;
 }
 
-nav ul{
+nav ul {
     list-style-type: none;
     display: flex;
     gap: 50px;
-    margin: 50px 400px 0px 125px; 
+    margin: 50px 400px 0px 125px;
     font-size: 17px;
     font-weight: 500;
 }
 
-nav button{
+nav button {
     color: #fff;
     width: 145px;
     height: 55px;
@@ -58,26 +58,26 @@ nav button{
     border: none;
 }
 
-.signin{
+.signin {
     background-color: transparent;
     color: #ffffffae;
 }
 
 /* intro section  */
 
-.intro{
+.intro {
     color: #fff;
     display: flex;
-   
+
 }
 
-.introfirstpara{
+.introfirstpara {
     margin: 140px 0px 0px 135px;
     font-size: 60px;
     font-weight: 600;
 }
 
-.introsecondpara{
+.introsecondpara {
     color: #9A9899;
     font-size: 17px;
     font-weight: 500;
@@ -85,7 +85,7 @@ nav button{
     line-height: 2;
 }
 
-.intro button{
+.intro button {
     color: #fff;
     font-size: 19px;
     width: 200px;
@@ -93,30 +93,30 @@ nav button{
     margin-top: 45px;
 }
 
-.getStarted{
+.getStarted {
     background-color: #F4694C;
     margin: 0px 23px 0px 135px;
     font-weight: 600;
 }
 
-.learnmore{
+.learnmore {
     border: 2px solid #fff;
     background-color: transparent;
 }
 
-.rightimage1{
+.rightimage1 {
     margin: 260px 0px 0px 430px;
     color: #fff;
     width: 95px;
 }
 
-.rightintro p{
+.rightintro p {
     font-size: 27px;
     color: #F0F7F8;
     margin: 140px 0px 0px 355px;
 }
 
-.smallLine{
+.smallLine {
     background-color: #fff;
     width: 55px;
     height: 1.8px;
@@ -125,7 +125,7 @@ nav button{
     left: 285px;
 }
 
-.rightintroarrow{
+.rightintroarrow {
     position: relative;
     bottom: 13px;
     left: 670px;
@@ -135,52 +135,54 @@ nav button{
 
 /* Popular Games  */
 
-.popularGames{
+.popularGames {
     margin-bottom: 208px;
 }
 
-.popularGamesPara{
+.popularGamesPara {
     font-size: 45px;
     font-weight: 700;
     text-align: center;
     margin: 185px 0px 80px 0px;
 }
 
-.downloadgames{
+.downloadgames {
     display: flex;
     margin-left: 140px;
     gap: 30px;
 }
 
-.gameimg{
-    width:332px;
+.gameimg {
+    width: 332px;
     height: 400px;
 }
 
-.game1{
+.game1 {
     background-image: url('../Assets/Photos/image\ 2.png');
     background-position: 74%;
-    background-size: cover; 
+    background-size: cover;
 }
 
-.game2{
-        background-image: url('../Assets/Photos/image\ 4.png');
-        background-position: 52%;
-        background-size: cover; 
-}
-.game3{
-        background-image: url('../Assets/Photos/image\ 3.png');
-        background-position: 48%;
-        background-size: cover; 
-        
-}
-.game4{
-        background-image: url('../Assets/Photos/Rectangle\ 56.png');
-        background-position: 45%;
-        background-size: cover; 
+.game2 {
+    background-image: url('../Assets/Photos/image\ 4.png');
+    background-position: 52%;
+    background-size: cover;
 }
 
-.gamedetail{
+.game3 {
+    background-image: url('../Assets/Photos/image\ 3.png');
+    background-position: 48%;
+    background-size: cover;
+
+}
+
+.game4 {
+    background-image: url('../Assets/Photos/Rectangle\ 56.png');
+    background-position: 45%;
+    background-size: cover;
+}
+
+.gamedetail {
     position: relative;
     top: 280px;
     display: flex;
@@ -188,38 +190,39 @@ nav button{
     padding: 18px 0px 0px 16px;
 }
 
-.gamedetail1{
+.gamedetail1 {
     background-color: #414547f1;
 }
-.gamedetail2{
+
+.gamedetail2 {
     background-color: #13110ceb;
 }
 
-.gamedeatil3{
+.gamedeatil3 {
     background-color: #474b7dea;
 }
 
-.gamedetail4{
+.gamedetail4 {
     background-color: #69584ef6;
 }
 
-.gamename{
+.gamename {
     font-weight: 600;
     font-size: 19px;
 }
 
-.actions{
+.actions {
     font-size: 14px;
     color: #9EA0A0;
     margin: 6px 0px;
 }
 
-.stars img{
+.stars img {
     width: 15px;
-   margin: 10px 2px;
+    margin: 10px 2px;
 }
 
-.gameDownload{
+.gameDownload {
     color: #fff;
     background-color: #F4694C;
     border: none;
@@ -230,36 +233,36 @@ nav button{
     margin: 22px 0px 0px 28px;
 }
 
-.game3 button{
+.game3 button {
     margin-left: 57px;
 }
 
-.game2 button{
+.game2 button {
     margin-left: 40px;
 }
 
 /* War Game Section  */
 
-.warGame{
+.warGame {
     display: flex;
     gap: 110px;
     margin-bottom: 218px;
 }
 
-.leftWarGame img{
+.leftWarGame img {
     width: 595px;
     height: 450px;
-    /* margin-left: 140px; */
+    margin-left: 140px;
 }
 
-.rightWarGameFirstPara{
+.rightWarGameFirstPara {
     font-size: 45px;
     font-weight: 700;
     margin-top: 12px;
     color: #121212;
 }
 
-.rightWarGameSecondPara{
+.rightWarGameSecondPara {
     color: #727272;
     font-size: 17px;
     font-weight: 400;
@@ -267,22 +270,140 @@ nav button{
     line-height: 2;
 }
 
-.rightWarGame button{
+.rightWarGame button {
     font-size: 19px;
     width: 200px;
     height: 62px;
 }
 
-.warGameExploreBtn{
+.warGameExploreBtn {
     color: #fff;
     background-color: #F4694C;
     font-weight: 600;
     border: none;
 }
 
-.warGameLearnBtn{
+.warGameLearnBtn {
     border: 2px solid #F4694C;
-    color:  #F4694C;
+    color: #F4694C;
     font-weight: 400;
     margin-left: 25px;
+}
+
+/* Game Reccommend for week  */
+
+.gameRecommend {
+    margin-bottom: 220px;
+}
+
+/* upper side of game recommend  */
+
+.upperGameRecommend {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.leftGameRecommend p {
+    font-size: 48px;
+    font-weight: 600;
+    margin: 0px 0px 0px 145px;
+}
+
+.rightGameRecommend {
+    display: flex;
+    margin: 33px 0px 0px 700px;
+    gap: 20px;
+}
+
+.arrowBox {
+    width: 72px;
+    height: 72px;
+    border: none;
+}
+
+.arrowBox img {
+    width: 33px;
+    margin: 30px 0px 0px 22px;
+}
+
+.leftArrowBox {
+    background-color: #FDE1DB;
+}
+
+.rightArrowBox {
+    background-color: #F4694C;
+}
+
+/* lower side of game recommend  */
+
+.lowerGameRecommend {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    row-gap: 6.5rem;
+    margin-left: 149px;
+
+}
+
+.lowerGameRecommendDiv {
+    display: flex;
+}
+
+.gameRecommendImg {
+    width: 272px;
+    height: 325px;
+}
+
+.gameRecommendImg1 {
+    background-image: url('../Assets/Photos/Rectangle\ 75.png');
+    background-size: cover;
+}
+
+.gameRecommendImg2 {
+    background-image: url('../Assets/Photos/Rectangle\ 76.png');
+    background-size: cover;
+}
+
+.gameRecommendImg3 {
+    background-image: url('../Assets/Photos/Rectangle\ 77.png');
+    background-position: 74%;
+    background-size: cover;
+}
+
+.gameRecommendImg4 {
+    background-image: url('../Assets/Photos/Rectangle\ 78.png');
+    background-size: cover;
+}
+
+.gameRecommendDetails {
+    margin: 24px 0px 0px 40px;
+}
+
+.gameRecommendName {
+    font-size: 29px;
+    font-weight: 500;
+}
+
+.gameRecommendGenre {
+    color: #F47459;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 14px 0px;
+}
+
+.gameRecommendAbout {
+    color: #8C8C8C;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2;
+}
+
+.gameRecomendDownload {
+    color: #fff;
+    background-color: #F4694C;
+    border: none;
+    font-size: 19px;
+    font-weight: 500;
+    width: 175px;
+    height: 62px;
+    margin-top: 26px;
 }
