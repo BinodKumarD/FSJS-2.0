@@ -228,3 +228,63 @@ nav ul {
     height: 70px;
     border-radius: 40px;
 }
+
+/* <!-- Modern House Book  --> */
+
+.modernHouseBook {
+    display: flex;
+    background-color: #E6EAEC;
+}
+
+.leftModernHOuseBook img {
+    margin-top: 470px;
+    width: 940px;
+}
+
+.houseImg {
+    width: 690px;
+    height: 690px;
+    border-radius: 60px;
+}
+
+.modernHouseImg {
+    position: relative;
+    bottom: 880px;
+    left: 170px;
+    background: url(../Assets/Photos/featuresImage1.png) no-repeat center center/cover;
+    background-position: -150px;
+}
+
+.bookingPara1 {
+    font-size: 82px;
+    font-weight: 700;
+}
+
+.bookingPara2 {
+    color: #6f7278;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.bookingBtn {
+    color: #fff;
+    background-color: #6663E9;
+    border: none;
+    width: 285px;
+    height: 85px;
+    border-radius: 70px;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.modernPara1 {
+    padding: 500px 0px 0px 105px
+}
+
+.modernPara2 {
+    margin: 40px 0px 0px 105px;
+}
+
+.modernBtn {
+    margin: 90px 0px 0px 105px;
+}
