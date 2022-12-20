@@ -27,7 +27,7 @@
 }
 
 .navIntro {
-    background: rgba(0, 0, 0, 0.593);
+    background: rgba(0, 0, 0, 0.495);
     height: 1120px;
 }
 
@@ -55,4 +55,37 @@ nav ul{
 
 .horizontalhr{
     padding: 0px 128px;
+}
+
+/* intro section  */
+
+.intro{
+    margin: 160px 0px 0px 200px;
+}
+
+.introPara1{
+  color: #fff;
+  font-size: 92px;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.introPara2{
+    color: #CACDCD;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.7;
+    margin: 38px 0px 0px 0px;
+}
+
+.intro button{
+    background-color: #6663E9;
+    border: none;
+    border-radius: 60px;
+    margin-top: 55px;
+    width: 270px;
+    height: 83px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
 }
