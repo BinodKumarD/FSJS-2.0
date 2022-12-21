@@ -46,6 +46,7 @@ nav button{
 .intro{
     display: flex;
     margin-left: 495px;
+    height: 795px;
 }
 
 .leftIntro img{
@@ -105,4 +106,17 @@ nav button{
 .introAddToBagPara2{
     font-size: 25px;
     font-weight: 700;
+}
+
+/* <!-- social media section  --> */
+
+.socialMediaSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.socialMediaSection img{
+    width: 120px;
 }
