@@ -246,6 +246,7 @@ nav button {
     width: 1116px;
     height: 400px;
     margin: 150px 0px 130px 400px;
+    border-radius: 22px;
 }
 
 .leftBuyNowPara1 {
@@ -277,4 +278,64 @@ nav button {
 
 .rightBuyNow img {
     width: 370px;
+}
+
+/* <!-- choose your style section  --> */
+
+.chooseStyle {
+    margin-left: 620px;
+    margin-right: 590px;
+}
+
+.chooseStyleWrittenImg {
+    display: flex;
+    margin: auto;
+}
+
+.beatProducts {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    row-gap: 111px;
+    column-gap: 60px;
+    padding-top: 160px;
+}
+
+.product {
+    width: 188px;
+    height: 188px;
+    background-color: #181A1B;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.productImg {
+    width: 120px;
+    position: relative;
+    bottom: 25px;
+}
+
+.productDetail {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.productColor {
+    font-weight: 600;
+}
+
+.productModel {
+    color: #C0C3C5;
+    font-weight: 500;
+}
+
+.productDetail button {
+    background-color: #000000;
+    padding: 7px;
+    border-radius: 10px;
+
 }
