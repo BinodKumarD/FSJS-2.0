@@ -234,3 +234,47 @@ nav button {
 .moreInfo img {
     width: 27px;
 }
+
+/* <!-- Buy now Section  --> */
+
+.buyNow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    background-color: #181A1B;
+    width: 1116px;
+    height: 400px;
+    margin: 150px 0px 130px 400px;
+}
+
+.leftBuyNowPara1 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.leftBuyNowPara2 {
+    color: #C7CACC;
+    font-size: 18px;
+    margin: 20px 0px;
+}
+
+.buyNowButton {
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 185px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.buyNowButton img {
+    width: 23px;
+}
+
+.rightBuyNow img {
+    width: 370px;
+}
