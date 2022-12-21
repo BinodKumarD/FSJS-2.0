@@ -120,3 +120,69 @@ nav button{
 .socialMediaSection img{
     width: 120px;
 }
+
+/* <!-- Specification section  --> */
+
+.specs{
+    margin-top: 188px;
+    margin: 188px 0px 0px 688px;
+}
+
+.specsWrittenImg{
+    width: 240px;
+    margin-left: 154px;
+    margin-bottom:45px;
+}
+
+.specsLeftRight{
+    display: flex;
+}
+
+.specsFeatures{
+   height: 115px;
+}
+
+.specsFeatures1, .specsFeatures4{
+    margin-left: 26px;
+}
+
+.specsFeatures img{
+    margin-bottom: -3px;
+}
+
+.specsFeatures1 img{
+ width: 19px;
+ margin-left: 5px;
+}
+
+.specsFeatures2 img{
+    width: 30px;
+}
+
+.specsFeatures3 img{
+    width: 16px;
+    margin-left: 5px;
+}
+
+.specsFeatures4 img{
+    width: 18px;
+    margin-left: 4px;
+}
+
+.specsFeaturesPara1{
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.specsFeaturesPara2{
+    font-size: 15px;
+    font-weight: 500;
+    color: #A7AAAC;
+}
+
+.rightSpecs img{
+    width: 370px;
+    margin-left: 105px;
+    margin-top: 20px;
+}
