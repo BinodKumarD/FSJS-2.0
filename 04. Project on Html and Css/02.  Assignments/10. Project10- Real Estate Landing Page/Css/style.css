@@ -234,6 +234,7 @@ nav ul {
 .modernHouseBook {
     display: flex;
     background-color: #E6EAEC;
+    height: 1068px;
 }
 
 .leftModernHOuseBook img {
@@ -258,6 +259,7 @@ nav ul {
 .bookingPara1 {
     font-size: 82px;
     font-weight: 700;
+    color: #26282D;
 }
 
 .bookingPara2 {
@@ -287,4 +289,68 @@ nav ul {
 
 .modernBtn {
     margin: 90px 0px 0px 105px;
+}
+
+
+/* <!-- Unique House Book  --> */
+
+.uniqueHouseBook {
+    display: flex;
+    background-color: #E6EAEC;
+    height: 1068px;
+}
+
+.rightUniqueHOuseBook img {
+    position: relative;
+    top: 470px;
+    left: 95px;
+    width: 940px;
+}
+
+.houseImg {
+    width: 690px;
+    height: 690px;
+    border-radius: 60px;
+}
+
+.uniqueHouseImg {
+    position: relative;
+    bottom: 410px;
+    left: 175px;
+    background: url(../Assets/Photos/featuresImage2.png) no-repeat center center/cover;
+}
+
+.bookingPara1 {
+    font-size: 82px;
+    font-weight: 700;
+    color: #26282D;
+}
+
+.bookingPara2 {
+    color: #6f7278;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.bookingBtn {
+    color: #fff;
+    background-color: #6663E9;
+    border: none;
+    width: 285px;
+    height: 85px;
+    border-radius: 70px;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.uniquePara1 {
+    padding: 500px 0px 0px 220px
+}
+
+.uniquePara2 {
+    margin: 40px 0px 0px 220px;
+}
+
+.uniqueBtn {
+    margin: 90px 0px 0px 220px;
 }
