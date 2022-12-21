@@ -14,6 +14,7 @@
   - [8. Project 8- Hosting Site Landing Page](#8-project-8--hosting-site-landing-page)
   - [9. Project 9- Gaming Landing Page](#9-project-9--gaming-landing-page)
   - [10. Project 10- Real Estate Landing Page](#10-project-10--real-estate-landing-page)
+  - [11. Project 11- Beats Landing Page](#11-project-11--beats-landing-page)
 
 <hr/>
 
@@ -94,6 +95,14 @@ Gaming Landing static web page designed using HTML and CSS.
 Real Estate Landing static web page designed using HTML and CSS.
 
 [check it out](./10.%20Project10-%20Real%20Estate%20Landing%20Page/)
+
+<hr/>
+
+## 11. Project 11- Beats Landing Page
+
+Beats Landing static web page designed using HTML and CSS.
+
+[check it out](./11.%20Project11-%20Beats%20Landing%20Page/)
 
 <hr/>
 

@@ -303,6 +303,7 @@ nav button {
 .product {
     width: 188px;
     height: 188px;
+    border-radius: 12px;
     background-color: #181A1B;
     display: flex;
     flex-direction: column;
@@ -338,4 +339,84 @@ nav button {
     padding: 7px;
     border-radius: 10px;
 
+}
+
+/* <!-- footer section  --> */
+
+footer {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr 1fr 1fr 1.5fr 1fr;
+    margin-top: 125px;
+    margin-bottom: 230px;
+}
+
+.footerTwitter {
+    display: block;
+    width: 10%;
+    margin-left: 90%;
+    margin-top: 12%;
+
+}
+
+.footerLogo {
+    display: block;
+    margin: auto;
+}
+
+.footerDetail p {
+    font-size: 140%;
+    font-weight: 600;
+    padding-bottom: 6%;
+}
+
+.footerDetail ul {
+    list-style-type: none;
+    color: #8A8C8E;
+    font-size: 115%;
+    line-height: 2;
+}
+
+.email {
+    background-color: #181A1B;
+    width: 400px;
+    height: 75px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 15px;
+    color: #c7caccb0;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.subscribe {
+    background-color: #0A0A0B;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #f1f1f1b6;
+}
+
+.footerSocialMedia {
+    margin-top: 40px;
+    display: flex;
+    gap: 22px;
+}
+
+.footerSocialMedia img {
+    width: 37px;
+}
+
+.footerUpArrow{
+    display: block;
+    width: 38px;
+    margin-left: 78%;
+    margin-top: 44%;
 }
