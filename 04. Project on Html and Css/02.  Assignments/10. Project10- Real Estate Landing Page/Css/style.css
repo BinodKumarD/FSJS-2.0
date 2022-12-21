@@ -5,6 +5,10 @@
     padding: 0;
     outline: 0;
     box-sizing: border-box;
+}
+
+body{
+    background-color: #E6EAEC;
     font-family: 'Manrope', sans-serif;
 }
 
@@ -108,10 +112,6 @@ nav ul {
 }
 
 /* Best Estate Section  */
-
-.bestEstate {
-    background-color: #E6EAEC;
-}
 
 .bestEstatePara1 {
     color: #27292E;
@@ -233,7 +233,6 @@ nav ul {
 
 .modernHouseBook {
     display: flex;
-    background-color: #E6EAEC;
     height: 1068px;
 }
 
@@ -276,7 +275,7 @@ nav ul {
     height: 85px;
     border-radius: 70px;
     font-size: 22px;
-    font-weight: 800;
+    font-weight: 600;
 }
 
 .modernPara1 {
@@ -296,7 +295,6 @@ nav ul {
 
 .uniqueHouseBook {
     display: flex;
-    background-color: #E6EAEC;
     height: 1068px;
 }
 
@@ -307,12 +305,6 @@ nav ul {
     width: 940px;
 }
 
-.houseImg {
-    width: 690px;
-    height: 690px;
-    border-radius: 60px;
-}
-
 .uniqueHouseImg {
     position: relative;
     bottom: 410px;
@@ -320,28 +312,6 @@ nav ul {
     background: url(../Assets/Photos/featuresImage2.png) no-repeat center center/cover;
 }
 
-.bookingPara1 {
-    font-size: 82px;
-    font-weight: 700;
-    color: #26282D;
-}
-
-.bookingPara2 {
-    color: #6f7278;
-    font-size: 24px;
-    font-weight: 600;
-}
-
-.bookingBtn {
-    color: #fff;
-    background-color: #6663E9;
-    border: none;
-    width: 285px;
-    height: 85px;
-    border-radius: 70px;
-    font-size: 22px;
-    font-weight: 800;
-}
 
 .uniquePara1 {
     padding: 500px 0px 0px 220px
@@ -353,4 +323,67 @@ nav ul {
 
 .uniqueBtn {
     margin: 90px 0px 0px 220px;
+}
+
+/* <!-- Subscribing newsletter  --> */
+
+.subscribe{
+    background-color: #6663E9;
+    margin: 310px 95px 170px 95px;
+    height: 700px;
+    border-radius: 90px;
+    color: #fff;
+    text-align: center;
+}
+
+.subscribePara1{
+    font-size: 80px;
+    font-weight: 800;
+    padding: 90px 0px 0px 0px;
+}
+
+.subscribePara2{
+    color: #E6E6FC;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 2;
+    margin-top: 30px;
+}
+
+.subscribeEmail input{
+    background-color: #5654D1;
+    border: none;
+    border-radius: 80px;
+    height: 82px;
+    width: 610px;
+    margin-right: 40px;
+}
+
+.subscribeEmail{
+    margin-top: 75px;
+}
+
+.subscribeEmail input::placeholder{
+    color: #A3A2E6;
+    font-size: 22px;
+    font-weight: 500;
+    padding-left: 80px;
+}
+
+.subscribeEmail img{
+    position: relative;
+    top: 10px;
+    left: 60px;
+    width: 35px;
+}
+
+.subscribeEmail button{
+    background-color: #FEFEFE;
+    color: #5956E7;
+    font-size: 25px;
+    font-weight: 700;
+    border: none;
+    border-radius: 80px;
+    height: 82px;
+    width: 240px;
 }
