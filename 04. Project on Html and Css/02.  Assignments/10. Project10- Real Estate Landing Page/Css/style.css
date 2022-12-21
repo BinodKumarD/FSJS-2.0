@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: #E6EAEC;
     font-family: 'Manrope', sans-serif;
 }
@@ -249,7 +249,7 @@ nav ul {
 
 .modernHouseImg {
     position: relative;
-    bottom: 880px;
+    bottom: 870px;
     left: 170px;
     background: url(../Assets/Photos/featuresImage1.png) no-repeat center center/cover;
     background-position: -150px;
@@ -307,7 +307,7 @@ nav ul {
 
 .uniqueHouseImg {
     position: relative;
-    bottom: 410px;
+    bottom: 400px;
     left: 175px;
     background: url(../Assets/Photos/featuresImage2.png) no-repeat center center/cover;
 }
@@ -327,7 +327,7 @@ nav ul {
 
 /* <!-- Subscribing newsletter  --> */
 
-.subscribe{
+.subscribe {
     background-color: #6663E9;
     margin: 310px 95px 170px 95px;
     height: 700px;
@@ -336,13 +336,13 @@ nav ul {
     text-align: center;
 }
 
-.subscribePara1{
+.subscribePara1 {
     font-size: 80px;
     font-weight: 800;
     padding: 90px 0px 0px 0px;
 }
 
-.subscribePara2{
+.subscribePara2 {
     color: #E6E6FC;
     font-size: 23px;
     font-weight: 500;
@@ -350,7 +350,7 @@ nav ul {
     margin-top: 30px;
 }
 
-.subscribeEmail input{
+.subscribeEmail input {
     background-color: #5654D1;
     border: none;
     border-radius: 80px;
@@ -359,25 +359,25 @@ nav ul {
     margin-right: 40px;
 }
 
-.subscribeEmail{
+.subscribeEmail {
     margin-top: 75px;
 }
 
-.subscribeEmail input::placeholder{
+.subscribeEmail input::placeholder {
     color: #A3A2E6;
     font-size: 22px;
     font-weight: 500;
     padding-left: 80px;
 }
 
-.subscribeEmail img{
+.subscribeEmail img {
     position: relative;
     top: 10px;
     left: 60px;
     width: 35px;
 }
 
-.subscribeEmail button{
+.subscribeEmail button {
     background-color: #FEFEFE;
     color: #5956E7;
     font-size: 25px;
@@ -386,4 +386,47 @@ nav ul {
     border-radius: 80px;
     height: 82px;
     width: 240px;
+}
+
+/* <!-- Footer Section  --> */
+
+footer{
+    display: grid;
+    grid-template-columns: 3.6fr 1fr 1fr 1fr;
+    margin-bottom: 160px;
+}
+
+.footerLogo{
+    margin-left: 210px;
+}
+
+.footerLogoImg1{
+ width: 230px;
+ margin: 30px 0px;
+}
+
+.footerSocialMedia img{
+    width: 64px;
+    margin-right: 33px;
+}
+
+.footerPara1{
+    color: #292b30ce;
+    font-size: 25px;
+    line-height: 1.8;
+    margin-top: 35px;
+}
+
+.footerDetails p{
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.footerDetails ul{
+    color: #2e3035c5;
+    list-style-type: none;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 3.2;
+    margin-top: 27px;
 }
