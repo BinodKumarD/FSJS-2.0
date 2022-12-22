@@ -205,19 +205,19 @@ nav button {
 
 /* <!-- Product Teams section  --> */
 
-.productTeams{
+.productTeams {
     display: flex;
     gap: 120px;
     margin-left: 315px;
 }
 
-.leftProductTeams img{
+.leftProductTeams img {
     width: 535px;
 }
 
- /* Common in Prdouct Teams section and Engineering Teams Section  */
+/* Common in Prdouct Teams section and Engineering Teams Section  */
 
- .teams{
+.teams {
     display: flex;
     gap: 24px;
     justify-content: center;
@@ -229,19 +229,19 @@ nav button {
     border-radius: 30px;
     color: #722ED1;
     background-color: #f0e8f9c5;
-    margin:160px 0px 30px 0px;
+    margin: 160px 0px 30px 0px;
 }
 
-.teams img{
+.teams img {
     width: 29px;
 }
 
-.teamsPara1{
+.teamsPara1 {
     font-size: 40px;
     font-weight: 700;
 }
 
-.teamsPara2{
+.teamsPara2 {
     font-size: 19.5px;
     font-weight: 600;
     line-height: 1.7;
@@ -251,16 +251,60 @@ nav button {
 
 /* <!-- Engineering Teams section  --> */
 
-.engineeringTeams{
+.engineeringTeams {
     display: flex;
-    margin: 180px 0px 110px 315px ;
+    margin: 180px 0px 110px 315px;
 }
 
-.teams1{
+.teams1 {
     margin-top: 120px;
     width: 350px;
 }
 
-.rightEngineeringTeams img{
+.rightEngineeringTeams img {
     width: 850px;
+}
+
+/* <!-- review Section  --> */
+
+.review {
+    height: 930px;
+    clip-path: polygon(0 19%, 100% 0%, 100% 80%, 0% 100%);
+    background: linear-gradient(180deg, rgba(239, 232, 244, 0.962), rgba(187, 213, 241, 0.385));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.reviewPara1 {
+    font-size: 33px;
+}
+
+.reviewPersonImg {
+    width: 115px;
+    margin: 60px 0px 32px 0px;
+}
+
+.reviewPersonName,
+.reviewPersonDesg {
+    font-size: 21px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.horizontalHr {
+    border: 1px solid #a7a7b9dc;
+    width: 70%;
+    margin: 40px 0px;
+}
+
+.reviewSectionLogo img {
+    width: 130px;
+}
+
+.reviewSectionLogo {
+    display: flex;
+    gap: 130px;
 }
