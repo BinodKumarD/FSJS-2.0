@@ -202,3 +202,49 @@ nav button {
     font-size: 20px;
     font-weight: 500;
 }
+
+/* <!-- Product Teams section  --> */
+
+.productTeams{
+    display: flex;
+    gap: 120px;
+    margin-left: 315px;
+}
+
+.leftProductTeams img{
+    width: 535px;
+}
+
+ /* Common in Prdouct Teams section and Engineering Teams Section  */
+
+ .teams{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    width: 295px;
+    height: 55px;
+    font-size: 21px;
+    font-weight: 600;
+    border-radius: 30px;
+    color: #722ED1;
+    background-color: #f0e8f9c5;
+    margin:160px 0px 40px 0px;
+}
+
+.teams img{
+    width: 33px;
+}
+
+.teamsPara1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.teamsPara2{
+    font-size: 19.5px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: #8989A2;
+    margin-top: 48px;
+}
