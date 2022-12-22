@@ -308,3 +308,128 @@ nav button {
     display: flex;
     gap: 130px;
 }
+
+
+/* <!-- signup Section  --> */
+
+.signup{
+    display: flex;
+    gap: 60px;
+    margin: 210px 0px 235px 320px;
+}
+
+.leftSignupPara1{
+    font-size:44px;
+    font-weight: 600;
+}
+
+.trustedBy{
+    font-size: 20px;
+    font-weight: 500;
+    color: #a9a9c3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trustedBy p{
+    margin: 62px 28px;
+}
+
+.line{
+    border: none;
+    width: 210px;
+    background-color: #A7A7B9;
+}
+
+.signupSectionLogo img{
+    width: 130px;
+}
+
+.signupSectionLogo{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    row-gap: 100px;
+}
+
+/* Right Signup section  */
+
+.lowerDivSignup{
+    background-color: #F7EFFE;
+    height: 645px;
+    width: 645px;
+    display: flex;
+    justify-content: center;
+}
+
+.upperDivSignup{
+    width: 570px;
+    height: 645px;
+    background-color: #fff;
+    border-radius: 15px;
+    position: relative;
+    bottom:40px;
+    text-align: center;
+}
+
+.signupPara{
+    font-size: 36px;
+    font-weight: 800;
+    margin: 39px 0px 23px 0px ;
+}
+
+.startYourFreeTrial{
+    background-color: #722ED1;
+    color: #fff;
+    width: 80%;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.inputSignup{
+    display: grid;
+    gap: 10%;
+    margin: 4% 10%;
+    width: 80%;
+    height: 30%;
+    border: none;
+    border-radius: 5px;
+}
+
+input::placeholder{
+    font-size: 19px;
+    color: #8989A2;
+    padding-left: 15px;
+}
+
+.or{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.upperDivSignup img{
+    width: 270px;
+    margin: 2% 0;
+}
+
+.signupHorizontalHr{
+margin-left: 11%;
+margin-bottom: 20px;
+    width: 80%;
+    border: none;
+    height: 1px;
+    background-color: rgba(128, 128, 128, 0.615);
+}
+
+.haveAccount{
+    color:#8989A2 ;
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.haveAccount span{
+    color: #722ED1;
+}
