@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 *{
     margin: 0;
@@ -9,14 +9,14 @@
 
 body{
     background-color: #ffffff;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* <!-- Nav bar and intro Section  --> */
 
 .navIntro{
     height: 870px;
-    clip-path: polygon(0 0, 100% 0%, 100% 81%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0%, 100% 80%, 0% 100%);
     background: linear-gradient( to top, rgba(186, 214, 243, 0.938), rgba(255, 255, 255, 0.966));
 }
 
@@ -26,7 +26,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 50px 307px 0px 307px;
+    margin: 26px 307px 0px 307px;
 }
 
 nav img{
@@ -36,7 +36,7 @@ nav ul{
     display: flex;
     list-style-type: none;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 600;
     gap: 63px;
     align-items: center;
 }
@@ -58,4 +58,72 @@ nav span{
 nav button{
     color: #722ED1;
     border: 2px solid #722ED1;
+}
+
+/* <!-- intro section  --> */
+
+.introSection{
+    margin: 182px 307px 0px 307px;
+    display: flex;
+}
+
+.versionLeftIntro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    gap: 10px;
+    color: #722ED1;
+    background-color: #d9c9ee93;
+    width: 337px;
+    height: 58px;
+    border-radius: 35px;
+}
+
+.versionLeftIntro img{
+    width: 24px;
+}
+
+.versionLeftIntro p{
+    font-size: 20px;
+}
+
+.versionLeftIntro p>span{
+    text-decoration: underline;
+}
+
+.leftIntroSectionPara1{
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 1.1;
+    margin-top: 35px;
+}
+
+.leftIntroSectionPara2{
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #494a4dae;
+    margin: 35px 0px;
+}
+
+.leftIntroStratFreeBtn{
+    border: none;
+    color: #fff;
+    background-color: #722ED1;
+}
+
+.leftIntroLearnMoreBtn{
+    width: 160px;
+    height: 52px;
+    color: #722ED1;
+    border: none;
+    border-radius: 30px;
+    font-size: 19px;
+    margin-left: 22px;
+}
+
+.rightIntroSection img{
+    margin-left: 11px;
+    width: 580px;
 }
