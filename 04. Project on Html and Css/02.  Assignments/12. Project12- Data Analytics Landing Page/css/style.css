@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* <!-- Nav bar and intro Section  --> */
+
+.navIntro{
+    height: 870px;
+    clip-path: polygon(0 0, 100% 0%, 100% 81%, 0% 100%);
+    background: linear-gradient( to top, rgba(186, 214, 243, 0.938), rgba(255, 255, 255, 0.966));
+}
+
+/* <!-- Navbar --> */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 307px 0px 307px;
+}
+
+nav img{
+    width: 150px;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 500;
+    gap: 63px;
+    align-items: center;
+}
+
+nav span{
+    font-size: 16.5px;
+    font-weight: 600;
+    padding-left: 5px;
+    
+}
+
+.startFreeTrialBtn{
+    width: 188px;
+    height: 52px;
+    border-radius: 30px;
+    font-size: 19px;
+}
+
+nav button{
+    color: #722ED1;
+    border: 2px solid #722ED1;
+}
