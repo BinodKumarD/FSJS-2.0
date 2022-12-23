@@ -15,7 +15,7 @@
   - [9. Project 9- Gaming Landing Page](#9-project-9--gaming-landing-page)
   - [10. Project 10- Real Estate Landing Page](#10-project-10--real-estate-landing-page)
   - [11. Project 11- Beats Landing Page](#11-project-11--beats-landing-page)
-  - [12. Project 12- Beats Landing Page](#12-project-12--beats-landing-page)
+  - [12. Project 12- Data Analytics Landing Page](#12-project-12--data-analytics-landing-page)
 
 <hr/>
 
@@ -107,7 +107,7 @@ Beats Landing static web page designed using HTML and CSS.
 
 <hr/>
 
-## 12. Project 12- Beats Landing Page
+## 12. Project 12- Data Analytics Landing Page
 
 Data Analytics Landing static web page designed using HTML and CSS.
 
