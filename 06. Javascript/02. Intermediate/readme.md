@@ -6,6 +6,7 @@
 - [Table of Contents](#table-of-contents)
   - [1. Functions](#1-functions)
   - [2. Context](#2-context)
+  - [3. hoisting](#3-hoisting)
 
 <hr/>
 
@@ -29,5 +30,13 @@ In JavaScript, “context” refers to an object. Within an object, the keyword 
 When a function executes in the global context, “this” refers to the global, or “window” object.
 
 ![](./00.%20Output/03.%20jsContext.png)
+
+<hr/>
+
+## 3. hoisting
+
+JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code.
+
+![](./00.%20Output/04.%20hoisting.png)
 
 <hr/>
