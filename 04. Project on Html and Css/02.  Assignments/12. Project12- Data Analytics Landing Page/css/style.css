@@ -312,18 +312,18 @@ nav button {
 
 /* <!-- signup Section  --> */
 
-.signup{
+.signup {
     display: flex;
     gap: 60px;
     margin: 210px 0px 235px 320px;
 }
 
-.leftSignupPara1{
-    font-size:44px;
+.leftSignupPara1 {
+    font-size: 44px;
     font-weight: 600;
 }
 
-.trustedBy{
+.trustedBy {
     font-size: 20px;
     font-weight: 500;
     color: #a9a9c3;
@@ -332,21 +332,21 @@ nav button {
     align-items: center;
 }
 
-.trustedBy p{
+.trustedBy p {
     margin: 62px 28px;
 }
 
-.line{
+.line {
     border: none;
     width: 210px;
     background-color: #A7A7B9;
 }
 
-.signupSectionLogo img{
+.signupSectionLogo img {
     width: 130px;
 }
 
-.signupSectionLogo{
+.signupSectionLogo {
     display: grid;
     grid-template-columns: repeat(2, auto);
     row-gap: 100px;
@@ -354,7 +354,7 @@ nav button {
 
 /* Right Signup section  */
 
-.lowerDivSignup{
+.lowerDivSignup {
     background-color: #F7EFFE;
     height: 645px;
     width: 645px;
@@ -362,23 +362,23 @@ nav button {
     justify-content: center;
 }
 
-.upperDivSignup{
+.upperDivSignup {
     width: 570px;
     height: 645px;
     background-color: #fff;
     border-radius: 15px;
     position: relative;
-    bottom:40px;
+    bottom: 40px;
     text-align: center;
 }
 
-.signupPara{
+.signupPara {
     font-size: 36px;
     font-weight: 800;
-    margin: 39px 0px 23px 0px ;
+    margin: 39px 0px 23px 0px;
 }
 
-.startYourFreeTrial{
+.startYourFreeTrial {
     background-color: #722ED1;
     color: #fff;
     width: 80%;
@@ -389,7 +389,7 @@ nav button {
     font-weight: 500;
 }
 
-.inputSignup{
+.inputSignup {
     display: grid;
     gap: 10%;
     margin: 4% 10%;
@@ -399,37 +399,109 @@ nav button {
     border-radius: 5px;
 }
 
-input::placeholder{
+input::placeholder {
     font-size: 19px;
     color: #8989A2;
     padding-left: 15px;
 }
 
-.or{
+.or {
     font-size: 22px;
     font-weight: 500;
 }
 
-.upperDivSignup img{
+.upperDivSignup img {
     width: 270px;
     margin: 2% 0;
 }
 
-.signupHorizontalHr{
-margin-left: 11%;
-margin-bottom: 20px;
+.signupHorizontalHr {
+    margin-left: 11%;
+    margin-bottom: 20px;
     width: 80%;
     border: none;
     height: 1px;
     background-color: rgba(128, 128, 128, 0.615);
 }
 
-.haveAccount{
-    color:#8989A2 ;
+.haveAccount {
+    color: #8989A2;
     font-size: 19px;
     font-weight: 600;
 }
 
-.haveAccount span{
+.haveAccount span {
     color: #722ED1;
+}
+
+/* <!-- Footer Section  --> */
+
+footer {
+    margin: 0px 270px 125px 360px;
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    background-color: #FBFCFF;
+    background-color: #fff;
+}
+
+.footerLogo {
+    width: 140px;
+}
+
+.footerLogoDiv p {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 20px 0px;
+    color: #6c6282;
+}
+
+.footerSocialMedia {
+    display: flex;
+    gap: 17px;
+}
+
+.footerSocialMedia img {
+    width: 22px;
+}
+
+.footerDetails p {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.footerDetails ul {
+    list-style-type: none;
+    color: #6C6282;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 2;
+}
+
+.footerDetails input {
+    width: 240px;
+    height: 50px;
+    background-color: rgba(240, 234, 234, 0.297);
+    border: none;
+    box-shadow: 5px 5px 5px rgba(72, 18, 18, 0.336);
+}
+
+.footerDetails input::placeholder {
+    color: #8989A2;
+}
+
+.sendEmailDiv {
+    display: flex;
+    align-items: center;
+}
+
+.footerDetails button {
+    background-color: #fff;
+    border: none;
+    position: relative;
+    right: 45px;
+}
+
+.footerDetails button img {
+    width: 30px;
 }
