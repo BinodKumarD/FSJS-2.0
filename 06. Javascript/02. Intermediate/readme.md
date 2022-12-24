@@ -8,6 +8,7 @@
   - [2. Context](#2-context)
   - [3. hoisting](#3-hoisting)
   - [4. scope chaining](#4-scope-chaining)
+  - [5. Array](#5-array)
 
 <hr/>
 
@@ -48,5 +49,13 @@ Scope in JavaScript actually determines the accessibility of variables and funct
 There are three types of scopes available in JavaScript: Global Scope, Local / Function Scope, and Block Scope
 
 ![](./00.%20Output/05.%20scopeChaining.png)
+
+<hr/>
+
+## 5. Array
+
+Arrays are used to store multiple values in a single variable. This is compared to a variable that can store only one value. Each item in an array has a number attached to it, called a numeric index, that allows you to access it. In JavaScript, arrays start at index zero and can be manipulated with various methods.
+
+![](./00.%20Output/06.%20array.png)
 
 <hr/>
