@@ -7,6 +7,7 @@
   - [1. Functions](#1-functions)
   - [2. Context](#2-context)
   - [3. hoisting](#3-hoisting)
+  - [4. scope chaining](#4-scope-chaining)
 
 <hr/>
 
@@ -38,5 +39,14 @@ When a function executes in the global context, “this” refers to the global,
 JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code.
 
 ![](./00.%20Output/04.%20hoisting.png)
+
+<hr/>
+
+## 4. scope chaining
+
+Scope in JavaScript actually determines the accessibility of variables and functions at various parts in one’s own code or program. Within a scope itself, a variable or a function, or a method could be accessed. Outside the specified scope of a variable or function, the data cannot be accessed.
+There are three types of scopes available in JavaScript: Global Scope, Local / Function Scope, and Block Scope
+
+![](./00.%20Output/05.%20scopeChaining.png)
 
 <hr/>
