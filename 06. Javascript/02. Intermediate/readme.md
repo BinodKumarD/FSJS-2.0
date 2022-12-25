@@ -11,6 +11,7 @@
   - [5. Array](#5-array)
   - [6. Arrow function and callback function](#6-arrow-function-and-callback-function)
   - [7. fill and filter function in array](#7-fill-and-filter-function-in-array)
+  - [8. slice and splice function in array](#8-slice-and-splice-function-in-array)
 
 <hr/>
 
@@ -75,5 +76,14 @@ Arrow function — also called fat arrow function— is a new feature introduced
 The fill() method changes all elements in an array to a static value, from a start index (default 0) to an end index (default array.length). It returns the modified array. The filter() method creates a new array with all elements that pass the test implemented by the provided function.
 
 ![](./00.%20Output/08.%20fill_filter.png)
+
+<hr/>
+
+## 8. slice and splice function in array
+
+The slice() method can be used to create a copy of an array or return a portion of an array. It is important to note that the slice() method does not alter the original array but instead creates a shallow copy.
+Unlike the slice() method, the splice() method will change the contents of the original array. The splice() method is used to add or remove elements of an existing array and the return value will be the removed items from the array.
+
+![](./00.%20Output/09.%20slice_splice.png)
 
 <hr/>
