@@ -6,6 +6,7 @@
 - [Table of Contents](#table-of-contents)
   - [1. Basics](#1-basics)
   - [2. Intermediate](#2-intermediate)
+  - [3. DOM](#3-dom)
 
 <hr/>
 
@@ -22,5 +23,13 @@ Basic concepts of javascript
 Intermediate concepts of javascript which needed to be know are included here.
 
 [check it out](./02.%20Intermediate/)
+
+<hr/>
+
+## 3. DOM
+
+When a web page is loaded, the browser creates a Document Object Model of the page. The HTML DOM model is constructed as a tree of Objects.
+
+[check it out](./03.%20Dom/)
 
 <hr/>
