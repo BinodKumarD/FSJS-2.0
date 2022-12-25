@@ -10,6 +10,7 @@
   - [4. scope chaining](#4-scope-chaining)
   - [5. Array](#5-array)
   - [6. Arrow function and callback function](#6-arrow-function-and-callback-function)
+  - [7. fill and filter function in array](#7-fill-and-filter-function-in-array)
 
 <hr/>
 
@@ -66,5 +67,13 @@ Arrays are used to store multiple values in a single variable. This is compared 
 Arrow function — also called fat arrow function— is a new feature introduced in ES6 that is a more concise syntax for writing function expressions. A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
 
 ![](./00.%20Output/07.%20arrow_callback.png)
+
+<hr/>
+
+## 7. fill and filter function in array
+
+The fill() method changes all elements in an array to a static value, from a start index (default 0) to an end index (default array.length). It returns the modified array. The filter() method creates a new array with all elements that pass the test implemented by the provided function.
+
+![](./00.%20Output/08.%20fill_filter.png)
 
 <hr/>
