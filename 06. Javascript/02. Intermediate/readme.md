@@ -13,6 +13,7 @@
   - [7. fill and filter function in array](#7-fill-and-filter-function-in-array)
   - [8. slice and splice function in array](#8-slice-and-splice-function-in-array)
   - [9. Javascript Objects](#9-javascript-objects)
+  - [10. Methods and objects](#10-methods-and-objects)
 
 <hr/>
 
@@ -96,5 +97,13 @@ JavaScript is an object-based language. Everything is an object in JavaScript.
 JavaScript is template based not class based. Here, we don't create class to get the object. But, we direct create objects.
 
 ![](./00.%20Output/10.%20Objects.png)
+
+<hr/>
+
+## 10. Methods and objects
+
+JavaScript methods are actions that can be performed on objects. A JavaScript method is a property containing a function definition.
+
+![](./00.%20Output/11.%20methods_objects.png)
 
 <hr/>
