@@ -15,6 +15,7 @@
   - [9. Javascript Objects](#9-javascript-objects)
   - [10. Methods and objects](#10-methods-and-objects)
   - [11. for loops](#11-for-loops)
+  - [12. While and Do While Loops](#12-while-and-do-while-loops)
 
 <hr/>
 
@@ -119,5 +120,13 @@ iii. for of loop this loop applies on the array.
 iv. for in loop this loop aplies on the object of the array.
 
 ![](./00.%20Output/12.%20forLoops.png)
+
+<hr/>
+
+## 12. While and Do While Loops
+
+A while statement executes its statements as long as a specified condition evaluates to true.The do...while statement repeats until a specified condition evaluates to false.
+
+![](./00.%20Output/13.%20while_doWhile.png)
 
 <hr/>
