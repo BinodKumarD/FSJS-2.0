@@ -12,6 +12,7 @@
   - [6. Arrow function and callback function](#6-arrow-function-and-callback-function)
   - [7. fill and filter function in array](#7-fill-and-filter-function-in-array)
   - [8. slice and splice function in array](#8-slice-and-splice-function-in-array)
+  - [9. Javascript Objects](#9-javascript-objects)
 
 <hr/>
 
@@ -85,5 +86,15 @@ The slice() method can be used to create a copy of an array or return a portion 
 Unlike the slice() method, the splice() method will change the contents of the original array. The splice() method is used to add or remove elements of an existing array and the return value will be the removed items from the array.
 
 ![](./00.%20Output/09.%20slice_splice.png)
+
+<hr/>
+
+## 9. Javascript Objects
+
+A javaScript object is an entity having state and behavior (properties and method). For example: car, pen, bike, chair, glass, keyboard, monitor etc.
+JavaScript is an object-based language. Everything is an object in JavaScript.
+JavaScript is template based not class based. Here, we don't create class to get the object. But, we direct create objects.
+
+![](./00.%20Output/10.%20Objects.png)
 
 <hr/>
