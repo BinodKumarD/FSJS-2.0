@@ -9,6 +9,7 @@
   - [3. hoisting](#3-hoisting)
   - [4. scope chaining](#4-scope-chaining)
   - [5. Array](#5-array)
+  - [6. Arrow function and callback function](#6-arrow-function-and-callback-function)
 
 <hr/>
 
@@ -57,5 +58,13 @@ There are three types of scopes available in JavaScript: Global Scope, Local / F
 Arrays are used to store multiple values in a single variable. This is compared to a variable that can store only one value. Each item in an array has a number attached to it, called a numeric index, that allows you to access it. In JavaScript, arrays start at index zero and can be manipulated with various methods.
 
 ![](./00.%20Output/06.%20array.png)
+
+<hr/>
+
+## 6. Arrow function and callback function
+
+Arrow function — also called fat arrow function— is a new feature introduced in ES6 that is a more concise syntax for writing function expressions. A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
+
+![](./00.%20Output/07.%20arrow_callback.png)
 
 <hr/>
