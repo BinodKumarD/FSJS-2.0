@@ -14,6 +14,7 @@
   - [8. slice and splice function in array](#8-slice-and-splice-function-in-array)
   - [9. Javascript Objects](#9-javascript-objects)
   - [10. Methods and objects](#10-methods-and-objects)
+  - [11. for loops](#11-for-loops)
 
 <hr/>
 
@@ -105,5 +106,18 @@ JavaScript is template based not class based. Here, we don't create class to get
 JavaScript methods are actions that can be performed on objects. A JavaScript method is a property containing a function definition.
 
 ![](./00.%20Output/11.%20methods_objects.png)
+
+<hr/>
+
+## 11. for loops
+
+A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop. 
+There are mainly types of for loops:
+i. for loop
+ii. for each loop this loop applies in the array only and this counted as array function but not as loop.
+iii. for of loop this loop applies on the array.
+iv. for in loop this loop aplies on the object of the array.
+
+![](./00.%20Output/12.%20forLoops.png)
 
 <hr/>
