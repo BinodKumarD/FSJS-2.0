@@ -9,6 +9,7 @@
   - [3. HTML Tags](#3-html-tags)
   - [4. Landing Page Design](#4-landing-page-design)
   - [5. Coming Soon Landing Page](#5-coming-soon-landing-page)
+  - [6. Mobile App Landing Page](#6-mobile-app-landing-page)
 
 <hr/>
 
@@ -48,6 +49,14 @@ Designing Landing Page using HTML and CSS.
 
 Coming Soon Landing Page design using HTML and CSS.
 
-![](./00.%20Output/05.%20Comming%20Soon%20Landing%20Page.png
+![](./00.%20Output/05.%20Comming%20Soon%20Landing%20Page.png)
+
+<hr/>
+
+## 6. Mobile App Landing Page
+
+Mobile App Landing Page design using HTML and CSS.
+
+![](./00.%20Output/06.%20Mobile%20App%20Landing%20Page.png)
 
 <hr/>
