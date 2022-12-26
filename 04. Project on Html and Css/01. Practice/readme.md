@@ -7,6 +7,7 @@
   - [1. Hello World](#1-hello-world)
   - [2. Emmet](#2-emmet)
   - [3. HTML Tags](#3-html-tags)
+  - [4. Landing Page Design](#4-landing-page-design)
 
 <hr/>
 
@@ -31,5 +32,13 @@ Practice all html tag using emmet.
 Practice all html tags and switching between different pages through anchor tag.
 
 ![](./00.%20Output/03.%20Html.png)
+
+<hr/>
+
+## 4. Landing Page Design
+
+Designng Landing Page using HTML and CSS.
+
+![](./00.%20Output/04.%20Landing%20Page%20Design.png)
 
 <hr/>
