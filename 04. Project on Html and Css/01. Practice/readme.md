@@ -8,6 +8,7 @@
   - [2. Emmet](#2-emmet)
   - [3. HTML Tags](#3-html-tags)
   - [4. Landing Page Design](#4-landing-page-design)
+  - [5. Coming Soon Landing Page](#5-coming-soon-landing-page)
 
 <hr/>
 
@@ -37,8 +38,16 @@ Practice all html tags and switching between different pages through anchor tag.
 
 ## 4. Landing Page Design
 
-Designng Landing Page using HTML and CSS.
+Designing Landing Page using HTML and CSS.
 
 ![](./00.%20Output/04.%20Landing%20Page%20Design.png)
+
+<hr/>
+
+## 5. Coming Soon Landing Page
+
+Coming Soon Landing Page design using HTML and CSS.
+
+![](./00.%20Output/05.%20Comming%20Soon%20Landing%20Page.png
 
 <hr/>
