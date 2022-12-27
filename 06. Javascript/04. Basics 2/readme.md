@@ -15,4 +15,8 @@ checking the usage of this, new, prototype keywords and hasOwnProperty function.
 
 ![](./00.%20Output/01.%20Objects.png)
 
+Using object.create() and working on it.
+
+![](./00.%20Output/02.%20Objects2.png)
+
 <hr/>
