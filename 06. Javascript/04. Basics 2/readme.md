@@ -8,6 +8,7 @@
   - [2. Self Executing Function](#2-self-executing-function)
   - [3. Lexical scope](#3-lexical-scope)
   - [4. Closure](#4-closure)
+  - [5. Binding and call function](#5-binding-and-call-function)
 
 <hr/>
 
@@ -45,5 +46,13 @@ A lexical scope in JavaScript means that a variable defined outside a function c
 A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function.
 
 ![](./00.%20Output/05.%20Closure.png)
+
+<hr/>
+
+## 5. Binding and call function
+
+We use call, bind and apply methods to set the this keyword independent of how the function is called. This is especially useful for the callbacks.
+
+![](./00.%20Output/06.%20thisBinding.png)
 
 <hr/>
