@@ -5,6 +5,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
   - [1. Objects](#1-objects)
+  - [2. Self Executing Function](#2-self-executing-function)
 
 <hr/>
 
@@ -18,5 +19,13 @@ checking the usage of this, new, prototype keywords and hasOwnProperty function.
 Using object.create() and working on it.
 
 ![](./00.%20Output/02.%20Objects2.png)
+
+<hr/>
+
+## 2. Self Executing Function
+
+A JavaScript function that runs as soon as it is defined. Also known as an IIFE (Immediately Invoked Function Expression).
+
+![](./00.%20Output/03.%20selfExecutingFunction.png)
 
 <hr/>
