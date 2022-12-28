@@ -6,6 +6,7 @@
 - [Table of Contents](#table-of-contents)
   - [1. Project 1](#1-project-1)
   - [2. Project 2](#2-project-2)
+  - [3. Project 3](#3-project-3)
 
 <hr/>
 
@@ -24,3 +25,12 @@ practicing the usage of getComputedStyle and addEventListener.
 ![check it out](./00.%20Output/02.%20Project%202.png)
 
 <hr/>
+
+## 3. Project 3
+
+Adding element into the web page through javascript file and exploring various functions to add elements to the web page.
+
+![](./00.%20Output/03.%20Project%203.png)
+
+<hr/>
+
