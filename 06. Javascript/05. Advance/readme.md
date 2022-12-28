@@ -6,6 +6,7 @@
 - [Table of Contents](#table-of-contents)
   - [1. Scope](#1-scope)
   - [2. strings](#2-strings)
+  - [3. maps](#3-maps)
 
 <hr/>
 
@@ -25,5 +26,13 @@ ii. Double quotes: "Hello"
 iii. Backticks: `Hello`
 
 ![](./00.%20Output/02.%20strings.png)
+
+<hr/>
+
+## 3. maps
+
+The Map object holds key-value pairs and remembers the original insertion order of the keys. Any value (both objects and primitive values) may be used as either a key or a value.
+
+![](./00.%20Output/03.%20maps.png)
 
 <hr/>

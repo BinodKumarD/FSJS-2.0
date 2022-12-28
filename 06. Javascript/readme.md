@@ -7,6 +7,8 @@
   - [1. Basics](#1-basics)
   - [2. Intermediate](#2-intermediate)
   - [3. DOM](#3-dom)
+  - [4. Basics 2](#4-basics-2)
+  - [5. Advanced](#5-advanced)
 
 <hr/>
 
@@ -33,3 +35,21 @@ When a web page is loaded, the browser creates a Document Object Model of the pa
 [check it out](./03.%20Dom/)
 
 <hr/>
+
+## 4. Basics 2
+
+More basic concepts of javascript.
+
+[check it out](./04.%20Basics%202/)
+
+<hr/>
+
+## 5. Advanced 
+
+Some advanced topics needed for javascript are mentioned here.
+
+[check it out](./05.%20Advance/)
+
+<hr/>
+
+   
