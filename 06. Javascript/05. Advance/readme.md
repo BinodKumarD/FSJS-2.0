@@ -7,6 +7,7 @@
   - [1. Scope](#1-scope)
   - [2. strings](#2-strings)
   - [3. maps](#3-maps)
+  - [4. Destructure the Data](#4-destructure-the-data)
 
 <hr/>
 
@@ -34,5 +35,13 @@ iii. Backticks: `Hello`
 The Map object holds key-value pairs and remembers the original insertion order of the keys. Any value (both objects and primitive values) may be used as either a key or a value.
 
 ![](./00.%20Output/03.%20maps.png)
+
+<hr/>
+
+## 4. Destructure the Data
+
+The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
+
+![](./00.%20Output/04.%20pickData.png)
 
 <hr/>
