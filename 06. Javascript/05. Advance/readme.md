@@ -11,6 +11,7 @@
   - [5. Spread and rest](#5-spread-and-rest)
   - [6. Class and Objects](#6-class-and-objects)
   - [7. Getter and Setter](#7-getter-and-setter)
+  - [8. Inheritance](#8-inheritance)
 
 <hr/>
 
@@ -75,5 +76,13 @@ ECMAScript 5 (ES5 2009) introduced Getter and Setters.
 Getters and setters allow us to define Object Accessors (Computed Properties).
 
 ![](./00.%20Output/08.%20getterSetter.png)
+
+<hr/>
+
+## 8. Inheritance
+
+To create a class inheritance, use the extends keyword. A class created with a class inheritance inherits all the methods from parent class.
+
+![](./00.%20Output/09.%20Inheritance.png)
 
 <hr/>
