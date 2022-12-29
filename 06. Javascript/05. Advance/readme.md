@@ -10,6 +10,7 @@
   - [4. Destructure the Data](#4-destructure-the-data)
   - [5. Spread and rest](#5-spread-and-rest)
   - [6. Class and Objects](#6-class-and-objects)
+  - [7. Getter and Setter](#7-getter-and-setter)
 
 <hr/>
 
@@ -65,5 +66,14 @@ Classes: Classes were first introduced in the new version of the ES6 classes whi
 ![](./00.%20Output/06.%20class.png)
 
 ![](./00.%20Output/07.%20classObjects.png)
+
+<hr/>
+
+## 7. Getter and Setter
+
+ECMAScript 5 (ES5 2009) introduced Getter and Setters.
+Getters and setters allow us to define Object Accessors (Computed Properties).
+
+![](./00.%20Output/08.%20getterSetter.png)
 
 <hr/>
