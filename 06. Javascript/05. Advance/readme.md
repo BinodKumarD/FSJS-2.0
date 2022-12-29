@@ -1,4 +1,4 @@
-## Javascript -> <em>04. Basics 2</em> 
+## Javascript -> <em>05. Advance</em> 
 
 <hr/>
 
@@ -8,6 +8,7 @@
   - [2. strings](#2-strings)
   - [3. maps](#3-maps)
   - [4. Destructure the Data](#4-destructure-the-data)
+  - [5. Spread and rest](#5-spread-and-rest)
 
 <hr/>
 
@@ -22,9 +23,9 @@ JavaScript had only Global Scope and Function Scope. ES6 introduced two importan
 ## 2. strings
 
 In JavaScript, strings are created by surrounding them with quotes. There are three ways you can use quotes.
-i. Single quotes: 'Hello'
-ii. Double quotes: "Hello"
-iii. Backticks: `Hello`
+- Single quotes: 'Hello'
+- Double quotes: "Hello"
+- Backticks: \`Hello`
 
 ![](./00.%20Output/02.%20strings.png)
 
@@ -43,5 +44,13 @@ The Map object holds key-value pairs and remembers the original insertion order 
 The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
 
 ![](./00.%20Output/04.%20pickData.png)
+
+<hr/>
+
+## 5. Spread and rest
+
+Spread syntax can be used when all elements from an object or array need to be included in a new array or object, or should be applied one-by-one in a function call's arguments list.
+
+![](./00.%20Output/05.%20spreadRest.png)
 
 <hr/>
