@@ -9,6 +9,7 @@
   - [3. maps](#3-maps)
   - [4. Destructure the Data](#4-destructure-the-data)
   - [5. Spread and rest](#5-spread-and-rest)
+  - [6. Class and Objects](#6-class-and-objects)
 
 <hr/>
 
@@ -52,5 +53,17 @@ The destructuring assignment syntax is a JavaScript expression that makes it pos
 Spread syntax can be used when all elements from an object or array need to be included in a new array or object, or should be applied one-by-one in a function call's arguments list.
 
 ![](./00.%20Output/05.%20spreadRest.png)
+
+<hr/>
+
+## 6. Class and Objects
+
+Classes and Objects are basic concepts of Object Oriented Programming that revolve around real-life entities. 
+
+Classes: Classes were first introduced in the new version of the ES6 classes which replaced the previously used functions. Class is nothing but a blueprint for an object of it. It is used to create an object mainly. If we relate it to a real-life example then it is like a plan for a building or house where that plan contains details about doors, windows, floors, etc. 
+
+![](./00.%20Output/06.%20class.png)
+
+![](./00.%20Output/07.%20classObjects.png)
 
 <hr/>
