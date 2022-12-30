@@ -12,6 +12,7 @@
   - [6. Class and Objects](#6-class-and-objects)
   - [7. Getter and Setter](#7-getter-and-setter)
   - [8. Inheritance](#8-inheritance)
+  - [9. Promise Async and Await](#9-promise-async-and-await)
 
 <hr/>
 
@@ -84,5 +85,14 @@ Getters and setters allow us to define Object Accessors (Computed Properties).
 To create a class inheritance, use the extends keyword. A class created with a class inheritance inherits all the methods from parent class.
 
 ![](./00.%20Output/09.%20Inheritance.png)
+
+<hr/>
+
+## 9. Promise Async and Await
+
+Promise is an object representing intermediate state of operation which is guaranteed to complete its execution at some point in future.
+Async/Await is a syntactic sugar for promises, a wrapper making the code execute more synchronously.
+
+![](./00.%20Output/10.%20Promise.png)
 
 <hr/>
