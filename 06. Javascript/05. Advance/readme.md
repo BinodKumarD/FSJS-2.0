@@ -13,6 +13,7 @@
   - [7. Getter and Setter](#7-getter-and-setter)
   - [8. Inheritance](#8-inheritance)
   - [9. Promise Async and Await](#9-promise-async-and-await)
+  - [10. API](#10-api)
 
 <hr/>
 
@@ -94,5 +95,16 @@ Promise is an object representing intermediate state of operation which is guara
 Async/Await is a syntactic sugar for promises, a wrapper making the code execute more synchronously.
 
 ![](./00.%20Output/10.%20Promise.png)
+
+<hr/>
+
+## 10. API
+
+API stands for Application Programming Interface.
+A Web API is an application programming interface for the Web.
+A Browser API can extend the functionality of a web browser.
+A Server API can extend the functionality of a web server.
+
+![](./00.%20Output/11.%20API.png)
 
 <hr/>
