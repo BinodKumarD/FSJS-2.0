@@ -15,6 +15,7 @@
   - [9. Promise Async and Await](#9-promise-async-and-await)
   - [10. API](#10-api)
   - [11. Quirky Behavior of Javascript](#11-quirky-behavior-of-javascript)
+  - [12. Double shot](#12-double-shot)
 
 <hr/>
 
@@ -115,6 +116,14 @@ A Server API can extend the functionality of a web server.
 JavaScript is strange in that it's different from what developers coming to it from other programming languages often expect. In particular because JavaScript has C/C++/Java-like syntax, which causes such developers to assume that it has similar semantics as well but its not.
 
 ![](./00.%20Output/12.%20jsTest.png)
+
+<hr/>
+
+## 12. Double shot
+
+Double shot its useful in real time application in which we don't need truthy or false values but we need true or false values which are boolean in nature so that our application doesn't face any issue. So, for this we use double exclamation to convert falsy value to false value.
+
+![](./00.%20Output/13.%20doubleShot.png)
 
 <hr/>
 
