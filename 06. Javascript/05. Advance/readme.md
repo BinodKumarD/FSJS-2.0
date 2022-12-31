@@ -14,6 +14,7 @@
   - [8. Inheritance](#8-inheritance)
   - [9. Promise Async and Await](#9-promise-async-and-await)
   - [10. API](#10-api)
+  - [11. Quirky Behavior of Javascript](#11-quirky-behavior-of-javascript)
 
 <hr/>
 
@@ -108,3 +109,12 @@ A Server API can extend the functionality of a web server.
 ![](./00.%20Output/11.%20API.png)
 
 <hr/>
+
+## 11. Quirky Behavior of Javascript
+
+JavaScript is strange in that it's different from what developers coming to it from other programming languages often expect. In particular because JavaScript has C/C++/Java-like syntax, which causes such developers to assume that it has similar semantics as well but its not.
+
+![](./00.%20Output/12.%20jsTest.png)
+
+<hr/>
+
