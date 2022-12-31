@@ -7,6 +7,7 @@
   - [1. Project 1](#1-project-1)
   - [2. Project 2](#2-project-2)
   - [3. Project 3](#3-project-3)
+  - [4. Project 4](#4-project-4)
 
 <hr/>
 
@@ -34,3 +35,10 @@ Adding element into the web page through javascript file and exploring various f
 
 <hr/>
 
+## 4. Project 4
+
+A game to guess simely using Dom.
+
+![](./00.%20Output/04.%20Project%204.png)
+
+<hr/>
