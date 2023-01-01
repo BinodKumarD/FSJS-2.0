@@ -172,3 +172,45 @@ span{
         display: none;
     }
 }
+
+/* ----------------------Mobile Phones 2---------------------- */
+
+@media screen and (max-width: 500px) {
+
+    .navbar-container{
+      width: 100%;
+    }
+    
+    .banner-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner-container:first-child{
+        width: fit-content;
+    }
+
+    .banner-container:first-child{
+        width: fit-content;
+    }
+
+    .banner-container img{
+        width: 100% ;
+        height: auto;
+    }
+
+    nav .nav-menu-icon{
+        display: flex;
+        margin: auto;
+    }
+
+    nav .nav-menu-icon i{
+        color: #000000;
+        font-size: 30px;
+        justify-content: flex-end;
+    }
+
+    .grow-list, .button-group{
+        display: none;
+    }
+}
