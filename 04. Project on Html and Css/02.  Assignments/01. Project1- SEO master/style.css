@@ -53,9 +53,12 @@ li:nth-child(1){
      font-weight: 400;
 }
 
+.nav-menu-icon{
+    display: none;
+}
+
 .banner-container{
     display:flex;
-    flex-direction: row;
     justify-content: center;
     margin-left: 90px ;
 }
@@ -89,4 +92,83 @@ span{
 
 .banner-container img{
     height: 550px  ;
+}
+
+
+/* ----------------------Media Queries---------------------- */
+
+
+/* ----------------------Desktops and Laptos---------------------- */
+
+
+
+/* ----------------------Tablets and ipads---------------------- */
+
+@media screen and (max-width: 1024px) {
+
+    .navbar-container{
+      width: 100%;
+    }
+    
+    .banner-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner-container:first-child{
+        width: 100%;
+       
+    }
+
+  .banner-container img{
+        width: 100% ;
+        height: auto;
+       
+    }
+
+  
+    .nav-button{
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+
+/* ----------------------Mobile Phones---------------------- */
+
+@media screen and (max-width: 900px) {
+
+    .navbar-container{
+      width: 100%;
+    }
+    
+    .banner-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner-container:first-child{
+        width: 100%;
+       
+    }
+
+    .banner-container img{
+        width: 100% ;
+        height: auto;
+    }
+
+    nav .nav-menu-icon{
+        display: flex;
+        margin: auto;
+    }
+
+    nav .nav-menu-icon i{
+        color: #000000;
+        font-size: 30px;
+        justify-content: flex-end;
+    }
+
+    .grow-list, .button-group{
+        display: none;
+    }
 }
