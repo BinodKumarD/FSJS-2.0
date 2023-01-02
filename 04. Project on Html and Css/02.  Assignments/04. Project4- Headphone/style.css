@@ -67,3 +67,202 @@ main{
 .upperimage{
     margin-top:-10px ;
 }
+
+
+/* ----------------------Media Queries---------------------- */
+
+
+/* -----------------------Desktops and Laptos---------------------- */
+
+@media screen and (max-width: 1240px) {
+
+    .nav-bar{
+        padding: 0px;
+        display: flex;
+    }
+
+    nav ul{
+        width: 100%;
+    }
+    
+
+    nav ul li{
+        font-size: 1rem;
+    }
+
+    main{
+        margin-left: 0%;
+        padding: 2%;
+        width: 100%;
+    }
+    
+    .leftmain{
+        width:100%;
+    }
+    
+    .leftmain h1{
+        font-size: 350%;
+    }
+    
+    .leftmain p{
+        margin: 5% 0;
+        font-size: 1.2rem;
+    }
+    .leftmain button{
+        display: block;
+        margin: auto;
+    }
+    
+    .rightmain{
+        width: 100%;
+    }
+    
+    .upperimage{
+        width: 100%;
+        display: flex;
+        margin-top: 5%;
+    }
+
+    .upperimage>img{
+        width: 50%;
+        margin: 0.5%;
+    }
+
+    .lowerimage img{
+        width: 100%;
+        margin: 0.4%;
+    }
+
+}
+
+
+/* ----------------------Tablets---------------------- */
+
+@media screen and (max-width: 900px) {
+
+    .nav-bar{
+        padding: 0px;
+        display: flex;
+    }
+
+    nav ul{
+        width: 100%;
+    }
+    
+
+    nav ul li{
+        font-size: 1rem;
+    }
+
+    main{
+        margin-left: 0%;
+        width: 100%;
+    }
+    
+    .leftmain{
+        width:100%;
+    }
+    
+    .leftmain h1{
+        font-size: 350%;
+    }
+    
+    .leftmain p{
+        margin: 5% 0;
+        font-size: 1.2rem;
+    }
+    .leftmain button{
+        display: block;
+        margin: auto;
+    }
+    
+    .rightmain{
+        width: 100%;
+    }
+    
+    .upperimage{
+        width: 100%;
+        display: flex;
+        margin-top: 5%;
+    }
+
+    .upperimage>img{
+        width: 50%;
+        margin: 0.5%;
+    }
+
+    .lowerimage img{
+        width: 100%;
+        margin: 0.4%;
+    }
+
+}
+
+/* ----------------------Mobile Phones ---------------------- */
+
+@media screen and (max-width: 500px) {
+
+
+    .nav-bar{
+        padding: 0px;
+        display: flex;
+    }
+
+    nav ul{
+        width: 100%;
+        margin: 0% 5% ;
+    }
+    
+
+    nav ul li{
+        font-size: 1rem;
+    }
+
+    main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0%;
+        width: 100%;
+    }
+    
+    .leftmain{
+        width:100%;
+    }
+    
+    .leftmain h1{
+        font-size: 350%;
+        margin: 0% 5%;
+    }
+    
+    .leftmain p{
+        margin: 5% 5%;
+        font-size: 1.2rem;
+    }
+    .leftmain button{
+        display: block;
+        margin: auto;
+    }
+    
+    .rightmain{
+        width: 100%;
+    }
+    
+    .upperimage{
+        width: 100%;
+        display: flex;
+        margin-top: 5%;
+    }
+
+    .upperimage>img{
+        width: 50%;
+        margin: 0.5%;
+    }
+
+    .lowerimage img{
+        width: 100%;
+        margin: 0.4%;
+    }
+
+}
