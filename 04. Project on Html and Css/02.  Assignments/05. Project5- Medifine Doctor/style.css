@@ -45,7 +45,7 @@ main{
     display: flex;
     justify-content: center;
     margin-top: 40px;
-    height: 85vh;
+    /* height: 85vh; */
 }
 
 .leftSection{
@@ -130,3 +130,234 @@ main{
     height: 88%;
 }
 
+.nav-menu-icon{
+    display: none;
+}
+
+
+/* ----------------------Media Queries---------------------- */
+
+
+/* -----------------------Desktops and Laptos---------------------- */
+
+@media screen and (max-width: 1240px) {
+
+    
+}
+
+
+/* ----------------------Tablets---------------------- */
+
+@media screen and (max-width: 900px) and (min-width: 500px) {
+
+    *{
+        overflow: scroll;
+    }
+    
+    body{
+        margin: 0px;
+    }
+    
+    nav{
+       width: 100%;
+       justify-content: space-around;
+    }
+    
+    nav ul{
+        display: none;
+    }
+    
+    
+    nav .nav-menu-icon i{
+        color: #000000;
+        font-size: 30px;
+        justify-content: flex-end;
+    }
+    
+    main{
+        display: flex;
+        flex-direction: column; 
+        margin-top: 0px ;
+        
+    }
+        
+    
+    .topangle{
+        width: 35px;
+    }
+    
+    .leftSection{
+        width: 100%
+    }
+    
+    .leftSection h1{
+        font-size: 4.2rem;
+        line-height: 4.8rem;
+        width: 100%;
+    }
+    
+    .leftSection p {
+        font-size: 2.5rem;
+        margin: 5% 0;
+    }
+    
+    
+    .bottomAngle{
+        right: 0px;
+    }
+    
+    .mouse{
+        right: 0px;
+        bottom: 40px;
+        width: 40px;
+    }
+    
+    .stethoscope{
+        width: 60%;
+        top:0%;
+        right: 0%;
+    }
+    
+    .leftSection button{
+        font-size: 1.5rem;
+        display: block;
+        margin: 15% auto  0% auto;
+    }
+    
+    
+    /* Right side  */
+    .rightsection{
+        width: 100%;
+    }
+    .greenbox, .yellowbox{
+        position:absolute;
+    }
+    
+    .greenbox{
+        width: 70%;
+        bottom: -250px;
+        /* right: 20px; */
+    }
+    
+    .yellowbox{
+        width:65%;
+        bottom: -250px;
+        /* right: 0px; */
+    }
+    
+    .doctor{
+        position: relative;
+        left: 330px;
+        height: 720px;
+    }
+    
+    
+
+}
+
+/* ----------------------Mobile Phones ---------------------- */
+
+@media screen and (max-width: 500px) {
+
+*{
+    /* border: 2px solid red; */
+    overflow: scroll;
+}
+
+body{
+    margin: 0px;
+}
+
+nav{
+   width: 100%;
+   justify-content: space-around;
+}
+
+nav ul{
+    display: none;
+}
+
+
+nav .nav-menu-icon i{
+    color: #000000;
+    font-size: 30px;
+    justify-content: flex-end;
+}
+
+main{
+    display: flex;
+    flex-direction: column; 
+    margin-top: 0px ;
+    
+}
+    
+
+.topangle{
+    width: 35px;
+}
+
+.leftSection{
+    width: 100%
+}
+
+.leftSection h1{
+    font-size: 3.5rem;
+    line-height: 4.5rem;
+    width: 100%;
+}
+
+.leftSection p {
+    margin: 5% 0;
+}
+
+
+.bottomAngle{
+    right: 0px;
+}
+
+.mouse{
+    right: 0px;
+    bottom: 40px;
+    width: 40px;
+}
+
+.stethoscope{
+    width: 90%;
+    top:0%;
+    right: 0%;
+}
+
+.leftSection button{
+    font-size: 1.5rem;
+    display: block;
+    margin: 20% auto  0% auto;
+}
+
+
+/* Right side  */
+.rightsection{
+    width: 100%;
+}
+.greenbox, .yellowbox{
+    position:absolute;
+}
+
+.greenbox{
+    width: 90%;
+    bottom: -330px;
+    /* right: 20px; */
+}
+
+.yellowbox{
+    width:85%;
+    bottom: -320px;
+    /* right: 0px; */
+}
+
+.doctor{
+    position: relative;
+    right: -50px;
+    height: 500px;
+}
+
+}
