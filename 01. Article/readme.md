@@ -7,6 +7,7 @@
   - [3. 🎢Basic Introduction to CSS🎢](#3-basic-introduction-to-css)
   - [4. 🖼️CSS Box Model🖼️](#4-️css-box-model️)
   - [5. 🏗️How does CSS positioning perform?🤔](#5-️how-does-css-positioning-perform)
+  - [6. 🔊What are the 5 selectors 👁️‍🗨️in css?🤔💭](#6-what-are-the-5-selectors-️️in-css)
 
 <hr/>
 
@@ -49,3 +50,12 @@ When an element is added to a web page, its position is automatically determined
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/how-does-css-positioning-perform)
 
 <hr/>
+
+## 6. 🔊What are the 5 selectors 👁️‍🗨️in css?🤔💭
+
+The term "CSS selector" refers to the process of handling any HTML element with CSS. In order to choose elements for a certain style, CSS selectors are utilised....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/what-are-the-5-selectors-in-css)
+
+<hr/>
+
