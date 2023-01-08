@@ -8,6 +8,7 @@
   - [4. 🖼️CSS Box Model🖼️](#4-️css-box-model️)
   - [5. 🏗️How does CSS positioning perform?🤔](#5-️how-does-css-positioning-perform)
   - [6. 🔊What are the 5 selectors 👁️‍🗨️in css?🤔💭](#6-what-are-the-5-selectors-️️in-css)
+  - [7. What are pseudo-classes?🤔💭](#7-what-are-pseudo-classes)
 
 <hr/>
 
@@ -58,4 +59,13 @@ The term "CSS selector" refers to the process of handling any HTML element with 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/what-are-the-5-selectors-in-css)
 
 <hr/>
+
+## 7. What are pseudo-classes?🤔💭
+
+In CSS, a pseudo-class is a term that is appended to a selector to specify an element's unique state. A colon (:) is used to separate a pseudo-class name from other classes....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/what-are-pseudo-classes)
+
+<hr/>
+
 
