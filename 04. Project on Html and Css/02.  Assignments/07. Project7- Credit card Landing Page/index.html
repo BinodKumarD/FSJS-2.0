@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Credit Card Landing Page</title>
     <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./media.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     
@@ -24,18 +26,27 @@
     </ul>
 
     <!-- language and contact us -->
-    <ul class="option">
+    <ul class="option language-option">
         <li class="language downwardarrow">Eng<span class="downarrow">&#9660;</span></li>
         <li class="language"><img src="./Icons/btn-pink-bg.svg" alt=""></li>
         <li class="language contact">Contact Us</li>
     </ul>
+
+    <!-- menu  -->
+    <div class="nav-menu">
+        <i class="fa-sharp fa-solid fa-bars"></i>
+    </div>
 </nav>
+
+
 
 <section class="intro">
     <!-- left  -->
 
     <div class="left">
-        <p class="simplify">Simplify All Transactions <br> in <span>One Card</span></p>
+
+        <p class="simplify">Simplify all transactions <br> in <span>One Card</span></p>
+
         <p class="hurry">Hurry up and join now, with this you can manage your daily finances easily and safely.</p>
 
         <div class="get">
@@ -45,13 +56,20 @@
         </div>
        
         <div class="counting">
-           <p class="num">42k</p>
-           <p class="plus">+</p>
-           <p class="exp">Happy <br> Active User</p>
+            <div>
+                <p class="num">42k</p>
+                <p class="plus">+</p>
+                <p class="exp">Happy <br> Active User</p>
+            </div>
+
+
            <img src="./Icons/Vector 402.svg" alt="" class="vector">
-           <p class="num">12k</p>
-           <p class="plus">+</p>
-           <p class="exp">Years <br> Experience</p>
+           <div>
+            <p class="num">12k</p>
+            <p class="plus">+</p>
+            <p class="exp">Years <br> Experience</p>
+           </div>
+          
         </div> 
     </div>
 
@@ -59,10 +77,14 @@
 
     <div class="right">
         <img src="./Photos/backCards.png" alt="" class="back">
-        <img src="./Photos/frontCards.png" alt="" class="front">
+        <span class="right-front">
+            <img src="./Photos/frontCards.png" alt="" class="front">
+        </span>  
     </div>
 
 </section>
+
+
 
 <!-- logo image  -->
 
@@ -73,6 +95,7 @@
     <img src="./Icons/Logo.svg" alt="" class="iconsimg">
     <img src="./Icons/Logo.svg" alt="" class="iconsimg">
 </section>
+
 
 <!-- features  -->
 
@@ -98,6 +121,9 @@
         </div>
     </div>
 </section>
+
+
+<div class="hidden">
 
 <section class="choices">
         <p class="unique">Unique and interesting <br><span>card choices</span></p>
