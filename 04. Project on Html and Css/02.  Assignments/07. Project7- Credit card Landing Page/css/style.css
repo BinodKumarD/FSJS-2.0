@@ -4,12 +4,7 @@
      margin: 0;
      padding: 0;
      outline: 0;
-     overflow-x: hidden;
      /* border: 1px solid red; */
- }
-
- .hidden{
-    display: none;
  }
 
  body {
@@ -40,6 +35,11 @@
     display: none;
  }
 
+ nav> ul> li:hover{
+    color:#f637ec
+ }
+
+
  .nav-menu{
     font-size: 2.4rem;
     padding-right: 50px;
@@ -49,15 +49,8 @@
  /* --------------intro section ------------------- */
 
  .intro {
-    width: 100%;
- 
-    
- }
-
- .right{
-    /* position: relative;
-    left: 8%; */
-    /* display: inline-block; */
+    width: 100%; 
+  
  }
 
  .back {
@@ -73,8 +66,6 @@
      clip-path: polygon(74% 0, 75% 63%, 76% 100%, 0 100%, 0 0);
      position: absolute;
      z-index: -1;
-
-
  } 
 
  .simplify {
@@ -133,6 +124,7 @@
  .counting div{
     display: flex;
  }
+
  .num {
      font-size: 50px;
      font-weight: 600;
@@ -172,19 +164,17 @@
 
  /* ----------------features--------------------  */
 
- .features {
-     /* height: 850px; */
- }
-
  .up {
+    margin-top: 20px;
      display: flex;
-     /* flex-direction: column; */
+     flex-direction: column;
+     gap: 20px;
+     text-align: center;
  }
 
  .best {
      font-size: 50px;
      font-weight: 500;
-     /* margin: 90px 0px 120px 180px; */
  }
 
  .best span {
@@ -194,14 +184,17 @@
 
  .services {
      color: #909090f4;
-     margin: 130px 0px 0px 400px;
      font-size: 20px;
 
  }
 
  .down {
      display: flex;
-     justify-content: center;
+     gap: 70px;
+     flex-direction: column;
+     align-items: center;
+     margin-top: 20px;
+     padding: 70px 0px;
 
  }
 
@@ -219,14 +212,11 @@
      margin-top: 12px;
  }
 
- .box1,
- .box3 {
-     margin-top: 50px;
-     background-color: #272727;
- }
-
- .box2 {
+ .box:hover {
+    position: relative;
      background-color: #454140;
+     transition: all 0.5s ease-in-out;
+     transform: translateY(-50px);
  }
 
  .box img {
@@ -234,11 +224,11 @@
      margin: 40px 0px 0px 80px;
  }
 
- /* card choices  */
+ /*--------------------- card choices ----------------------- */
 
  .choices {
+    width: 100%;
      background-color: #fceffb;
-     height: 1250px;
      display: flex;
      flex-direction: column;
      align-items: center;
@@ -249,12 +239,12 @@
      font-size: 40px;
      font-weight: 500;
      margin-top: 100px;
+     text-align: center;
  }
 
  .unique span {
      color: #f637ec;
      font-weight: 600;
-     margin-left: 90px;
      line-height: 1.5;
  }
 
@@ -266,28 +256,26 @@
  }
 
  .choices img {
-     margin-top: -40px;
+     width: 100%;
  }
 
- /* reviews  */
+ /*-------------------- reviews----------------  */
 
  .reviews {
-     height: 1300px;
      display: flex;
      flex-direction: column;
-     align-items: center;
  }
 
  .reviewspara1 {
      font-size: 50px;
      font-weight: 500;
      margin-top: 120px;
+     text-align: center;
  }
 
  .reviewspara1 span {
      color: #f637ec;
      font-weight: 600;
-     margin-left: 60px;
  }
 
  .reviewspara2 {
@@ -299,22 +287,24 @@
 
  .reviewBox {
      display: flex;
-     width: 1200px;
-     height: 700px;
+     gap: 70px;
      flex-wrap: wrap;
-     margin-top: 100px;
+     justify-content: center;
+     padding: 70px 0px;
+
  }
 
  .review {
      width: 500px;
-     height: 250px;
+     height: 280px;
      border: 2px solid #909090;
-     margin-left: 80px;
      background-color: #1e1f24;
  }
 
- .review1 {
+ .review:hover {
      background-color: #4f4d4c;
+     transition: all 0.5s ease-in-out;
+     transform: translateY(-50px);
  }
 
  .review img {
@@ -336,6 +326,10 @@
      margin-top: 5px;
  }
 
+ .dotted{
+    text-align: center;
+ }
+
  .rect {
      height: 10px;
      width: 48px;
@@ -352,7 +346,12 @@
      display: inline-block;
  }
 
- /* custom  card */
+ /*----------------------- custom  card--------------------------- */
+
+ .customs{
+    position: relative;
+    width: 100%;
+ }
 
  .downback {
      width: 100%;
@@ -367,7 +366,6 @@
  .diamondleft {
      position: absolute;
      right: 0px;
-     top: 4640px;
      width: 30%;
  }
 
@@ -378,13 +376,13 @@
  } 
 
  .start {
+    width: 100%;
      position: absolute;
-     top: 4760px;
-     left: 300px;
+     top: 25%;      
  }
 
  .startpara{
-    font-size: 70px;
+    font-size: 1rem;
     text-align: center;
     font-weight: 600;
     color: #fceffb;
@@ -396,8 +394,8 @@
 
  .startdown{
     display: flex;
-    margin-top: 100px;
-    margin-left: 350px; 
+    justify-content: center;
+    margin-top: 4%;
  }
 
  .startdownbtn{
@@ -418,12 +416,12 @@
     margin-left: -35px;
  }
 
-/* footer  */
+/*-------------------- footer-----------  */
 
  footer{
     display: flex;
-    height: 150px;
-   margin: 80px 0px 0px 120px;
+    flex-direction: column;
+    padding-bottom: 70px;
  }
 
  footer img{
@@ -431,12 +429,14 @@
  }
 
  .footerlist{
+    list-style-type: none;
     display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
     margin-top: 15px;
-    margin-left: 250px;
  }
 
  .footerlist li{
-    margin-left: 60px;
     font-weight: 500;
  }
