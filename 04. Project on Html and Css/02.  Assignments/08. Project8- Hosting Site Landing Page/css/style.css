@@ -13,6 +13,7 @@ font-family: 'Poppins', sans-serif; */
 body {
   background-color: #111010;
   font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
 }
 
 /*---------------------- Navigation Bar------------------------  */
@@ -27,6 +28,15 @@ nav {
 nav ul {
   display: none;
 }
+
+nav> ul :hover{
+  color: rgb(49, 49, 230);
+}
+
+.login-button:hover{
+  background-color: rgb(104, 40, 215);
+}
+
 
 nav button {
   display: none;
@@ -66,7 +76,7 @@ main {
 }
 
 .right img {
-  width: 420px;
+  width: 380px;
 }
 
 .mainbtn {
@@ -81,6 +91,17 @@ main {
 .mainbtn1 {
   background-color: #0c8bfd;
 }
+
+.mainbtn1:hover {
+  background-color: #dbe3e9;
+  color: #000;
+}
+
+.mainbtn2:hover {
+  background-color: #0c8bfd;
+  color: rgb(248, 242, 242);
+}
+
 
 .mainbtn2 {
   background: transparent;
@@ -493,6 +514,10 @@ input {
   border-radius: 40px;
 }
 
+input:hover{
+  background-color: #cee6fc;
+}
+
 input::placeholder {
   color: #908f8f;
   font-size: 18px;
@@ -507,6 +532,10 @@ input::placeholder {
   background-color: #0c8bfd;
   color: #c8e5ff;
   font-size: 18px;
+}
+
+.signup button:hover{
+  background-color: #48dbee;
 }
 
 .footerhr {
@@ -533,11 +562,19 @@ input::placeholder {
   margin-bottom: 12px;
 }
 
+.footerdetails p:hover{
+  color: #48dbee;
+}
+
 .footerdetails li {
   line-height: 2.2;
   font-size: 17px;
   font-weight: 500;
   list-style-type: none;
+}
+
+.footerdetails li:hover{
+  color:#0c8bfd;
 }
 
 .footerimg {
