@@ -1,0 +1,107 @@
+/* -------------------------Tablets screen-------------------- */
+
+@media screen and (min-width: 640px) {
+  /*--------------- logo bar------------ */
+  .logobar {
+    padding: 50px 0px;
+  }
+}
+
+/* -------------------------Big Tablets screen-------------------- */
+
+@media screen and (min-width: 768px) {
+}
+
+/* -------------------------Laptop screen-------------------- */
+
+@media screen and (min-width: 1024px) {
+  /*---------------- Navigation Bar---------------  */
+
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    align-items: center;
+  }
+
+  nav ul li {
+    gap: 50;
+  }
+
+  nav button {
+    display: inline-block;
+    color: #deefff;
+    background-color: #0c8cfdd2;
+    border: none;
+    font-size: 22px;
+    width: 130px;
+    height: 60px;
+    border-radius: 30px;
+  }
+
+  .nav-menu {
+    display: none;
+  }
+
+  /*------------------- Main section --------------- */
+  main {
+    flex-direction: row;
+    text-align: start;
+    justify-content: center;
+    gap: 0px;
+  }
+
+  .right img {
+    width: 500px;
+  }
+
+  /*------------------------ business support---------------------  */
+
+  .support {
+    flex-direction: row;
+  }
+}
+
+/* -------------------------Desktop screen-------------------- */
+
+@media screen and (min-width: 1280px) {
+  /*------------------ Main section ------------------ */
+  main {
+    gap: 100px;
+  }
+
+  /*--------------- logo bar-----------  */
+  .logobar {
+    gap: 180px;
+  }
+  /*-------------------- Review -------------------------- */
+
+  .review {
+    padding: 100px 0px 50px 100px;
+  }
+
+  .customers {
+    flex-direction: row;
+    text-align: justify;
+    gap: 250px;
+  }
+
+  /* -------------------- footer section -------------------------- */
+
+  .signup {
+    width: 80%;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+  }
+
+  .signup input {
+    width: 250px;
+  }
+
+  .signup button {
+    width: 150px;
+  }
+}
