@@ -53,6 +53,10 @@
     gap: 0px;
   }
 
+  .main-btn{
+    justify-content: flex-start;
+  }
+
   .right img {
     width: 500px;
   }
