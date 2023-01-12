@@ -1,0 +1,376 @@
+@media screen and (min-width: 400px) {
+    .navIntro::before {
+        height: 1700px;
+    }
+}
+
+@media screen and (min-width: 438px) {
+    .navIntro::before {
+        height: 1600px;
+    }
+}
+
+@media screen and (min-width: 527px) {
+    .navIntro::before {
+        height: 1500px;
+    }
+    .navIntro {
+        height: 1350px;
+    }
+}
+
+@media screen and (min-width: 575px) {
+   
+    .mostPlayedGamesImg2{
+        left: 30px;
+    }
+
+    .mostPlayedGamesImg3{
+        width: 150px;
+        left: 50px;
+    }
+}
+
+/* -------------------------Tablets screen-------------------- */
+
+@media screen and (min-width: 640px) {
+
+    /*---------------------------- Nav intro background ----------------------- */
+
+.navIntro::before {
+    height: 1250px;
+}
+
+.navIntro {
+    height: 1100px;
+}
+
+
+/*----------- upper side of game recommend-------------- */
+
+.upperGameRecommend {
+    justify-content: space-around;
+    text-align: justify;
+}
+
+.mostPlayedGamesImg1{
+    top: 100px;
+}
+
+.mostPlayedGamesImg2{
+    top: 100px;
+}
+
+.mostPlayedGamesImg3{
+    top: 100px;
+}
+  
+  }
+  
+  /* -------------------------Big Tablets screen-------------------- */
+  
+  @media screen and (min-width: 768px) {
+
+/*--------------- lower side of game recommend ----------- */
+
+.lowerGameRecommend {
+    grid-template-columns: repeat(2, auto);
+    justify-content: space-evenly;
+
+}
+
+.mostPlayedGamesImg1{
+    width: 250px;
+    left: 20px;
+}
+
+.mostPlayedGamesImg2{
+    width: 150px;
+    left: 50px;
+}
+
+.mostPlayedGamesImg3{
+    width: 180px;
+    left: 70px;
+}
+
+  }
+  
+  /* -------------------------Laptop screen-------------------- */
+  
+  @media screen and (min-width: 1024px) {
+
+    /*---------------------------- Nav intro background ----------------------- */
+
+.navIntro::before {
+    height: 950px;
+  
+}
+
+.navIntro {
+    height: 800px;
+}
+    
+    
+/*----------- Nav Bar ---------- */
+
+
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+nav ul :hover{
+    color: rgb(245, 138, 138);
+}
+
+.nav-btn{
+    display: flex;
+}
+
+nav button {
+    display: block;
+    color: #fff;
+    width: 145px;
+    height: 55px;
+    background-color: #F4694C;
+    font-size: 17px;
+    font-weight: 500;
+    border: none;
+}
+
+.signin {
+    background-color: transparent;
+    color: #ffffffae;
+    margin-right: 20px;
+}
+
+.signin:hover{
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: #F4694C; 
+}
+
+.signup:hover{
+    border: 2px solid #fff;
+    background: transparent; 
+    transition: ease-in;
+}
+
+
+.signup::before {  
+    transform: scaleX(0);
+    transform-origin: bottom right;
+  }
+  
+ .signup:hover::before {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+  
+  .signup::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    inset: 0 0 0 0;
+    background: url("../Assets/Photos/futuristic-bg.png") no-repeat center center/cover ;
+    z-index: -1;
+    transition: transform .5s ease-in;
+  }
+
+ .signin::before {  
+    transform: scaleX(0);
+    transform-origin: bottom right;
+  }
+  
+.signin:hover::before {
+    transform: scaleX(1);
+    transform-origin: bottom right;
+  }
+  
+.signin::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    inset: 0 0 0 0;
+    background: url("../Assets/Photos/futuristic-bg.png") no-repeat center center/cover;
+    z-index: -1;
+    transition: transform .5s ease-out;
+  }
+
+.nav-menu {
+   display: none;
+  }
+
+  /*--------------------- intro section ---------------------------- */
+
+.intro {
+   flex-direction: row;
+    text-align: justify;
+    justify-content:space-between;
+    padding: 0px 50px;
+    gap: 0px;
+
+}
+
+.intro-btn{
+    justify-content: flex-start;
+}
+
+.rightintro{
+    gap: 80px;
+}
+
+.right-intro-dash{
+    position: relative;
+    width: 55px;
+    right: 60px;
+    top: 28px;
+}
+
+.downloadgames {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    row-gap: 50px;
+}
+
+
+.most-played-games-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.mostPlayedGamesPara2 {
+    text-align: justify;
+    align-self: center;
+    padding-left: 100px;
+}
+
+.mostPlayedGamesImg1{
+    width: 400px;
+}
+
+.mostPlayedGamesImg2{
+    width: 250px;
+}
+
+.mostPlayedGamesImg3{
+    width: 300px;
+}
+
+
+
+  }
+  
+  /* -------------------------Desktop screen-------------------- */
+  
+  @media screen and (min-width: 1280px) {
+
+    /*----------- Nav Bar ---------- */
+
+    nav{
+        padding: 50px 120px;
+    }
+    
+      /*--------------------- intro section ---------------------------- */
+
+.intro {
+     padding: 30px 150px 0px 150px;
+     justify-content: space-between;
+ }
+
+
+ .rightintroarrow {
+    left: 280px;
+}
+
+
+
+/* ------------------ Popular Games ---------------------  */
+
+.popularGames {
+    margin-bottom: 208px;
+}
+
+/*------------------- War Game Section  ----------------*/
+
+.warGame {
+    text-align: justify;
+    gap: 60px;
+}
+
+.war-game-btn{
+    justify-content: flex-start;
+}
+
+.lowerGameRecommendDiv {
+    align-items: justify;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.gameRecommendDetails {
+    text-align: justify;
+}
+
+.mostPlayedGamesPara2{
+    padding-left: 300px;
+}
+
+.mostPlayedGamesWrittenImg{
+    width: 70%;
+    align-self: flex-end;
+}
+
+.mostPlayedGamesImg1{
+    width: 400px;
+    top: -120px;
+}
+
+.mostPlayedGamesImg2{
+    width: 330px;
+    left: 90px;
+}
+
+.mostPlayedGamesImg3{
+    width: 320px;
+    left: 130px;
+}
+
+}
+
+@media screen and (min-width: 1422px) {
+
+.downloadgames {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+}
+
+  /* -------------------------Desktop Big screen-------------------- */
+  
+  @media screen and (min-width: 1540px) {
+
+    .mostPlayedGamesImg1{
+        left: 110px;
+    }
+
+    .mostPlayedGamesImg2{
+        left: 200px;
+    }
+
+    .mostPlayedGamesImg3{
+        left: 250px;
+    }
+  
+  }

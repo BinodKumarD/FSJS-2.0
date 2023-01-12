@@ -7,6 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gaming Landing page</title>
     <link rel="stylesheet" href="./Css/style.css">
+    <link rel="stylesheet" href="./css/media.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 
 <body>
@@ -15,7 +19,7 @@
 
     <div class="navIntro">
 
-        <!-- nav bar  -->
+        <!------------------ nav bar  ------------------------>
 
         <nav>
             <img src="./Assets/Icons/Logo.svg" alt="">
@@ -25,30 +29,47 @@
                 <li>How it work</li>
                 <li>Pricing</li>
             </ul>
-            <button class="signin">Sign In</button>
-            <button class="signup">Sign Up</button>
+            <div class="nav-btn">
+                <button class="signin">Sign In</button>
+                <button class="signup">Sign Up</button>
+            </div>
+        
+
+
+            <!-------------- nav menu ---------------->
+
+            <div class="nav-menu">
+                <i class="fa-sharp fa-solid fa-bars"></i>
+            </div>
+
         </nav>
+
+       
 
         <!-- intro section  -->
 
-        <section class="intro">
+        <section class="intro ">
             <div class="leftintro">
                 <p class="introfirstpara">Play Game Everytime <br> Always Be winner <br> And Strong</p>
                 <p class="introsecondpara">Improve your gaming skills by playing games that are currently <br> popular
                     so that you don't go out of style improve skills</p>
-                <button class="getStarted">Get Started</button>
-                <button class="learnmore">Learn more</button>
+                <div class="intro-btn">
+                    <button class="getStarted">Get Started</button>
+                    <button class="learnmore">Learn more</button>
+                </div>
             </div>
 
             <div class="rightintro">
                 <img src="./Assets/Icons/playButton.svg" alt="" class="rightimage1">
-                <div class="smallLine"></div>
-                <p>The King of Terania <br> And Last Seasion <br> XXIV</p>
-                <img src="./Assets/Icons/rightArrow.svg" alt="" class="rightintroarrow">
+                <div class="right-intro-down">
+                    <img src="./Assets/Icons/dash.svg" alt="" class="right-intro-dash">
+                    <p>The King of Terania <br> And Last Seasion <br> XXIV</p>
+                    <img src="./Assets/Icons/rightArrow.svg" alt="" class="rightintroarrow">
+                </div>
+           
             </div>
         </section>
-    </div>
-
+    
 
     <!-- popular games  -->
 
@@ -156,12 +177,15 @@
             <p class="rightWarGameSecondPara">This is the best episode that we present to you, we collect all over <br>
                 asia and we present it to you only for you, our special customer, this is an <br> episode discussing the
                 design of various types of design</p>
-            <button class="warGameExploreBtn">Explore Now</button>
-            <button class="warGameLearnBtn">Learn More</button>
+            <div class="war-game-btn">
+                <button class="warGameExploreBtn">Explore Now</button>
+                <button class="warGameLearnBtn">Learn More</button>
+            </div>
 
         </div>
 
     </section>
+
 
     <!-- Game Reccommended for weeek -->
 
@@ -254,31 +278,38 @@
         </div>
 
     </section>
-
+    
 
     <!-- Most Played Games Section  -->
 
     <section class="mostPlayedGames">
 
         <p class="mostPlayedGamesPara1">Most Played Games <br> Of The Year</p>
-        <p class="mostPlayedGamesPara2">We have data on the most played games this year and as a result, games <br>about
-            battles and wars are very popular with gamers at this time, so we recommend <br>this game into your cart to
-            be used as your game.</p>
-        <img src="./Assets/Icons/GAMES OF THE WORLD.svg" alt="" class="mostPlayedGamesWrittenImg">
-        <img src="./Assets/Photos/Rectangle 17.png" alt="" class="mostPlayedGamesImg1">
-        <img src="./Assets/Photos/Rectangle 18.png" alt="" class="mostPlayedGamesImg2">
-        <img src="./Assets/Photos/Rectangle 90.png" alt="" class="mostPlayedGamesImg3">
+
+        <div class="most-played-games-div">
+            <p class="mostPlayedGamesPara2">We have data on the most played games this year and as a result, games <br>about
+                battles and wars are very popular with gamers at this time, so we recommend <br>this game into your cart to
+                be used as your game.</p>
+            <img src="./Assets/Icons/GAMES OF THE WORLD.svg" alt="" class="mostPlayedGamesWrittenImg">
+            <div class="most-played-games-img">
+                <img src="./Assets/Photos/Rectangle 17.png" alt="" class="mostPlayedGamesImg1">
+                <img src="./Assets/Photos/Rectangle 18.png" alt="" class="mostPlayedGamesImg2">
+                <img src="./Assets/Photos/Rectangle 90.png" alt="" class="mostPlayedGamesImg3">
+            </div>
+        </div>
+        
     </section>
 
     <!-- Unforgettable Experience section -->
+    <div class="unforgettable-experience">
+        <section class="experience">
 
-    <section class="experience">
-
-        <p class="experiencePara1">Have An Unforgettable <br> Experience</p>
-        <p class="experiencePara2">Have an uforgettable experience and play now to <br> get attractive promos</p>
-        <button class="experienceBtn">Get started</button>
-
-    </section>
+            <p class="experiencePara1">Have An Unforgettable <br> Experience</p>
+            <p class="experiencePara2">Have an uforgettable experience and play now to <br> get attractive promos</p>
+            <button class="experienceBtn">Get started</button>
+    
+        </section>
+    </div>
 
     <!-- footer section  -->
 
