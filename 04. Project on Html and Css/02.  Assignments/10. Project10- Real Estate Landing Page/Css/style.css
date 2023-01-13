@@ -49,6 +49,10 @@ nav ul {
     display: none;
 }
 
+nav ul li:hover{
+    color: #6663E9;
+}
+
 .nav-menu {
     font-size: 2.4rem;
     color: #FEFEFE;
@@ -79,6 +83,14 @@ nav ul {
     line-height: 1.2;
 }
 
+.introPara1:hover{
+    color: #A3A2E6;
+}
+
+.introPara2:hover{
+    color: #82ed58;
+}
+
 .introPara2 {
     color: #CACDCD;
     font-size: 22px;
@@ -88,7 +100,6 @@ nav ul {
 }
 
 .intro button {
-    background-color: #6663E9;
     border: none;
     border-radius: 60px;
     margin-top: 55px;
@@ -97,6 +108,17 @@ nav ul {
     color: #fff;
     font-size: 24px;
     font-weight: 600;
+
+    background: linear-gradient(to right, #CACDCD 50%,  #6663E9 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+}
+
+.intro button:hover{
+    border: 2px solid #27292E;
+    color:#000;
+    transition: all .5s ease-out;
+    background-position: left bottom;
 }
 
 .logoName {
@@ -111,6 +133,16 @@ nav ul {
     align-items: center;
     gap: 60px;
     position: relative;
+
+    background: linear-gradient(to right, #c7e0f9 50%,  #fff 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+}
+
+.logoName:hover{
+    color:#000;
+    transition: all .5s ease-out;
+    background-position: left bottom;
 }
 
 .logoName img {
@@ -144,6 +176,11 @@ nav ul {
     border-radius: 25px;
     display: flex;
     justify-content: center;
+}
+
+.propertyDetail:hover{
+    transition: 1.5s;
+  transform: rotateY(360deg);
 }
 
 .property1 {
@@ -222,7 +259,7 @@ nav ul {
 }
 
 .propertyBtn button {
-    background-color: #6663E9;
+    background-color: ;
     color: #fff;
     border: none;
     font-size: 20px;
@@ -230,6 +267,17 @@ nav ul {
     width: 150px;
     height: 70px;
     border-radius: 40px;
+
+    background: linear-gradient(to right, #9decf4 50%,  #6663E9 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+}
+
+
+.propertyBtn button:hover{
+    color:#000;
+    transition: all .5s ease-out;
+    background-position: left bottom;
 }
 
 /* --------------------- Modern House Book  --------------------- */
@@ -242,6 +290,16 @@ nav ul {
 
 .leftModernHOuseBook{
     position: relative;
+}
+
+.leftModernHOuseBook:hover{
+    transition: 1.5s;
+    transform: rotate(360deg);
+}
+
+.rightUniqueHOuseBook:hover{
+    transition: 1.5s;
+    transform: rotate(-360deg);
 }
 
 .leftModernHOuseBook img {
@@ -283,8 +341,22 @@ nav ul {
     border-radius: 70px;
     font-size: 22px;
     font-weight: 600;
+
+    background: linear-gradient(to right, #9decf4 50%,  #6663E9 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
 }
 
+
+
+.bookingBtn:hover{
+
+    color:#000;
+    transition: all .5s ease-out;
+    background-position: left bottom;
+
+    
+}
 .rightModernHouseBook{
     display: flex;
     flex-direction: column;
@@ -370,6 +442,10 @@ nav ul {
     margin-right: 40px;
 }
 
+.subscribeEmail input:hover{
+    background: rgb(55, 52, 52);
+}
+
 .subscribeEmail input::placeholder {
     background: url(../Assets/Icons/mail.png) no-repeat;
     background-position-x: 5%;
@@ -377,10 +453,18 @@ nav ul {
     font-size: 20px;
     font-weight: 500;
     text-align: center;
+
+}
+
+
+.subscribeEmail button:hover{
+    color: #fff;
+    transition: all .5s ease-out;
+    background-position: left bottom;
 }
 
 .subscribeEmail button {
-    background-color: #FEFEFE;
+
     color: #5956E7;
     font-size: 25px;
     font-weight: 700;
@@ -388,6 +472,10 @@ nav ul {
     border-radius: 80px;
     height: 82px;
     width: 240px;
+
+    background: linear-gradient(to right, #69eff4 50%,  #FEFEFE 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
 }
 
 /* ----------- Footer Section  ---------------- */
@@ -400,10 +488,6 @@ footer{
     gap: 90px;
     margin-bottom: 160px;
     justify-content: center;
-}
-
-.footerLogo{
-    /* margin-left: 210px; */
 }
 
 .footerLogoImg1{
@@ -423,6 +507,10 @@ footer{
     margin-top: 35px;
 }
 
+.footerPara1:hover{
+    color:rgba(243, 48, 48, 0.495)
+}
+
 .footerDetails p{
     font-size: 26px;
     font-weight: 600;
@@ -435,4 +523,12 @@ footer{
     font-weight: 500;
     line-height: 3.2;
     margin-top: 27px;
+}
+
+.footerDetails p:hover{
+    color: rgb(244, 138, 138);
+}
+
+.footerDetails ul li:hover{
+    color: #5654D1;
 }
