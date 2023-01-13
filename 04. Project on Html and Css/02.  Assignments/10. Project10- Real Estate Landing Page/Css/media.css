@@ -1,0 +1,338 @@
+
+@media screen and (min-width: 440px) {
+
+.introPara1 {
+   
+    font-size: 4rem;
+}
+
+.property1, .property2, .property5, .property6, .property7, .property8 {
+    bottom: 0px;
+ }
+
+
+ .leftModernHOuseBook img {
+    width: 440px;
+}
+
+.houseImg {
+    width: 335px;
+    height: 335px;
+}
+
+.modernHouseImg {
+    bottom: 100px;
+    left: 70px;
+}
+
+.bookingPara1 {
+    font-size: 4rem;
+}
+
+.subscribeEmail input::placeholder {
+    font-size: 24px;
+}
+
+}
+
+@media screen and (min-width: 540px) {
+    
+    .logoName {
+   margin: 150px auto;
+   padding: 250px auto;
+   width: 90%;
+}
+
+.logoName img {
+    width: 120px;
+}
+
+}
+
+/* -------------------------Tablets screen-------------------- */
+
+@media screen and (min-width: 640px) {
+
+    .navIntro::before {
+        height: 1050px;
+    }
+
+    .navIntro{
+        height: 1050px;
+    }
+
+/*----------------------- intro section  ----------------------*/
+
+.intro{
+    margin-top: 160px;
+}
+
+.introPara1 {
+    font-size: 5rem;
+}
+  
+  }
+  
+  /* -------------------------Big Tablets screen-------------------- */
+  
+  @media screen and (min-width: 768px) {
+
+    .navIntro::before {
+        height: 950px;
+    }
+
+    .navIntro{
+        height: 950px;
+    }
+
+    /*--------------- Nav Bar ---------------------- */
+    nav{
+        padding: 20px 50px;
+    }
+
+
+    /* --------------------modern house book------------------ */
+
+    .modernHouseBook {
+        flex-direction: row;
+        justify-content: center;
+        gap: 0px;
+    }
+    
+
+    .bookingPara1 {
+        margin-top: 170px;
+    }
+
+    .rightModernHouseBook{
+        text-align: justify;
+        align-items: flex-start;
+    }
+
+    
+/*------------ Unique House Book  --------------------------- */
+
+.uniqueHouseBook {
+    flex-direction: row;
+    gap: 0px;
+}
+
+.leftUniqueHouseBook{
+    text-align: justify;
+    align-items: flex-start;
+}
+
+.rightUniqueHOuseBook{
+    align-self: flex-end;
+}
+
+
+
+/* ---------- Subscribing newsletter  ----------- */
+
+.subscribe {
+    margin: 250px 40px;
+}
+
+
+  }
+  
+  /* -------------------------Laptop screen-------------------- */
+  
+  @media screen and (min-width: 1024px) {
+
+     /*--------------- Nav Bar ---------------------- */
+
+     nav{
+        padding: 20px 100px;
+    }
+
+nav ul {
+    display: flex;
+    gap: 80px;
+    color: #CED0D1;
+    list-style-type: none;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 22px;
+}
+
+.nav-menu {
+    display: none;
+  }
+
+  /*----------------------- intro section  ----------------------*/
+
+.intro {
+    margin: 90px 0px 0px 200px;
+    text-align: justify;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.introPara1 {
+   
+    font-size: 92px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.introPara2 {
+    color: #CACDCD;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.7;
+    margin: 38px 0px 0px 0px;
+}
+
+.intro button {
+    background-color: #6663E9;
+    border: none;
+    border-radius: 60px;
+    margin-top: 55px;
+    width: 270px;
+    height: 83px;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.logoName {
+    height: 220px;
+}
+
+.logoName img {
+    width: 200px;
+}
+
+
+/*------------------------- Best Estate Section  ----------------------------------*/
+
+.bestEstatePara1 {
+    color: #27292E;
+    font-size: 84px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.modernHouseBook{
+    justify-content: flex-start;
+}
+
+.uniqueHouseBook {
+    justify-content: flex-end;
+    gap: 100px;
+}
+
+/* ---------- Subscribing newsletter  ----------- */
+
+.subscribe {
+    margin: 250px 40px;
+}
+
+.subscribeEmail {
+    width: 70%;
+    margin: auto;
+    margin-top: 75px;
+    flex-direction: row;
+    gap: 20px;
+}
+
+
+
+}
+  
+  /* -------------------------Desktop screen-------------------- */
+  
+  @media screen and (min-width: 1280px) {
+
+    /* <!-- Property photos, name, price and detail button  --> */
+
+.properties {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    margin: 180px 170px 0px 210px;
+    column-gap: 30px;
+    row-gap: 250px;
+}
+
+
+.propertyDetail {
+    width: 385px;
+    height: 430px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.property1, .property6, .property7 {
+    bottom: 100px;
+ }
+
+ .property2, .property5, .property8 {
+    bottom: 50px;
+ }
+
+ 
+/* --------------------- Modern House Book  --------------------- */
+
+
+.modernHouseBook {
+   gap: 100px;
+}
+
+.leftModernHOuseBook img {
+    width: 600px;
+}
+
+.houseImg {
+    width: 450px;
+    height: 450px;
+}
+
+.modernHouseImg {
+    bottom: 110px;
+    left: 105px;
+
+}
+
+.bookingPara1 {
+    margin-top: 250px;
+}
+
+
+.rightUniqueHOuseBook img {
+    width: 600px;
+}
+
+.uniqueHouseImg {
+    bottom: 120px;
+    right: 100px;
+}
+
+/* ---------- Subscribing newsletter  ----------- */
+
+.subscribe {
+    margin: 250px 30px;
+}
+
+.subscribeEmail {
+    width: 50%;
+}
+
+
+
+/* ----------- Footer Section  ---------------- */
+
+footer{
+    display: grid;
+    grid-template-columns: 3.6fr 1fr 1fr 1fr;
+    gap: 0px;
+}
+
+.footerLogo{
+    margin-left: 210px;
+}
+
+  
+  }

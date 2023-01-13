@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+.hidden{
+    display: none;
+}
+
 body {
     background-color: #E6EAEC;
     font-family: 'Manrope', sans-serif;
@@ -18,58 +22,59 @@ body {
 /* Nav intro background  */
 
 .navIntro::before {
-    background: url("../Assets/Photos/mainBackground.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
+    background: url("../Assets/Photos/mainBackground.png") no-repeat center center/cover;
     content: "";
     position: absolute;
-    top: -80px;
     width: 100%;
-    height: 1200px;
+    height: 900px;
     z-index: -1;
 }
 
 .navIntro {
     background: rgba(0, 0, 0, 0.495);
-    height: 1120px;
+    height: 900px;
 }
 
-/* Nav Bar  */
+/*--------------- Nav Bar ---------------------- */
 
 nav {
     display: flex;
-    padding: 43px 200px;
     justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
 
-nav img {
-    width: 190px;
-}
 
 nav ul {
-    display: flex;
-    gap: 80px;
-    color: #CED0D1;
-    list-style-type: none;
-    font-size: 24px;
-    font-weight: 800;
-    margin-top: 22px;
+    display: none;
 }
+
+.nav-menu {
+    font-size: 2.4rem;
+    color: #FEFEFE;
+  }
 
 .horizontalhr {
-    padding: 0px 128px;
+    background-color: #fff;
+    height: 1px;
+    width: 90%;
+    margin: 22px auto;
 }
 
-/* intro section  */
+/*----------------------- intro section  ----------------------*/
 
-.intro {
-    margin: 160px 0px 0px 200px;
+.intro{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
 }
 
 .introPara1 {
     color: #fff;
-    font-size: 92px;
+    font-size: 3.5rem;
     font-weight: 600;
     line-height: 1.2;
 }
@@ -79,7 +84,7 @@ nav ul {
     font-size: 22px;
     font-weight: 500;
     line-height: 1.7;
-    margin: 38px 0px 0px 0px;
+    margin-top: 38px;
 }
 
 .intro button {
@@ -96,45 +101,46 @@ nav ul {
 
 .logoName {
     background-color: #fff;
-    margin: 215px 60px;
-    padding: 0px 150px;
+    margin-top: 50px;
+    padding: 40px 0px;
     border-radius: 50px;
-    height: 260px;
+    width: 100%;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 120px;
+    gap: 60px;
     position: relative;
 }
 
 .logoName img {
-    width: 200px;
+    width: 100px;
 }
 
-/* Best Estate Section  */
+/*------------------------- Best Estate Section  ----------------------------------*/
 
 .bestEstatePara1 {
     color: #27292E;
     font-size: 84px;
     font-weight: 800;
     text-align: center;
-    padding-top: 300px;
+    margin-top: 200px;
+    margin-bottom: 120px;
 }
 
 /* <!-- Property photos, name, price and detail button  --> */
 
 .properties {
-    display: grid;
-    grid-template-columns: repeat(3, auto);
-    margin: 180px 170px 0px 210px;
-    column-gap: 30px;
-    row-gap: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 150px;
 }
 
 
 .propertyDetail {
-    width: 485px;
-    height: 530px;
+    width: 385px;
+    height: 430px;
     border-radius: 25px;
     display: flex;
     justify-content: center;
@@ -143,14 +149,12 @@ nav ul {
 .property1 {
     background: url(../Assets/Photos/cardImage1.png) no-repeat center center/cover;
     position: relative;
-    bottom: 90px;
 }
 
 .property2 {
     background: url(../Assets/Photos/cardImage2.png) no-repeat center center/cover;
     background-position: 10%;
     position: relative;
-    bottom: 45px;
 }
 
 .property3 {
@@ -164,34 +168,34 @@ nav ul {
 .property5 {
     background: url(../Assets/Photos/cardImage5.png) no-repeat center center/cover;
     position: relative;
-    bottom: 50px;
 }
 
 .property6 {
     background: url(../Assets/Photos/cardImage6.png) no-repeat center center/cover;
     position: relative;
-    bottom: 100px;
 }
 
 .property7 {
     background: url(../Assets/Photos/cardImage7.png) no-repeat center center/cover;
     position: relative;
-    bottom: 100px;
 }
 
 .property8 {
     background: url(../Assets/Photos/cardImage8.png) no-repeat center center/cover;
     position: relative;
-    bottom: 60px;
 }
 
 .property9 {
     background: url(../Assets/Photos/cardImage9.png) no-repeat center center/cover;
     background-position: 75%;
-    position: relative;
-    bottom: 20px;
 }
 
+
+.propertyNamePrice{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
 
 .propertyNamePriceBtn {
     background-color: #fff;
@@ -199,14 +203,15 @@ nav ul {
     height: 170px;
     border-radius: 25px;
     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     position: relative;
-    top: 440px;
+    top: 340px;
 }
 
 .propertyName {
     font-size: 29px;
     font-weight: 700;
-    margin: 45px 0px 0px 40px;
     color: #2F3542;
 }
 
@@ -214,7 +219,6 @@ nav ul {
     color: #605CE7;
     font-size: 24px;
     font-weight: 800;
-    margin: 15px 0px 0px 40px;
 }
 
 .propertyBtn button {
@@ -223,40 +227,43 @@ nav ul {
     border: none;
     font-size: 20px;
     font-weight: 700;
-    margin: 60px 0px 0px 65px;
     width: 150px;
     height: 70px;
     border-radius: 40px;
 }
 
-/* <!-- Modern House Book  --> */
+/* --------------------- Modern House Book  --------------------- */
 
 .modernHouseBook {
     display: flex;
-    height: 1068px;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.leftModernHOuseBook{
+    position: relative;
 }
 
 .leftModernHOuseBook img {
-    margin-top: 470px;
-    width: 940px;
+    margin-top: 370px;
+    width: 340px;
 }
 
 .houseImg {
-    width: 690px;
-    height: 690px;
-    border-radius: 60px;
+    width: 250px;
+    height: 250px;
+    border-radius: 40px;
 }
 
 .modernHouseImg {
-    position: relative;
-    bottom: 870px;
-    left: 170px;
+    position: absolute;
+    bottom: 90px;
+    left: 60px;
     background: url(../Assets/Photos/featuresImage1.png) no-repeat center center/cover;
-    background-position: -150px;
 }
 
 .bookingPara1 {
-    font-size: 82px;
+    font-size: 3.5rem;
     font-weight: 700;
     color: #26282D;
 }
@@ -278,68 +285,64 @@ nav ul {
     font-weight: 600;
 }
 
-.modernPara1 {
-    padding: 500px 0px 0px 105px
-}
-
-.modernPara2 {
-    margin: 40px 0px 0px 105px;
-}
-
-.modernBtn {
-    margin: 90px 0px 0px 105px;
+.rightModernHouseBook{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    text-align: center;
+    align-items: center;
 }
 
 
-/* <!-- Unique House Book  --> */
+
+/*------------ Unique House Book  --------------------------- */
 
 .uniqueHouseBook {
     display: flex;
-    height: 1068px;
+    flex-direction: column-reverse;
+    gap: 50px;
+}
+
+.leftUniqueHouseBook{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+.rightUniqueHOuseBook{
+    position: relative;
+    align-self: flex-end;
 }
 
 .rightUniqueHOuseBook img {
-    position: relative;
-    top: 470px;
-    left: 95px;
-    width: 940px;
+    margin-top: 270px;
+    width: 340px;
 }
 
 .uniqueHouseImg {
-    position: relative;
-    bottom: 400px;
-    left: 175px;
+    position: absolute;
+    bottom: 70px;
+    right: 60px;
     background: url(../Assets/Photos/featuresImage2.png) no-repeat center center/cover;
 }
 
 
-.uniquePara1 {
-    padding: 500px 0px 0px 220px
-}
-
-.uniquePara2 {
-    margin: 40px 0px 0px 220px;
-}
-
-.uniqueBtn {
-    margin: 90px 0px 0px 220px;
-}
-
-/* <!-- Subscribing newsletter  --> */
+/* ---------- Subscribing newsletter  ----------- */
 
 .subscribe {
     background-color: #6663E9;
-    margin: 310px 95px 170px 95px;
-    height: 700px;
+    margin: 120px 0px;
+    padding: 100px 0px;
     border-radius: 90px;
     color: #fff;
     text-align: center;
 }
 
 .subscribePara1 {
-    font-size: 80px;
+    font-size: 3rem;
     font-weight: 800;
-    padding: 90px 0px 0px 0px;
 }
 
 .subscribePara2 {
@@ -350,31 +353,30 @@ nav ul {
     margin-top: 30px;
 }
 
+.subscribeEmail {
+    display: flex;
+    margin-top: 75px;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
 .subscribeEmail input {
     background-color: #5654D1;
     border: none;
     border-radius: 80px;
     height: 82px;
-    width: 610px;
+    width: 80%;
     margin-right: 40px;
 }
 
-.subscribeEmail {
-    margin-top: 75px;
-}
-
 .subscribeEmail input::placeholder {
+    background: url(../Assets/Icons/mail.png) no-repeat;
+    background-position-x: 5%;
     color: #A3A2E6;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
-    padding-left: 80px;
-}
-
-.subscribeEmail img {
-    position: relative;
-    top: 10px;
-    left: 60px;
-    width: 35px;
+    text-align: center;
 }
 
 .subscribeEmail button {
@@ -388,16 +390,20 @@ nav ul {
     width: 240px;
 }
 
-/* <!-- Footer Section  --> */
+/* ----------- Footer Section  ---------------- */
 
 footer{
-    display: grid;
-    grid-template-columns: 3.6fr 1fr 1fr 1fr;
+    /* display: grid;
+    grid-template-columns: 3.6fr 1fr 1fr 1fr; */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px;
     margin-bottom: 160px;
+    justify-content: center;
 }
 
 .footerLogo{
-    margin-left: 210px;
+    /* margin-left: 210px; */
 }
 
 .footerLogoImg1{
