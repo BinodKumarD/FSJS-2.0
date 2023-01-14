@@ -12,6 +12,7 @@
   - [8. What does Flexbox📦 do?🤔💭](#8-what-does-flexbox-do)
   - [8. What does Flexbox📦 do?🤔💭](#8-what-does-flexbox-do-1)
   - [9. What is CSS Grid🧱?🤔💭](#9-what-is-css-grid)
+  - [10. What does a media query📱 do❓🤔](#10-what-does-a-media-query-do)
 
 <hr/>
 
@@ -92,6 +93,14 @@ To fully utilise all of the available space, Flexbox📰 will provide containers
 A grid-based🧱 layout system with rows and columns is provided by CS's grid layout module and makes web page design simpler by removing the need for float and positioning....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/what-is-css-grid)
+
+<hr/>
+
+## 10. What does a media query📱 do❓🤔
+
+The CSS3 standard introduced the media query method. We apply CSS styles based on a device's basic type, browser viewport width, or screen resolution. When a specific condition is met, a block of CSS attributes is included using the @media rule.....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/what-does-a-media-query-do)
 
 <hr/>
 
