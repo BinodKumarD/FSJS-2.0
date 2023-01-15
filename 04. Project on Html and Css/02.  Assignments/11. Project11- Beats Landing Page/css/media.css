@@ -1,0 +1,148 @@
+@media screen and (min-width: 440px) {
+}
+
+@media screen and (min-width: 540px) {
+}
+
+/* -------------------------Tablets screen-------------------- */
+
+@media screen and (min-width: 640px) {
+  .email {
+    width: 350px;
+  }
+  .subscribe {
+    width: 150px;
+  }
+}
+
+/* -------------------------Big Tab-------------------- */
+
+@media screen and (min-width: 768px) {
+  /* -------------- intro section of product  ----------------------*/
+
+  .intro {
+    flex-direction: row;
+    gap: 2%;
+  }
+
+  .leftIntro img {
+    width: 370px;
+  }
+
+  /*------- social media section  --------------- */
+
+  .socialMediaSection {
+    justify-content: space-evenly;
+    gap: 0px;
+    margin: auto;
+  }
+
+  .specsLeftRight {
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+  }
+
+  .leftRightCase {
+    flex-direction: row;
+    gap: 100px;
+  }
+
+  /* ------ Buy now Section  ------------- */
+
+  .buyNow {
+    flex-direction: row;
+    gap: 30px;
+  }
+}
+
+/* -------------------------Laptop screen-------------------- */
+
+@media screen and (min-width: 1024px) {
+  /* -------------- intro section of product  ----------------------*/
+
+  .intro {
+    gap: 0px;
+    justify-content: space-evenly;
+  }
+
+  .leftIntro img {
+    width: 370px;
+    margin: auto;
+  }
+
+  .rightIntro {
+    text-align: justify;
+    margin: 0;
+  }
+
+  .introAddToBag {
+    margin: 0;
+    margin-top: 47px;
+  }
+
+  /* ------ Buy now Section  ------------- */
+
+  .buyNow {
+    width: 80%;
+  }
+
+  .beatProducts {
+    width: 60%;
+  }
+}
+
+/* -------------------------Desktop screen-------------------- */
+
+@media screen and (min-width: 1280px) {
+  /* ----------- Navigation Bar  ------- */
+
+  nav {
+    padding: 40px;
+  }
+
+  .nav-menu {
+    display: none;
+  }
+
+  nav img {
+    padding-left: 150px;
+  }
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    gap: 72px;
+    font-size: 20px;
+    font-weight: 600;
+    align-items: center;
+  }
+
+  nav button {
+    display: block;
+    background-color: #1e1e21;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 205px;
+    height: 70px;
+  }
+
+  /* ------ Buy now Section  ------------- */
+
+  .buyNow {
+    gap: 100px;
+    width: 70%;
+  }
+
+  .beatProducts {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    row-gap: 111px;
+    column-gap: 60px;
+  }
+
+  .footerUpArrow {
+    margin-top: 90px;
+  }
+}
