@@ -1,0 +1,137 @@
+@media screen and (min-width: 440px) {
+  .versionLeftIntro {
+    width: 337px;
+  }
+}
+
+@media screen and (min-width: 540px) {
+}
+
+/* -------------------------Tablets screen-------------------- */
+
+@media screen and (min-width: 640px) {
+  .review {
+    clip-path: polygon(0 15%, 100% 0%, 100% 85%, 0% 100%);
+  }
+}
+
+/* -------------------------Big Tab-------------------- */
+
+@media screen and (min-width: 768px) {
+  /* ----- Nav bar and intro Section  ------ */
+
+  .navIntro {
+    clip-path: polygon(0 0, 100% 0%, 100% 85%, 0% 100%);
+  }
+
+  /* ----- intro section  ------- */
+
+  .introSection {
+    flex-direction: row;
+    margin-top: 150px;
+    gap: 0px;
+  }
+
+  .versionLeftIntro {
+    margin: 0;
+  }
+
+  .leftIntroSection {
+    text-align: justify;
+  }
+
+  .leftIntroSectionPara1 {
+    font-size: 3.8rem;
+    font-weight: 600;
+  }
+
+  .leftIntroButtonDiv {
+    flex-direction: row;
+  }
+}
+
+/* -------------------------Laptop screen-------------------- */
+
+@media screen and (min-width: 1024px) {
+  /* ----- Nav bar and intro Section  ------ */
+
+  .navIntro {
+    clip-path: polygon(0 0, 100% 0%, 100% 80%, 0% 100%);
+  }
+
+  /* ----------- Navbar --------------- */
+
+  nav img {
+    width: 120px;
+  }
+
+  nav ul {
+    display: flex;
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 600;
+    gap: 63px;
+    align-items: center;
+  }
+
+  nav span {
+    font-size: 16.5px;
+    font-weight: 600;
+    padding-left: 5px;
+  }
+
+  nav button {
+    color: #722ed1;
+    border: 2px solid #722ed1;
+  }
+
+  .nav-menu {
+    display: none;
+  }
+
+  .productTeams,
+  .engineeringTeams {
+    flex-direction: row;
+    text-align: justify;
+    justify-content: center;
+  }
+
+  .engineeringTeams {
+    gap: 0px;
+  }
+
+  .rightProductTeams {
+    align-items: center;
+  }
+  .teams {
+    margin: 20px 0;
+  }
+
+  .review {
+    clip-path: polygon(0 19%, 100% 0%, 100% 80%, 0% 100%);
+  }
+
+  /*---------- signup Section  -------------- */
+
+  .signup {
+    flex-direction: row;
+    text-align: justify;
+  }
+
+  .upperDivSignup {
+    width: fit-content;
+  }
+}
+
+/* -------------------------Desktop screen-------------------- */
+
+@media screen and (min-width: 1280px) {
+  .upperDivSignup {
+    width: 570px;
+  }
+
+  .lowerDivSignup {
+    height: 645px;
+    width: 645px;
+  }
+}
