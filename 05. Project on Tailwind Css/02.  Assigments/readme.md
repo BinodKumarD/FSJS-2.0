@@ -14,10 +14,10 @@ For education purpose i have created this "vs code studio" static web page using
 
 This webiste is also being deployed in netlify
 
-[check it out](https://codevisualstudio.netlify.app/)
+🚀[live link](https://codevisualstudio.netlify.app/)
 
 For more snapshot and code 
 
-[check it out](./01.%20Project1-%20VscodeClone/)
+🔗[github repo link](./01.%20Project1-%20VscodeClone/)
 
 <hr/>

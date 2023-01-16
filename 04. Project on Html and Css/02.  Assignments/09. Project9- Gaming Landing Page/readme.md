@@ -4,6 +4,8 @@
 
 This is Gaming Landing static web page designed using HTML and CSS.
 
+🚀[live link](https://game-landing-page2.netlify.app/)
+
 ![](../00.%20Output/09.%20Project9-%20Gaming%20Landing%20Page.png)
 
 <hr/>

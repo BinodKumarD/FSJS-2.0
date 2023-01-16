@@ -4,6 +4,8 @@
 
 This is Data Analytics Landing static web page designed using HTML and CSS.
 
+🚀[live link](https://data-analytics-landing-page2.netlify.app/)
+
 ![](../00.%20Output/12.%20Project12-%20Data%20Analytics%20Landing%20Page.png)
 
 <hr/>

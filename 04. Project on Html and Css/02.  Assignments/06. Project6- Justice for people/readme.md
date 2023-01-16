@@ -4,6 +4,8 @@
 
 This is Justice For People static web page designed using HTML and CSS.
 
+🚀[live link](https://justice-landing-page2.netlify.app/)
+
 ![](../00.%20Output/06.%20Project6-%20Justice%20For%20People.png)
 
 <hr/>

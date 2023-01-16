@@ -4,7 +4,7 @@ This is the static web page designed for education purpose only there is no func
 
 This website is deployed in netlify.
 
-[check it out](https://codevisualstudio.netlify.app/)
+🚀[live link](https://codevisualstudio.netlify.app/)
 
 <hr/>
 

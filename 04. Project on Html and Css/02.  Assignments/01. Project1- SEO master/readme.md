@@ -4,6 +4,8 @@
 
 This is SEO master static web page designed using HTML and CSS.
 
+🚀[live link](https://seo-master2.netlify.app/)
+
 ![](../00.%20Output/01.%20Project1-%20Seo%20master.png)
 
 <hr/>

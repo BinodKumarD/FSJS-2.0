@@ -4,6 +4,8 @@
 
 This is Beats Landing static web page designed using HTML and CSS.
 
+🚀[live link](https://beats-landing-page2.netlify.app/)
+
 ![](../00.%20Output/11.%20Project11-%20Beats%20Landing%20Page.png)
 
 <hr/>
