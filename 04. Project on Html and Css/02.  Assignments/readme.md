@@ -23,16 +23,16 @@
 
 SEO master static page designed using HTML and CSS.
 
-🔗[github repo link](./01.%20Project1-%20SEO%20master/)
-🚀[live link](https://seo-master2.netlify.app/)
+🔗 [github repo link](./01.%20Project1-%20SEO%20master/)<br><br>
+🚀 [live link](https://seo-master2.netlify.app/)
 <hr/>
-
+ 
 ## 2. Project 2- Crypto market
 
 Crypto market static web page designed using HTML and CSS.
 
-🔗[github repo link](./02.%20Project2-%20Crypto%20market/)
-🚀[live link](https://crypto-market2.netlify.app/)
+🔗 [github repo link](./02.%20Project2-%20Crypto%20market/)<br><br>
+🚀 [live link](https://crypto-market2.netlify.app/)
 
 <hr/>
 
@@ -40,8 +40,8 @@ Crypto market static web page designed using HTML and CSS.
 
 Fashion Hub static web page designed using HTML and CSS.
 
-🔗[github repo link](./03.%20Project3-%20Fashion%20Hub/)
-🚀[live link](https://fashion-hub2.netlify.app/)
+🔗 [github repo link](./03.%20Project3-%20Fashion%20Hub/)<br><br>
+🚀 [live link](https://fashion-hub2.netlify.app/)
 
 <hr/>
 
@@ -49,8 +49,8 @@ Fashion Hub static web page designed using HTML and CSS.
 
 Headphone sellingstatic web page designed using HTML and CSS.
 
-🔗[github repo link](./04.%20Project4-%20Headphone/)
-🚀[live link](https://headphone2.netlify.app/)
+🔗 [github repo link](./04.%20Project4-%20Headphone/)<br><br>
+🚀 [live link](https://headphone2.netlify.app/)
 
 <hr/>
 
@@ -58,8 +58,8 @@ Headphone sellingstatic web page designed using HTML and CSS.
 
 Medifine doctor appointment static web page designed using HTML and CSS.
 
-🔗[github repo link](./05.%20Project5-%20Medifine%20Doctor/)
-🚀[live link](https://medifine-doctor-appointment.netlify.app/)
+🔗 [github repo link](./05.%20Project5-%20Medifine%20Doctor/)<br><br>
+🚀 [live link](https://medifine-doctor-appointment.netlify.app/)
 
 <hr/>
 
@@ -67,8 +67,8 @@ Medifine doctor appointment static web page designed using HTML and CSS.
 
 Justice for people static web page designed using HTML and CSS.
 
-🔗[github repo link](./06.%20Project6-%20Justice%20for%20people/)
-🚀[live link](https://justice-landing-page2.netlify.app/)
+🔗 [github repo link](./06.%20Project6-%20Justice%20for%20people/)<br><br>
+🚀 [live link](https://justice-landing-page2.netlify.app/)
 
 <hr/>
 
@@ -76,8 +76,8 @@ Justice for people static web page designed using HTML and CSS.
 
 Credit card Landing static web page designed using HTML and CSS.
 
-🔗[github repo link](./07.%20Project7-%20Credit%20card%20Landing%20Page/)
-🚀[live link](https://credit-card-landing-page2.netlify.app/)
+🔗 [github repo link](./07.%20Project7-%20Credit%20card%20Landing%20Page/)<br><br>
+🚀 [live link](https://credit-card-landing-page2.netlify.app/)
 
 <hr/>
 
@@ -85,8 +85,8 @@ Credit card Landing static web page designed using HTML and CSS.
 
 Hosting Site Landing static web page designed using HTML and CSS.
 
-🔗[github repo link](./08.%20Project8-%20Hosting%20Site%20Landing%20Page/)
-🚀[live link](https://hosting-site-landing-page2.netlify.app/)
+🔗 [github repo link](./08.%20Project8-%20Hosting%20Site%20Landing%20Page/)<br><br>
+🚀 [live link](https://hosting-site-landing-page2.netlify.app/)
 
 <hr/>
 
@@ -94,8 +94,8 @@ Hosting Site Landing static web page designed using HTML and CSS.
 
 Gaming Landing static web page designed using HTML and CSS.
 
-🔗[github repo link](./09.%20Project9-%20Gaming%20Landing%20Page/)
-🚀[live link](https://game-landing-page2.netlify.app/)
+🔗 [github repo link](./09.%20Project9-%20Gaming%20Landing%20Page/)<br><br>
+🚀 [live link](https://game-landing-page2.netlify.app/)
 
 <hr/>
 
@@ -103,8 +103,8 @@ Gaming Landing static web page designed using HTML and CSS.
 
 Real Estate Landing static web page designed using HTML and CSS.
 
-🔗[github repo link](./10.%20Project10-%20Real%20Estate%20Landing%20Page/)
-🚀[live link](https://real-estate-landing-page2.netlify.app/)
+🔗 [github repo link](./10.%20Project10-%20Real%20Estate%20Landing%20Page/)<br><br>
+🚀 [live link](https://real-estate-landing-page2.netlify.app/)
 
 <hr/>
 
@@ -112,8 +112,8 @@ Real Estate Landing static web page designed using HTML and CSS.
 
 Beats Landing static web page designed using HTML and CSS.
 
-🔗[github repo link](./11.%20Project11-%20Beats%20Landing%20Page/)
-🚀[live link](https://beats-landing-page2.netlify.app/)
+🔗 [github repo link](./11.%20Project11-%20Beats%20Landing%20Page/)<br><br>
+🚀 [live link](https://beats-landing-page2.netlify.app/)
 
 <hr/>
 
@@ -121,8 +121,8 @@ Beats Landing static web page designed using HTML and CSS.
 
 Data Analytics Landing static web page designed using HTML and CSS.
 
-🔗[github repo link](./12.%20Project12-%20Data%20Analytics%20Landing%20Page/)
-🚀[live link](https://data-analytics-landing-page2.netlify.app/)
+🔗 [github repo link](./12.%20Project12-%20Data%20Analytics%20Landing%20Page/)<br><br>
+🚀 [live link](https://data-analytics-landing-page2.netlify.app/)
 
 <hr/>
 
