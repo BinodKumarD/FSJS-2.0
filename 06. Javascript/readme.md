@@ -9,6 +9,7 @@
   - [3. DOM](#3-dom)
   - [4. Basics 2](#4-basics-2)
   - [5. Advanced](#5-advanced)
+  - [6. Asssignment](#6-asssignment)
 
 <hr/>
 
@@ -49,6 +50,14 @@ More basic concepts of javascript.
 Some advanced topics needed for javascript are mentioned here.
 
 [check it out](./05.%20Advance/)
+
+<hr/>
+
+## 6. Asssignment 
+
+Assignment questions on javascript
+
+[check it out](./06.%20Assignment/)
 
 <hr/>
 
