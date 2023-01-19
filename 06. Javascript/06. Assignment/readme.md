@@ -6,6 +6,7 @@
 - [Table of Contents](#table-of-contents)
   - [1. Variables](#1-variables)
   - [2. personalInfo using function](#2-personalinfo-using-function)
+  - [3. upperCase function](#3-uppercase-function)
 
 <hr/>
 
@@ -22,5 +23,13 @@ Declaring variables and assign string, boolean, undefined and null data types, D
 Declaring variables to store first name, last name, marital status, country and age and display them using interploation method.
 
 ![](./00.Output/02.personalInfo.png)
+
+<hr/>
+
+## 3. upperCase function
+
+Declaring a varibale and assign string value to it and change all the string characters to capital letters using toUpperCase() method.
+
+![](./00.Output/03.upperCase.png)
 
 <hr/>
