@@ -7,6 +7,7 @@
   - [1. Variables](#1-variables)
   - [2. personalInfo using function](#2-personalinfo-using-function)
   - [3. upperCase function](#3-uppercase-function)
+  - [3. includes function](#3-includes-function)
 
 <hr/>
 
@@ -31,5 +32,13 @@ Declaring variables to store first name, last name, marital status, country and 
 Declaring a varibale and assign string value to it and change all the string characters to capital letters using toUpperCase() method.
 
 ![](./00.Output/03.upperCase.png)
+
+<hr/>
+
+## 3. includes function
+
+Declaring a varibale and assign string value to it and check if the string contains a word Script using includes() method
+
+![](./00.Output/04.includes.png)
 
 <hr/>
