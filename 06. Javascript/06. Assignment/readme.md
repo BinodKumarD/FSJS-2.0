@@ -7,8 +7,9 @@
   - [1. Variables](#1-variables)
   - [2. personalInfo using function](#2-personalinfo-using-function)
   - [3. upperCase function](#3-uppercase-function)
-  - [3. includes function](#3-includes-function)
-  - [3. split function](#3-split-function)
+  - [4. includes function](#4-includes-function)
+  - [5. split function](#5-split-function)
+  - [6. split function part-2](#6-split-function-part-2)
 
 <hr/>
 
@@ -36,7 +37,7 @@ Declaring a varibale and assign string value to it and change all the string cha
 
 <hr/>
 
-## 3. includes function
+## 4. includes function
 
 Declaring a varibale and assign string value to it and check if the string contains a word Script using includes() method
 
@@ -44,11 +45,19 @@ Declaring a varibale and assign string value to it and check if the string conta
 
 <hr/>
 
-## 3. split function
+## 5. split function
 
 Declaring a varibale and assign string value to it and then split it into an array using split() method
 
 ![](./00.Output/05.split.png)
+
+<hr/>
+
+## 6. split function part-2
+
+'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' split the string at the comma and change it to an array.
+
+![](./00.Output/06.split2.png)
 
 <hr/>
 
