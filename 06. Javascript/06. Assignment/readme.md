@@ -8,6 +8,7 @@
   - [2. personalInfo using function](#2-personalinfo-using-function)
   - [3. upperCase function](#3-uppercase-function)
   - [3. includes function](#3-includes-function)
+  - [3. split function](#3-split-function)
 
 <hr/>
 
@@ -42,3 +43,14 @@ Declaring a varibale and assign string value to it and check if the string conta
 ![](./00.Output/04.includes.png)
 
 <hr/>
+
+## 3. split function
+
+Declaring a varibale and assign string value to it and then split it into an array using split() method
+
+![](./00.Output/05.split.png)
+
+<hr/>
+
+
+
