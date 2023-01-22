@@ -13,6 +13,7 @@
   - [8. What does Flexbox📦 do?🤔💭](#8-what-does-flexbox-do-1)
   - [9. What is CSS Grid🧱?🤔💭](#9-what-is-css-grid)
   - [10. What does a media query📱 do❓🤔](#10-what-does-a-media-query-do)
+  - [11. Introduction to JavaScript💻](#11-introduction-to-javascript)
 
 <hr/>
 
@@ -101,6 +102,14 @@ A grid-based🧱 layout system with rows and columns is provided by CS's grid la
 The CSS3 standard introduced the media query method. We apply CSS styles based on a device's basic type, browser viewport width, or screen resolution. When a specific condition is met, a block of CSS attributes is included using the @media rule.....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/what-does-a-media-query-do)
+
+<hr/>
+
+## 11. Introduction to JavaScript💻
+
+Javascript is both the most hated and the most loved programming language in the world. Most people hate JavaScript because they don't understand it, and those that do love it🥰. Therefore, it is crucial to understand the fundamentals of JavaScript....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/introduction-to-javascript)
 
 <hr/>
 
