@@ -12,6 +12,7 @@
   - [6. split function part-2](#6-split-function-part-2)
   - [7. lastIndexOf function](#7-lastindexof-function)
   - [8. trail function](#8-trail-function)
+  - [9. Boolean value](#9-boolean-value)
 
 <hr/>
 
@@ -76,6 +77,16 @@ Declaring an array containing the multiple values and using lastIndexOf to deter
 Demonstrating the use of trim() to remove any trailing whitespace at the beginning and the end of a string.
 
 ![](./00.Output/08.trail.png)
+
+<hr/>
+
+## 9. Boolean value
+
+Boolean value is either true or false.
+  - Write three JavaScript statement example which provide truthy value.
+  - Write three JavaScript statement example which provide falsy value.
+
+![](./00.Output/09.boolean.png)
 
 <hr/>
 
