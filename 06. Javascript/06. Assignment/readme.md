@@ -11,6 +11,7 @@
   - [5. split function](#5-split-function)
   - [6. split function part-2](#6-split-function-part-2)
   - [7. lastIndexOf function](#7-lastindexof-function)
+  - [8. trail function](#8-trail-function)
 
 <hr/>
 
@@ -67,6 +68,14 @@ Declaring a varibale and assign string value to it and then split it into an arr
 Declaring an array containing the multiple values and using lastIndexOf to determine the position of the first and last occurrence of a word "pw skills".
 
 ![](./00.Output/07.lastIndexOf.png)
+
+<hr/>
+
+## 8. trail function
+
+Demonstrating the use of trim() to remove any trailing whitespace at the beginning and the end of a string.
+
+![](./00.Output/08.trail.png)
 
 <hr/>
 
