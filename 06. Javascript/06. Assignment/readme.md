@@ -10,6 +10,7 @@
   - [4. includes function](#4-includes-function)
   - [5. split function](#5-split-function)
   - [6. split function part-2](#6-split-function-part-2)
+  - [7. lastIndexOf function](#7-lastindexof-function)
 
 <hr/>
 
@@ -60,6 +61,15 @@ Declaring a varibale and assign string value to it and then split it into an arr
 ![](./00.Output/06.split2.png)
 
 <hr/>
+
+## 7. lastIndexOf function
+
+Declaring an array containing the multiple values and using lastIndexOf to determine the position of the first and last occurrence of a word "pw skills".
+
+![](./00.Output/07.lastIndexOf.png)
+
+<hr/>
+
 
 
 
