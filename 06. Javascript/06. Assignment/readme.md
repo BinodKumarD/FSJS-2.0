@@ -13,6 +13,7 @@
   - [7. lastIndexOf function](#7-lastindexof-function)
   - [8. trail function](#8-trail-function)
   - [9. Boolean value](#9-boolean-value)
+  - [10. Boolean checking values](#10-boolean-checking-values)
 
 <hr/>
 
@@ -87,6 +88,14 @@ Boolean value is either true or false.
   - Write three JavaScript statement example which provide falsy value.
 
 ![](./00.Output/09.boolean.png)
+
+<hr/>
+
+## 10. Boolean checking values
+
+Figure out the result of the following comparison expression first without using console.log(). After you decide the result confirm it using console.log()
+
+![](./00.Output/10.booleanCheck.png)
 
 <hr/>
 
