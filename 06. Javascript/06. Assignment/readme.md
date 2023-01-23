@@ -16,6 +16,7 @@
   - [10. Boolean checking values](#10-boolean-checking-values)
   - [11. Date and Time function](#11-date-and-time-function)
   - [12. Date and Time function part-2](#12-date-and-time-function-part-2)
+  - [13. prompt function](#13-prompt-function)
 
 <hr/>
 
@@ -114,6 +115,14 @@ Use the Date object to find the date, month, date, day, hour, minutes, seconds.
 Create a human readable time format using the Date time object.
 
 ![](./00.Output/12.dateTime2.png)
+
+<hr/>
+
+## 13. prompt function
+
+Get user input using prompt(“Enter your age:”). If user is 18 or older , give feedback:'You are old enough to drive' but if not 18 give another feedback stating to wait for the number of years he needs to turn 18.
+
+![](./00.Output/13.prompt.jpg)
 
 <hr/>
 
