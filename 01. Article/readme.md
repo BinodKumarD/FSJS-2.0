@@ -14,6 +14,7 @@
   - [9. What is CSS Grid🧱?🤔💭](#9-what-is-css-grid)
   - [10. What does a media query📱 do❓🤔](#10-what-does-a-media-query-do)
   - [11. Introduction to JavaScript💻](#11-introduction-to-javascript)
+  - [12. Exploring the World of Variables in JavaScript👨‍🏫](#12-exploring-the-world-of-variables-in-javascript)
 
 <hr/>
 
@@ -110,6 +111,14 @@ The CSS3 standard introduced the media query method. We apply CSS styles based o
 Javascript is both the most hated and the most loved programming language in the world. Most people hate JavaScript because they don't understand it, and those that do love it🥰. Therefore, it is crucial to understand the fundamentals of JavaScript....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/introduction-to-javascript)
+
+<hr/>
+
+## 12. Exploring the World of Variables in JavaScript👨‍🏫
+
+JavaScript is a programming language that is widely used for web development, and it has many features that make it powerful and versatile. One of the most basic and important features of JavaScript is the concept of variables.....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/exploring-the-world-of-variables-in-javascript)
 
 <hr/>
 
