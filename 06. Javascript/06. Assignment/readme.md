@@ -14,6 +14,8 @@
   - [8. trail function](#8-trail-function)
   - [9. Boolean value](#9-boolean-value)
   - [10. Boolean checking values](#10-boolean-checking-values)
+  - [11. Date and Time function](#11-date-and-time-function)
+  - [12. Date and Time function part-2](#12-date-and-time-function-part-2)
 
 <hr/>
 
@@ -96,6 +98,22 @@ Boolean value is either true or false.
 Figure out the result of the following comparison expression first without using console.log(). After you decide the result confirm it using console.log()
 
 ![](./00.Output/10.booleanCheck.png)
+
+<hr/>
+
+## 11. Date and Time function
+
+Use the Date object to find the date, month, date, day, hour, minutes, seconds.
+
+![](./00.Output/11.dateTime.png)
+
+<hr/>
+
+## 12. Date and Time function part-2
+
+Create a human readable time format using the Date time object.
+
+![](./00.Output/12.dateTime2.png)
 
 <hr/>
 
