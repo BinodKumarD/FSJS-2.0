@@ -17,6 +17,8 @@
   - [11. Date and Time function](#11-date-and-time-function)
   - [12. Date and Time function part-2](#12-date-and-time-function-part-2)
   - [13. prompt function](#13-prompt-function)
+  - [14. checking Even odd](#14-checking-even-odd)
+  - [15. Finding Grade](#15-finding-grade)
 
 <hr/>
 
@@ -123,6 +125,22 @@ Create a human readable time format using the Date time object.
 Get user input using prompt(“Enter your age:”). If user is 18 or older , give feedback:'You are old enough to drive' but if not 18 give another feedback stating to wait for the number of years he needs to turn 18.
 
 ![](./00.Output/13.prompt.jpg)
+
+<hr/>
+
+## 14. checking Even odd
+
+Checking, if a number is even or not using JavaScript Creating a program which checks that the given number is even or odd.
+
+![](./00.Output/14.evenOdd.png)
+
+<hr/>
+
+## 15. Finding Grade
+
+Program to find grades of students according to their scores
+
+![](./00.Output/15.findGrade.png)
 
 <hr/>
 
