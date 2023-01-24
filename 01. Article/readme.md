@@ -15,6 +15,7 @@
   - [10. What does a media query📱 do❓🤔](#10-what-does-a-media-query-do)
   - [11. Introduction to JavaScript💻](#11-introduction-to-javascript)
   - [12. Exploring the World of Variables in JavaScript👨‍🏫](#12-exploring-the-world-of-variables-in-javascript)
+  - [13. Beginner's Guide to Data Types in JavaScript🧑‍🎓](#13-beginners-guide-to-data-types-in-javascript)
 
 <hr/>
 
@@ -119,6 +120,14 @@ Javascript is both the most hated and the most loved programming language in the
 JavaScript is a programming language that is widely used for web development, and it has many features that make it powerful and versatile. One of the most basic and important features of JavaScript is the concept of variables.....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/exploring-the-world-of-variables-in-javascript)
+
+<hr/>
+
+## 13. Beginner's Guide to Data Types in JavaScript🧑‍🎓
+
+JavaScript is a dynamic and versatile programming language that offers a wide range of data types and objects. In this article, we will explore the different types of data types and objects in JavaScript and provide examples of how to use them....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/beginners-guide-to-data-types-in-javascript)
 
 <hr/>
 
