@@ -18,6 +18,8 @@
   - [13. Beginner's Guide to Data Types in JavaScript🧑‍🎓](#13-beginners-guide-to-data-types-in-javascript)
   - [14. JavaScript Functions📦🧑‍🏫](#14-javascript-functions)
   - [15. JavaScript Control Flow🎮🛂](#15-javascript-control-flow)
+  - [16. JavaScript's String Handling🧑‍🏫](#16-javascripts-string-handling)
+  - [17. JavaScript's Array Handling🧑‍🏫](#17-javascripts-array-handling)
 
 <hr/>
 
@@ -146,6 +148,22 @@ Functions are a fundamental building block in JavaScript and are used to perform
 JavaScript is a powerful programming language that allows developers to create complex and dynamic web applications. Two important concepts in JavaScript are conditional statements and loops. In this article....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/javascript-control-flow)
+
+<hr/>
+
+## 16. JavaScript's String Handling🧑‍🏫
+
+Strings are an essential data type in JavaScript, and the language provides many built-in functions for working with strings. In this article, we will explore.....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/javascripts-string-handling)
+
+<hr/>
+
+## 17. JavaScript's Array Handling🧑‍🏫
+
+Arrays are a fundamental data structure in JavaScript that can store multiple values in a single variable. They were introduced in ECMAScript 1 and have since become a popular tool for developers....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/javascripts-array-handling)
 
 <hr/>
 
