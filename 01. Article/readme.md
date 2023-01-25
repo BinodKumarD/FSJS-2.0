@@ -16,6 +16,8 @@
   - [11. Introduction to JavaScript💻](#11-introduction-to-javascript)
   - [12. Exploring the World of Variables in JavaScript👨‍🏫](#12-exploring-the-world-of-variables-in-javascript)
   - [13. Beginner's Guide to Data Types in JavaScript🧑‍🎓](#13-beginners-guide-to-data-types-in-javascript)
+  - [14. JavaScript Functions📦🧑‍🏫](#14-javascript-functions)
+  - [15. JavaScript Control Flow🎮🛂](#15-javascript-control-flow)
 
 <hr/>
 
@@ -128,6 +130,22 @@ JavaScript is a programming language that is widely used for web development, an
 JavaScript is a dynamic and versatile programming language that offers a wide range of data types and objects. In this article, we will explore the different types of data types and objects in JavaScript and provide examples of how to use them....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/beginners-guide-to-data-types-in-javascript)
+
+<hr/>
+
+## 14. JavaScript Functions📦🧑‍🏫
+
+Functions are a fundamental building block in JavaScript and are used to perform a specific task or set of tasks. In this article, we will take a look at what functions are, how to create them, and how to use them in your code....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/javascript-functions)
+
+<hr/>
+
+## 15. JavaScript Control Flow🎮🛂
+
+JavaScript is a powerful programming language that allows developers to create complex and dynamic web applications. Two important concepts in JavaScript are conditional statements and loops. In this article....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/javascript-control-flow)
 
 <hr/>
 
