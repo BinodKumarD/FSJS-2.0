@@ -20,6 +20,7 @@
   - [15. JavaScript Control Flow🎮🛂](#15-javascript-control-flow)
   - [16. JavaScript's String Handling🧑‍🏫](#16-javascripts-string-handling)
   - [17. JavaScript's Array Handling🧑‍🏫](#17-javascripts-array-handling)
+  - [18. Hoisting in JavaScript: A Comprehensive Guide📝🧑‍🏫](#18-hoisting-in-javascript-a-comprehensive-guide)
 
 <hr/>
 
@@ -164,6 +165,14 @@ Strings are an essential data type in JavaScript, and the language provides many
 Arrays are a fundamental data structure in JavaScript that can store multiple values in a single variable. They were introduced in ECMAScript 1 and have since become a popular tool for developers....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/javascripts-array-handling)
+
+<hr/>
+
+## 18. Hoisting in JavaScript: A Comprehensive Guide📝🧑‍🏫
+
+JavaScript has a concept known as "hoisting" which refers to the behaviour of variable and function declarations being moved to the top of their scope by the JavaScript engine....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/hoisting-in-javascript-a-comprehensive-guide)
 
 <hr/>
 
