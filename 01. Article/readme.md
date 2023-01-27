@@ -21,6 +21,7 @@
   - [16. JavaScript's String Handling🧑‍🏫](#16-javascripts-string-handling)
   - [17. JavaScript's Array Handling🧑‍🏫](#17-javascripts-array-handling)
   - [18. Hoisting in JavaScript: A Comprehensive Guide📝🧑‍🏫](#18-hoisting-in-javascript-a-comprehensive-guide)
+  - [19. JavaScript Closures: From Confusion🤯 to Mastery🧑‍🎓](#19-javascript-closures-from-confusion-to-mastery)
 
 <hr/>
 
@@ -173,6 +174,14 @@ Arrays are a fundamental data structure in JavaScript that can store multiple va
 JavaScript has a concept known as "hoisting" which refers to the behaviour of variable and function declarations being moved to the top of their scope by the JavaScript engine....
 
 🔗[To read Article Click here](https://binodroxx.hashnode.dev/hoisting-in-javascript-a-comprehensive-guide)
+
+<hr/>
+
+## 19. JavaScript Closures: From Confusion🤯 to Mastery🧑‍🎓
+
+In this article, we will be introducing the concept of closures in JavaScript. We will cover what closures are, how they work, and some common use cases for them. Closures are an important concept in JavaScript....
+
+🔗[To read Article Click here](https://binodroxx.hashnode.dev/javascript-closures-from-confusion-to-mastery)
 
 <hr/>
 
