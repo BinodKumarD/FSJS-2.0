@@ -24,6 +24,11 @@
   - [18. Check Month Days part-2](#18-check-month-days-part-2)
   - [19. File Access](#19-file-access)
   - [20. Array of Shopping Cart](#20-array-of-shopping-cart)
+  - [21. Adding To Array List](#21-adding-to-array-list)
+  - [22. Student Array](#22-student-array)
+  - [23. checking Prime](#23-checking-prime)
+  - [24. Even Odd](#24-even-odd)
+  - [25. Body Mass Index](#25-body-mass-index)
 
 <hr/>
 
@@ -186,6 +191,46 @@ Creating a countries.js file and store the countries name into this file, create
 In the following shopping cart add, remove, edit items
 
 ![](./00.Output/20.shoppingCart.png)
+
+<hr/>
+
+## 21. Adding To Array List
+
+In countries array checking if 'Ethiopia' exists in the array if it exists print 'ETHIOPIA'. If it does not exist add to the countries list.
+
+![](./00.Output/21.AddingToArray.png)
+
+<hr/>
+
+## 22. Student Array
+
+In array of 10 students ages: Sort the array and find the min and max age, Find the median age, Find the average age, Find the range of the ages, Compare the value of (min - average) and (max - average), use abs() method
+
+![](./00.Output/22.StudentArray.png)
+
+<hr/>
+
+## 23. checking Prime 
+
+Program to check that the number given by the user is a prime number or not.
+
+![](./00.Output/23.prime.png)
+
+<hr/>
+
+## 24. Even Odd 
+
+Program to create two array "even" and "odd" having even and odd number between the 0 to 100 (0 and 100 included).
+
+![](./00.Output/24.evenOdd.png)
+
+<hr/>
+
+## 25. Body Mass Index 
+
+Body mass index(BMI) is calculated.
+
+![](./00.Output/25.BodyMassIndex.png)
 
 <hr/>
 
