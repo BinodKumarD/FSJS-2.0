@@ -19,6 +19,11 @@
   - [13. prompt function](#13-prompt-function)
   - [14. checking Even odd](#14-checking-even-odd)
   - [15. Finding Grade](#15-finding-grade)
+  - [16. Check Season](#16-check-season)
+  - [17. Check Month Days](#17-check-month-days)
+  - [18. Check Month Days part-2](#18-check-month-days-part-2)
+  - [19. File Access](#19-file-access)
+  - [20. Array of Shopping Cart](#20-array-of-shopping-cart)
 
 <hr/>
 
@@ -141,6 +146,46 @@ Checking, if a number is even or not using JavaScript Creating a program which c
 Program to find grades of students according to their scores
 
 ![](./00.Output/15.findGrade.png)
+
+<hr/>
+
+## 16. Check Season
+
+Check if the season is Autumn, Winter, Spring or Summer. Based on user input.
+
+![](./00.Output/16.checkSeason.png)
+
+<hr/>
+
+## 17. Check Month Days
+
+Program to find the number of days in a month.
+
+![](./00.Output/17.monthDays.png)
+
+<hr/>
+
+## 18. Check Month Days part-2
+
+Program to find the number of days in a month, considering leap year.
+
+![](./00.Output/18.monthDays2.png)
+
+<hr/>
+
+## 19. File Access
+
+Creating a countries.js file and store the countries name into this file, create a file web_techs.js and store the popular web technology names into this file. Accessing both file in a third file named main.js
+
+![](./00.Output/19.fileAccess.png)
+
+<hr/>
+
+## 20. Array of Shopping Cart
+
+In the following shopping cart add, remove, edit items
+
+![](./00.Output/20.shoppingCart.png)
 
 <hr/>
 
