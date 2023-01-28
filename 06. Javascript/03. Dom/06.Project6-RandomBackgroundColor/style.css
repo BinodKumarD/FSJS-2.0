@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+
+.buttonDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.buttonDiv> button{
+    width: 200px;
+    border: 2px solid red;
+    border-radius: 40px;
+    font-size: 22px;
+}
