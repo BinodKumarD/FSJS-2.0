@@ -29,6 +29,9 @@
   - [23. checking Prime](#23-checking-prime)
   - [24. Even Odd](#24-even-odd)
   - [25. Body Mass Index](#25-body-mass-index)
+  - [26. Printing Multiplication Table](#26-printing-multiplication-table)
+  - [27. Print All Prime](#27-print-all-prime)
+  - [28. Pattern](#28-pattern)
 
 <hr/>
 
@@ -231,6 +234,30 @@ Program to create two array "even" and "odd" having even and odd number between 
 Body mass index(BMI) is calculated.
 
 ![](./00.Output/25.BodyMassIndex.png)
+
+<hr/>
+
+## 26. Printing Multiplication Table 
+
+Program to print the table of any number given by the user.
+
+![](./00.Output/26.printTable.png)
+
+<hr/>
+
+## 27. Print All Prime
+
+Program to print all the prime number between 0 to 100 (0 and 100 included).
+
+![](./00.Output/27.printAllPrime.png)
+
+<hr/>
+
+## 28. Pattern
+
+Program to print the patterns using the loops.
+
+![](./00.Output/28.pattern.png)
 
 <hr/>
 
