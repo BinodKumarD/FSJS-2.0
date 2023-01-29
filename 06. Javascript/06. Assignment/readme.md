@@ -32,6 +32,8 @@
   - [26. Printing Multiplication Table](#26-printing-multiplication-table)
   - [27. Print All Prime](#27-print-all-prime)
   - [28. Pattern](#28-pattern)
+  - [29. File Extension](#29-file-extension)
+  - [30. Simple Calculator](#30-simple-calculator)
 
 <hr/>
 
@@ -258,6 +260,22 @@ Program to print all the prime number between 0 to 100 (0 and 100 included).
 Program to print the patterns using the loops.
 
 ![](./00.Output/28.pattern.png)
+
+<hr/>
+
+## 29. File Extension
+
+Javascript program which takes the input of filename as string and prints the extension of the file in the console.
+
+![](./00.Output/29.fileExtension.png)
+
+<hr/>
+
+## 30. Simple Calculator
+
+Simple calculator program in JavaScript which can perform the addition, substraction, multiplication and division on given numbers.
+
+![](./00.Output/30.SimpleCalculator.png)
 
 <hr/>
 
