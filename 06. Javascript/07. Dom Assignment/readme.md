@@ -4,14 +4,12 @@
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [1. Project1](#1-project1)
+  - [1. Project1 - Portfolio Website (Home Page)](#1-project1---portfolio-website-home-page)
 
 <hr/>
 
-## 1. Project1
+## 1. Project1 - Portfolio Website (Home Page)
 
-Declaring variables and assign string, boolean, undefined and null data types, Display all the value with their data type.
-
-![](./00.Output/01.Variable.png)
+🔗[Project repo](./01.%20Project1-Portfolio%20Website(Home)/)
 
 <hr/>
