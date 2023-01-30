@@ -17,7 +17,7 @@
 
 ### i. Task1: Adding new li as Hire Me and changing Contact name to Project in navigation link and hidding ul in footer
 
-![](../00.%20Output/01.Project1-Portfolio%20Website/01.Task1.png)
+![](../00.%20Output/01.Project1-Portfolio%20Website(Home)/01.Task1.png)
 
 **Solution**
  
@@ -71,7 +71,7 @@ ulFooter.style.display = "none";
 
 ### ii. Task2: Hidding Hire me, and In search bar changing the placeholder
 
-![](../00.%20Output/01.Project1-Portfolio%20Website/02.Task2.png)
+![](../00.%20Output/01.Project1-Portfolio%20Website(Home)/02.Task2.png)
 
 **Solution**
  
@@ -96,7 +96,7 @@ searchInput.placeholder = "Search My Project";
 
 ### iii. Task3: Changing the placeholder, changing in description and making footer ul visible
 
-![](../00.%20Output/01.Project1-Portfolio%20Website/03.Task3.png)
+![](../00.%20Output/01.Project1-Portfolio%20Website(Home)/03.Task3.png)
 
 **Solution**
  
@@ -125,7 +125,7 @@ ulFooter.style.display = "";
 
 ### iv. Task4: Changing in description and changing portfolio image
 
-![](../00.%20Output/01.Project1-Portfolio%20Website/04.Task4.png)
+![](../00.%20Output/01.Project1-Portfolio%20Website(Home)/04.Task4.png)
 
 **Solution**
  
@@ -152,7 +152,7 @@ console.log();
 
 ### v. Task5: Changing portfolio image and adding support me button
 
-![](../00.%20Output/01.Project1-Portfolio%20Website/05.Task5.png)
+![](../00.%20Output/01.Project1-Portfolio%20Website(Home)/05.Task5.png)
 
 **Solution**
  
