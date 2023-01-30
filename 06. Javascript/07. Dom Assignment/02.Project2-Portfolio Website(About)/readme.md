@@ -1,4 +1,4 @@
-## Javascript -> <em>07. DOM Assignment</em> -> <em>01. Project1 - Portfolio Website (About Page)</em> 
+## Javascript -> <em>07. DOM Assignment</em> -> <em>02. Project2 - Portfolio Website (About Page)</em> 
 
 <hr/>
 
