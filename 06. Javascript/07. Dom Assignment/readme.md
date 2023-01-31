@@ -9,6 +9,7 @@
   - [3. Project3 - Portfolio Website (Contact Page)](#3-project3---portfolio-website-contact-page)
   - [4. Project4 - Clash Of Clan Character Page](#4-project4---clash-of-clan-character-page)
   - [5. Project5 - Simply Reciepe Landing Page](#5-project5---simply-reciepe-landing-page)
+  - [6. Project6 - Equalizer Landing Page](#6-project6---equalizer-landing-page)
 
 <hr/>
 
@@ -39,5 +40,11 @@
 ## 5. Project5 - Simply Reciepe Landing Page
 
 🔗[Project repo](./05.Project5-SimplyRecipes/)
+
+<hr/>
+
+## 6. Project6 - Equalizer Landing Page
+
+🔗[Project repo](./06.Project6-Equalizer%20Landing%20Page/)
 
 <hr/>
