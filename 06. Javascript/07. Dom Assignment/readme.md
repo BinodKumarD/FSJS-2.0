@@ -8,6 +8,7 @@
   - [2. Project2 - Portfolio Website (About Page)](#2-project2---portfolio-website-about-page)
   - [3. Project3 - Portfolio Website (Contact Page)](#3-project3---portfolio-website-contact-page)
   - [4. Project4 - Clash Of Clan Character Page](#4-project4---clash-of-clan-character-page)
+  - [5. Project5 - Simply Reciepe Landing Page](#5-project5---simply-reciepe-landing-page)
 
 <hr/>
 
@@ -32,5 +33,11 @@
 ## 4. Project4 - Clash Of Clan Character Page
 
 🔗[Project repo](./04.Project4-COC%20character/)
+
+<hr/>
+
+## 5. Project5 - Simply Reciepe Landing Page
+
+🔗[Project repo](./05.Project5-SimplyRecipes/)
 
 <hr/>
