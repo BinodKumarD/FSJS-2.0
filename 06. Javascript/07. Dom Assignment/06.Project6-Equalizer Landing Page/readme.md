@@ -1,16 +1,16 @@
-## Javascript -> <em>07. DOM Assignment</em> -> <em>06. Project6 - Simply Reciepe Landing Page</em> 
+## Javascript -> <em>07. DOM Assignment</em> -> <em>06. Project6 - Equalizer Landing Page</em> 
 
 <hr/>
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [1. Project6 - Simply Reciepe Landing Page](#1-project6---simply-reciepe-landing-page)
+  - [1. Project6 - Equalizer Landing Page](#1-project6---equalizer-landing-page)
     - [i. Task1: Changing the logo of Application](#i-task1-changing-the-logo-of-application)
     - [ii. Task2: Changing the price, footer text color and adding linkedin icon](#ii-task2-changing-the-price-footer-text-color-and-adding-linkedin-icon)
 
 <hr/>
 
-## 1. Project6 - Simply Reciepe Landing Page
+## 1. Project6 - Equalizer Landing Page
 
 ### i. Task1: Changing the logo of Application
 

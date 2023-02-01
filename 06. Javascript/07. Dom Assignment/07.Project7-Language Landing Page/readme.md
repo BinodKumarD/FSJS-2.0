@@ -14,7 +14,7 @@
 
 ### i. Task1: Removing the languages that have 2.0 in their name
 
-![](../00.%20Output/06.Project6-Equalizer%20Landing%20Page/01.Task1.png)
+![](../00.%20Output/07.Project7-Language%20Landing%20Page/01.Task1.png)
 
 **Solution**
 
@@ -40,7 +40,7 @@ arrayMainLanguagesA.forEach((a) =>{
 
 ### ii. Task2: Use JavaScript to write something in the input box and submit the form. This should refresh the page and the languages in the left card should come back.
 
-![](../00.%20Output/06.Project6-Equalizer%20Landing%20Page/02.Task2.png)
+![](../00.%20Output/07.Project7-Language%20Landing%20Page/02.Task2.png)
 
 **Solution**
 
