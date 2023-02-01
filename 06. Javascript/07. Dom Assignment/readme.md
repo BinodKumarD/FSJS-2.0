@@ -10,6 +10,7 @@
   - [4. Project4 - Clash Of Clan Character Page](#4-project4---clash-of-clan-character-page)
   - [5. Project5 - Simply Reciepe Landing Page](#5-project5---simply-reciepe-landing-page)
   - [6. Project6 - Equalizer Landing Page](#6-project6---equalizer-landing-page)
+  - [7. Project7 - Language Landing PAge](#7-project7---language-landing-page)
 
 <hr/>
 
@@ -46,5 +47,11 @@
 ## 6. Project6 - Equalizer Landing Page
 
 🔗[Project repo](./06.Project6-Equalizer%20Landing%20Page/)
+
+<hr/>
+
+## 7. Project7 - Language Landing PAge
+
+🔗[Project repo](./07.Project7-Language%20Landing%20Page/)
 
 <hr/>
