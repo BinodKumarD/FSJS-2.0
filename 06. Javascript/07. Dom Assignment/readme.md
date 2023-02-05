@@ -11,7 +11,7 @@
   - [5. Project5 - Simply Reciepe Landing Page](#5-project5---simply-reciepe-landing-page)
   - [6. Project6 - Equalizer Landing Page](#6-project6---equalizer-landing-page)
   - [7. Project7 - Language Landing PAge](#7-project7---language-landing-page)
-  - [7. Project8 - Frontend Mentor News Page](#7-project8---frontend-mentor-news-page)
+  - [8. Project8 - Frontend Mentor News Page](#8-project8---frontend-mentor-news-page)
 
 <hr/>
 
@@ -57,7 +57,7 @@
 
 <hr/>
 
-## 7. Project8 - Frontend Mentor News Page
+## 8. Project8 - Frontend Mentor News Page
 
 🔗[Project repo](./08.Project8-Frontend%20Mentor%20News%20Page/)
 

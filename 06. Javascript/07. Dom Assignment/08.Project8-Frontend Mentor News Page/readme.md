@@ -6,6 +6,7 @@
 - [Table of Contents](#table-of-contents)
   - [1. Project8 - Frontend Mentor News Page](#1-project8---frontend-mentor-news-page)
     - [i.Task1: Making new Section scrollable](#itask1-making-new-section-scrollable)
+    - [ii.Task2: Navbar toggler](#iitask2-navbar-toggler)
 
 <hr/>
 
@@ -29,6 +30,26 @@ new1.style.border = "3px solid red";
 new1.style.padding ="30px";
 new1.style.overflow = "auto";
 console.log(new1);
+
+```
+
+<hr/>
+
+### ii.Task2: Navbar toggler
+
+```
+/*--------Task2: Navbar toggler-----*/
+
+// Generating the refernce to the navBar toggler
+let navBarToggler = document.querySelector(".navbar-toggler");
+
+// Generating the refernce to the navBar collapse
+let navBarCollapse = document.querySelector(".navbar-collapse");
+
+navBarToggler.addEventListener("click", ()=>{
+    navBarCollapse.classList.toggle("show");
+})
+
 ```
 
 <hr/>
