@@ -14,7 +14,7 @@
 
 ### i.Task1: Making new Section scrollable
 
-![](../00.%20Output/)
+![](../00.%20Output/08.Project8-Frontend%20Mentor%20News%20Page/01.Task1.png)
 
 **Solution**
 
@@ -36,6 +36,10 @@ console.log(new1);
 <hr/>
 
 ### ii.Task2: Navbar toggler
+
+![](../00.%20Output/08.Project8-Frontend%20Mentor%20News%20Page/02.Task2.png)
+
+**Solution**
 
 ```
 /*--------Task2: Navbar toggler-----*/
