@@ -37,22 +37,25 @@ addToCartImg.src = "./images/icon-cart.svg";
 
 ### ii. Task2: Changing the color of the button on hover
 
-![](../00.%20Output/0)
+![](../00.%20Output/09.Project9-Product%20preview%20Card/02.Task2.png)
 
 **Solution**
 
 ```
 /*--------Task2: Changing the color of the button on hover-----*/
 
-// Generating reference to the title of the card and add to cart icon
-let title = document.querySelector(".caption h1");
-let addToCartImg = document.querySelector(".add-to-cart img");
+// Generating reference to the add to cart button
+let addTocartButton = document.querySelector(".add-to-cart");
 
-// Changing the color of the title
-title.style.color = "#DC143C";
+// Changing the background color on mouse over
+addTocartButton.addEventListener("mouseover", ()=>{
+    addTocartButton.style.background = "#DC143C";
+});
 
-// Adding the icon to the button
-addToCartImg.src = "./images/icon-cart.svg";
+// Changing the background color on mouse out
+addTocartButton.addEventListener("mouseout", ()=>{
+    addTocartButton.style.background = "hsl(158, 36%, 37%)";
+});
 
 ```
 
