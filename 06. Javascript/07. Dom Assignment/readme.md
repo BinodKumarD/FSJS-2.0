@@ -12,6 +12,7 @@
   - [6. Project6 - Equalizer Landing Page](#6-project6---equalizer-landing-page)
   - [7. Project7 - Language Landing PAge](#7-project7---language-landing-page)
   - [8. Project8 - Frontend Mentor News Page](#8-project8---frontend-mentor-news-page)
+  - [9. Project9 - Product Preview Card](#9-project9---product-preview-card)
 
 <hr/>
 
@@ -60,5 +61,11 @@
 ## 8. Project8 - Frontend Mentor News Page
 
 🔗[Project repo](./08.Project8-Frontend%20Mentor%20News%20Page/)
+
+<hr/>
+
+## 9. Project9 - Product Preview Card
+
+🔗[Project repo](./09.Project9-Product%20Preview/)
 
 <hr/>
