@@ -36,33 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-nav{
-  list-style-type: none;
-  display: flex;
-  gap: 50px;
-  background-color: #61dafb;
-  padding: 20px;
-}
-
-.container{
-  background: #282c34;
-  color: #fff;
-  padding: 20px;
-
-}   
-
-aside{
-  color: red;
-  background-color: yellow;
-}
-
-.gridContainer{
-  display: grid;
-  grid-template-columns: 3fr 1fr;
-}
-
-.footer{
- color: red;
- background: orange;
-}
